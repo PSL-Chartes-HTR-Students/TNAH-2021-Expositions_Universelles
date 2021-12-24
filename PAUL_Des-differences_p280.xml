@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-12-24T15:17:31.808507+00:00</Created>
+        <LastChange>2021-12-24T15:17:31.808547+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="expouniv1878_desdifferences_wIkdfHn.pdf_page_7.png" imageWidth="2479" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_0eaa2420"  >
+      <Coords points="1274,584 1414,654 1938,666 1938,1096 1903,1134 1938,1157 1926,2815 549,2826 561,713 608,654 1131,654 1157,596 1274,584"/>
+      
+      
+      <TextLine id="eSc_line_88d063ad" >
+        <Coords points="1145,631 1137,593 1233,575 1233,575 1236,575 1236,575 1347,587 1353,625 1353,637 1145,643"/>
+        <Baseline points="1145,631 1353,625"/>
+        <TextEquiv>
+          <Unicode>— 280 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_44e1118e" >
+        <Coords points="608,698 608,646 1932,651 1932,698 1932,710 608,713"/>
+        <Baseline points="608,698 1932,698"/>
+        <TextEquiv>
+          <Unicode>M. LE PRÉSIDENT. Nous pourrons réunir les questions que vous venez de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_56178bcb" >
+        <Coords points="564,745 564,704 1929,704 1929,745 1929,757 564,765"/>
+        <Baseline points="564,745 1929,745"/>
+        <TextEquiv>
+          <Unicode>poser à celles inscrites au programme; mais nous ne devons pas en ce mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3f4ebbee" >
+        <Coords points="564,792 564,751 1929,751 1929,792 1929,809 564,809"/>
+        <Baseline points="564,792 1929,792"/>
+        <TextEquiv>
+          <Unicode>ment élargir encore la question, et je viens vous supplier de vouloir bien vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2b60ab3a" >
+        <Coords points="561,838 558,798 1926,789 1929,838 1929,856 561,856"/>
+        <Baseline points="561,838 1929,838"/>
+        <TextEquiv>
+          <Unicode>renfermer strictement dans le cadre que nous nous sommes fixé. Vous vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c1ac6b32" >
+        <Coords points="561,879 561,836 1923,844 1926,888 1920,900 555,894"/>
+        <Baseline points="561,879 1926,888"/>
+        <TextEquiv>
+          <Unicode>êtes servie du terme de nation et nous sommes d’accord; si vous vous étiez</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4882cfcb" >
+        <Coords points="561,929 561,885 1929,891 1932,935 1929,947 558,947"/>
+        <Baseline points="561,929 1932,935"/>
+        <TextEquiv>
+          <Unicode>servie du mot nationalité, nous ne le serions plus; race et nation, ce n’est</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_18fdcd89" >
+        <Coords points="561,982 555,941 1917,935 1926,976 1923,991 561,1005"/>
+        <Baseline points="561,982 1926,976"/>
+        <TextEquiv>
+          <Unicode>pas la même chose; nation et nationalité, ce n’est pas la même chose non plus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_50704782" >
+        <Coords points="608,1020 608,976 1923,985 1926,1029 1920,1040 602,1037"/>
+        <Baseline points="608,1020 1926,1029"/>
+        <TextEquiv>
+          <Unicode>Dans une discussion à laquelle vous-même avez pris part, dans une de nos</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7bada376" >
+        <Coords points="564,1078 564,1029 1929,1031 1929,1078 1929,1093 564,1093"/>
+        <Baseline points="564,1078 1929,1078"/>
+        <TextEquiv>
+          <Unicode>dernières séances, on a reconnu la nécessité d’établir une distinction entre ces</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7c7f4e71" >
+        <Coords points="561,1122 561,1078 1464,1078 1464,1122 1464,1137 561,1137"/>
+        <Baseline points="561,1122 1464,1122"/>
+        <TextEquiv>
+          <Unicode>deux mots pour la discussion de notre programme.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_82aab706" >
+        <Coords points="608,1198 608,1148 1926,1160 1929,1204 1923,1219 602,1216"/>
+        <Baseline points="608,1198 1929,1204"/>
+        <TextEquiv>
+          <Unicode>Mme Clémence ROYER. Je viens de voir sur le programme quelles sont à peu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eb3dec44" >
+        <Coords points="561,1254 561,1210 1929,1210 1929,1254 1929,1268 561,1268"/>
+        <Baseline points="561,1254 1929,1254"/>
+        <TextEquiv>
+          <Unicode>près les questions posées, et elles peuvent être parfaitement réunies; on peut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1caeb732" >
+        <Coords points="561,1295 561,1245 1923,1257 1926,1300 1920,1312 555,1309"/>
+        <Baseline points="561,1295 1926,1300"/>
+        <TextEquiv>
+          <Unicode>les traiter à un point de vue ou à un autre. Maintenant, pour répondre à l’ob-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a3ba32a2" >
+        <Coords points="561,1341 561,1297 1920,1306 1923,1350 1917,1359 555,1356"/>
+        <Baseline points="561,1341 1923,1350"/>
+        <TextEquiv>
+          <Unicode>servation que vous m’avez fait l’honneur de m’adresser, je vous dirai que je</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_36efaaa2" >
+        <Coords points="558,1391 558,1341 1917,1350 1920,1397 1914,1409 552,1400"/>
+        <Baseline points="558,1391 1920,1397"/>
+        <TextEquiv>
+          <Unicode>trouve cette distinction bien subtile. Que l’on distingue entre nation et état,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_143f5b00" >
+        <Coords points="561,1441 561,1397 1929,1397 1929,1441 1929,1455 561,1455"/>
+        <Baseline points="561,1441 1929,1441"/>
+        <TextEquiv>
+          <Unicode>cela est très important et je le conçois; entre nation et race, je le comprends</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9b4687f3" >
+        <Coords points="561,1487 555,1449 1914,1444 1923,1482 1920,1496 561,1502"/>
+        <Baseline points="561,1487 1923,1482"/>
+        <TextEquiv>
+          <Unicode>encore; que l’on distingue entre nation et peuple, bien que ces deux expres-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d725524e" >
+        <Coords points="561,1534 561,1493 1923,1493 1923,1534 1920,1552 558,1546"/>
+        <Baseline points="561,1534 1923,1534"/>
+        <TextEquiv>
+          <Unicode>sions soient souvent employées l’une pour l’autre, je le comprends encore;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_448ddbf6" >
+        <Coords points="561,1581 561,1540 1923,1540 1923,1581 1920,1596 558,1593"/>
+        <Baseline points="561,1581 1923,1581"/>
+        <TextEquiv>
+          <Unicode>mais distinguer entre nation et nationalité, cela, je le répète, me paraît bien</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_40e3cfab" >
+        <Coords points="561,1628 561,1587 1920,1587 1920,1628 1917,1648 558,1642"/>
+        <Baseline points="561,1628 1920,1628"/>
+        <TextEquiv>
+          <Unicode>subtil; il faudrait, selon moi, lorsqu’on veut exprimer une idée différente,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4e8a998a" >
+        <Coords points="561,1669 561,1628 1923,1634 1926,1675 1920,1686 555,1680"/>
+        <Baseline points="561,1669 1926,1675"/>
+        <TextEquiv>
+          <Unicode>créer des mots de racine différente, sans quoi nous serons exposés à faire ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a23b542b" >
+        <Coords points="561,1718 561,1675 1920,1680 1923,1724 1917,1733 555,1727"/>
+        <Baseline points="561,1718 1923,1724"/>
+        <TextEquiv>
+          <Unicode>que font les Allemands qui, ayant un mot qui signifie telle ou telle chose, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_03106311" >
+        <Coords points="561,1762 561,1718 1920,1727 1923,1771 1917,1783 555,1777"/>
+        <Baseline points="561,1762 1923,1771"/>
+        <TextEquiv>
+          <Unicode>font un verbe d’où dérive un adjectif, puis un autre verbe qui sert à former</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_07987814" >
+        <Coords points="561,1815 561,1774 1923,1774 1923,1815 1920,1830 558,1827"/>
+        <Baseline points="561,1815 1923,1815"/>
+        <TextEquiv>
+          <Unicode>un nouveau substantif, et ainsi de suite inventant toute une série de mots</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1f08a0e2" >
+        <Coords points="561,1859 561,1815 1920,1818 1923,1865 1917,1876 555,1870"/>
+        <Baseline points="561,1859 1923,1865"/>
+        <TextEquiv>
+          <Unicode>dérivés les uns des autres, puis les idées s’appliquant aux mots nouveaux, si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9fae2d9f" >
+        <Coords points="561,1906 561,1853 1923,1868 1926,1911 1920,1923 555,1920"/>
+        <Baseline points="561,1906 1926,1911"/>
+        <TextEquiv>
+          <Unicode>bien qu’il en résulte un tel vague dans les discussions qu’il devient impossible</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_29b38001" >
+        <Coords points="561,1958 561,1911 1330,1911 1330,1958 1327,1973 558,1970"/>
+        <Baseline points="561,1958 1330,1958"/>
+        <TextEquiv>
+          <Unicode>d’y rien reconnaître. (Très bien ! très bien !)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_42974714" >
+        <Coords points="605,2011 605,1967 1929,1970 1929,2011 1929,2028 605,2028"/>
+        <Baseline points="605,2011 1929,2011"/>
+        <TextEquiv>
+          <Unicode>Nationalité vient de nation; laissons à ce mot le même sens; je ne vois au-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_86c2b404" >
+        <Coords points="558,2055 558,2011 1923,2020 1926,2063 1920,2075 552,2066"/>
+        <Baseline points="558,2055 1926,2063"/>
+        <TextEquiv>
+          <Unicode>cune différence entre eux; d’ailleurs, j’aime beaucoup la clarté et je crains par-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_985a5126" >
+        <Coords points="558,2104 558,2063 1213,2063 1213,2104 1210,2122 555,2119"/>
+        <Baseline points="558,2104 1213,2104"/>
+        <TextEquiv>
+          <Unicode>dessus tout la confusion des langues.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c017e136" >
+        <Coords points="602,2154 599,2107 1917,2107 1923,2148 1920,2172 602,2172"/>
+        <Baseline points="602,2154 1923,2148"/>
+        <TextEquiv>
+          <Unicode>Dans l&#39;intérêt même de la langue, laissons donc le même sens à ces deux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b7647be2" >
+        <Coords points="561,2195 561,2151 1920,2154 1923,2201 1920,2215 558,2215"/>
+        <Baseline points="561,2195 1923,2201"/>
+        <TextEquiv>
+          <Unicode>mots, à cela près que nous garderons plus spécialement le mot nationalité</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8aa396b2" >
+        <Coords points="558,2248 558,2207 1926,2207 1926,2248 1926,2262 558,2271"/>
+        <Baseline points="558,2248 1926,2248"/>
+        <TextEquiv>
+          <Unicode>pour les cas où il faudra déterminer des différences politiques, pour l’expres-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0bf2795d" >
+        <Coords points="555,2294 555,2253 1923,2253 1923,2294 1923,2312 555,2312"/>
+        <Baseline points="555,2294 1923,2294"/>
+        <TextEquiv>
+          <Unicode>sion: «le droit de nationalité» par exemple; mais enfin ne donnons pas à des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_287850f3" >
+        <Coords points="555,2338 555,2294 1920,2303 1923,2347 1917,2359 549,2350"/>
+        <Baseline points="555,2338 1923,2347"/>
+        <TextEquiv>
+          <Unicode>mots identiques, de même racine, un sens différent, et si vous avez une autre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2604f87a" >
+        <Coords points="552,2388 552,2341 1075,2347 1075,2388 1075,2405 552,2405"/>
+        <Baseline points="552,2388 1075,2388"/>
+        <TextEquiv>
+          <Unicode>idée, cherchez un autre mot!</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_39896d4d" >
+        <Coords points="596,2432 596,2388 1914,2394 1917,2438 1911,2449 590,2443"/>
+        <Baseline points="596,2432 1917,2438"/>
+        <TextEquiv>
+          <Unicode>Je vous ai dit, pour ma part, quelle est l’idée que je me fais de la nation.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5c314f72" >
+        <Coords points="596,2478 596,2435 1923,2440 1926,2484 1920,2496 590,2490"/>
+        <Baseline points="596,2478 1926,2484"/>
+        <TextEquiv>
+          <Unicode>Je sais qu’un certain nombre de races, de tribus, se sont réunies sous des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0098e0b4" >
+        <Coords points="549,2525 549,2481 1917,2490 1920,2534 1914,2546 543,2537"/>
+        <Baseline points="549,2525 1920,2534"/>
+        <TextEquiv>
+          <Unicode>frontières communes et que ces tribus, bien que différentes d’origine des races,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7761e350" >
+        <Coords points="549,2572 549,2528 1917,2537 1920,2581 1914,2592 543,2584"/>
+        <Baseline points="549,2572 1920,2581"/>
+        <TextEquiv>
+          <Unicode>se sont constituées sur les mêmes lieux et se sont formées par contiguité, parce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d2ff37e4" >
+        <Coords points="552,2619 552,2575 1917,2584 1920,2628 1914,2639 546,2636"/>
+        <Baseline points="552,2619 1920,2628"/>
+        <TextEquiv>
+          <Unicode>qu’elles étaient obligées d’attaquer ou de défendre la même patrie géogra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1b6e6a65" >
+        <Coords points="549,2669 549,2625 1914,2633 1917,2677 1914,2689 546,2689"/>
+        <Baseline points="549,2669 1917,2677"/>
+        <TextEquiv>
+          <Unicode>phique; de ces individualités rapprochées est sortie une nation, et nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fec2b727" >
+        <Coords points="549,2715 549,2671 1914,2677 1917,2721 1911,2733 543,2727"/>
+        <Baseline points="549,2715 1917,2721"/>
+        <TextEquiv>
+          <Unicode>avons donc là un fait scientifique social; nous avons une nation qui n’est pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_28d9c943" >
+        <Coords points="549,2759 549,2715 1911,2727 1914,2768 1908,2780 543,2777"/>
+        <Baseline points="549,2759 1914,2768"/>
+        <TextEquiv>
+          <Unicode>formée d’une race unique, mais de races différentes qui, habitant le même</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_030f75f6" >
+        <Coords points="549,2812 549,2765 1914,2774 1917,2818 1911,2832 543,2826"/>
+        <Baseline points="549,2812 1917,2818"/>
+        <TextEquiv>
+          <Unicode>territoire, ont des intérêts communs pour arriver, par suite de cette commu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_aa18ad3d"  >
+      <Coords points="970,3391 1482,3391 1517,3423 970,3434 970,3391"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+    
+    
+      <TextLine id="eSc_line_cc71c2d4" >
+        <Coords points="967,3429 967,3385 1511,3385 1511,3429 1511,3449 967,3449"/>
+        <Baseline points="967,3429 1511,3429"/>
+        <TextEquiv>
+          <Unicode>Droits resenvés eu Cnam et à ses partenaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
