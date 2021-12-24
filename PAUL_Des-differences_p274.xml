@@ -27,7 +27,7 @@
         <Coords points="599,692 599,640 1914,654 1914,701 1908,713 593,707"/>
         <Baseline points="599,692 1914,701"/>
         <TextEquiv>
-          <Unicode>1M. EE Paésipeyr. En conséquence, la parole est à M. le De Gaëtan Delaunay,</Unicode>
+          <Unicode>M. LE PRÉSIDENT. En conséquence, la parole est à M. le De Gaëtan Delaunay,</Unicode>
         </TextEquiv>
       </TextLine>
 
@@ -37,7 +37,7 @@
         <Coords points="549,742 549,695 1531,701 1534,748 1528,760 543,754"/>
         <Baseline points="549,742 1534,748"/>
         <TextEquiv>
-          <Unicode>1qui est inscrit le premier pour parler sur cette question.</Unicode>
+          <Unicode>qui est inscrit le premier pour parler sur cette question.</Unicode>
         </TextEquiv>
       </TextLine>
 
