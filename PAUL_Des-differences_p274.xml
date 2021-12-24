@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-12-24T11:21:05.811302+00:00</Created>
+        <LastChange>2021-12-24T11:21:05.811353+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="expouniv1878_desdifferences_wIkdfHn.pdf_page_1.png" imageWidth="2479" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_b23e3607"  >
+      <Coords points="1204,584 1461,654 1903,654 1926,710 1540,768 549,757 596,654 1061,643 1204,584"/>
+      
+      
+      <TextLine id="eSc_line_9066b1e1" >
+        <Coords points="1131,631 1122,593 1224,575 1224,575 1227,575 1227,575 1338,587 1344,625 1344,634 1131,640"/>
+        <Baseline points="1131,631 1344,625"/>
+        <TextEquiv>
+          <Unicode>— 274 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_60e102c6" >
+        <Coords points="599,692 599,640 1914,654 1914,701 1908,713 593,707"/>
+        <Baseline points="599,692 1914,701"/>
+        <TextEquiv>
+          <Unicode>1M. EE Paésipeyr. En conséquence, la parole est à M. le De Gaëtan Delaunay,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_378e693c" >
+        <Coords points="549,742 549,695 1531,701 1534,748 1528,760 543,754"/>
+        <Baseline points="549,742 1534,748"/>
+        <TextEquiv>
+          <Unicode>1qui est inscrit le premier pour parler sur cette question.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_c3895724"  >
+      <Coords points="912,818 1599,818 1660,888 1903,912 1938,1040 1926,2826 561,2815 549,1040 596,888 862,877 912,818"/>
+      
+      
+      <TextLine id="eSc_line_6b32ae14" >
+        <Coords points="885,865 885,815 1596,815 1596,865 1596,882 885,882"/>
+        <Baseline points="885,865 1596,865"/>
+        <TextEquiv>
+          <Unicode> DES DIFFÉRENCES QUI EXISTENT</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8cde2c19" >
+        <Coords points="584,938 584,891 1882,891 1882,938 1882,958 584,958"/>
+        <Baseline points="584,938 1882,938"/>
+        <TextEquiv>
+          <Unicode>ENTRE LA RACE, LE PEUPLE, LA NATION, LA NATIONALITÉ ET L&#39;ÉTAT.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_00616ac9" >
+        <Coords points="596,1014 596,964 1917,973 1920,1020 1914,1031 590,1029"/>
+        <Baseline points="596,1014 1920,1020"/>
+        <TextEquiv>
+          <Unicode>M. le Dr Gaëtan Delaunay. Selon moi, Messieurs, la race est biologique; la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7adedbff" >
+        <Coords points="549,1061 549,1017 1154,1023 1154,1067 1148,1078 543,1075"/>
+        <Baseline points="549,1061 1154,1067"/>
+        <TextEquiv>
+          <Unicode>nation et l’État sont sociologiques.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c8298cea" >
+        <Coords points="596,1113 596,1064 1920,1069 1920,1113 1920,1128 596,1128"/>
+        <Baseline points="596,1113 1920,1113"/>
+        <TextEquiv>
+          <Unicode>Il y a lieu d’établir une distinction entre les mots race et société. Nous voyons</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cf0bf275" >
+        <Coords points="549,1157 549,1113 1914,1119 1917,1163 1911,1175 543,1169"/>
+        <Baseline points="549,1157 1917,1163"/>
+        <TextEquiv>
+          <Unicode>des races dans les règnes végétal et animal. Il y a de nombreuses espèces et de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5b8a962b" >
+        <Coords points="549,1207 543,1166 1911,1163 1920,1204 1917,1219 549,1221"/>
+        <Baseline points="549,1207 1920,1204"/>
+        <TextEquiv>
+          <Unicode>nombreuses races de plantes et d’animaux; mais certaines de ces plantes, cer-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5fd575a9" >
+        <Coords points="549,1254 549,1213 1920,1213 1920,1254 1920,1271 549,1271"/>
+        <Baseline points="549,1254 1920,1254"/>
+        <TextEquiv>
+          <Unicode>tains de ces animaux seulement vivent en société; car, si nous nous occupons</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4032c445" >
+        <Coords points="549,1300 549,1259 1920,1259 1920,1300 1920,1318 549,1318"/>
+        <Baseline points="549,1300 1920,1300"/>
+        <TextEquiv>
+          <Unicode>des sociétés humaines spécialement, il n’en est pas moins vrai qu’au point de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eb0e958d" >
+        <Coords points="552,1344 552,1300 1917,1306 1920,1350 1914,1362 546,1356"/>
+        <Baseline points="552,1344 1920,1350"/>
+        <TextEquiv>
+          <Unicode>vue de l’histoire naturelle, dont parlait M. Madier de Montjau, il existe, dans</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_14cf678c" >
+        <Coords points="552,1391 552,1341 1917,1353 1920,1397 1917,1409 549,1409"/>
+        <Baseline points="552,1391 1920,1397"/>
+        <TextEquiv>
+          <Unicode>le règne animal et dans le règne végétal, des sociétés dont l’étude est très</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5d14a611" >
+        <Coords points="549,1438 549,1394 1920,1403 1923,1447 1917,1458 543,1452"/>
+        <Baseline points="549,1438 1923,1447"/>
+        <TextEquiv>
+          <Unicode>intéressante et devrait, selon moi, former la base de l’étude des sociétés</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4dce16f9" >
+        <Coords points="549,1490 543,1447 733,1444 742,1485 742,1496 549,1502"/>
+        <Baseline points="549,1490 742,1485"/>
+        <TextEquiv>
+          <Unicode>humaines.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ff3f4bb" >
+        <Coords points="596,1531 596,1487 1917,1487 1920,1537 1914,1549 590,1543"/>
+        <Baseline points="596,1531 1920,1537"/>
+        <TextEquiv>
+          <Unicode>Les hommes vivent en société, je le veux bien, mais si je vous disais qu’il</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f56b53ea" >
+        <Coords points="552,1578 552,1534 1911,1540 1914,1584 1908,1601 546,1599"/>
+        <Baseline points="552,1578 1914,1584"/>
+        <TextEquiv>
+          <Unicode>y a beaucoup plus de plantes et d’animaux vivant en société que d’hommes,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b6b7aa26" >
+        <Coords points="555,1631 555,1584 1920,1587 1923,1634 1917,1642 549,1639"/>
+        <Baseline points="555,1631 1923,1634"/>
+        <TextEquiv>
+          <Unicode>vous comprendriez que cette étude de la sociologie végétale et animale devrait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6688d0b1" >
+        <Coords points="552,1677 546,1637 1230,1634 1239,1675 1236,1689 552,1698"/>
+        <Baseline points="552,1677 1239,1675"/>
+        <TextEquiv>
+          <Unicode>précéder l’étude des sociétés humaines.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b3644528" >
+        <Coords points="599,1721 599,1675 1926,1680 1926,1727 1920,1739 593,1733"/>
+        <Baseline points="599,1721 1926,1727"/>
+        <TextEquiv>
+          <Unicode>Quant à présent, j’insiste sur cette distinction qu’il y a lieu d’établir entre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_10639c25" >
+        <Coords points="552,1771 552,1724 964,1727 964,1771 964,1786 552,1786"/>
+        <Baseline points="552,1771 964,1771"/>
+        <TextEquiv>
+          <Unicode>les races et les sociétés.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_48bed103" >
+        <Coords points="596,1818 596,1771 1923,1774 1926,1821 1920,1832 590,1830"/>
+        <Baseline points="596,1818 1926,1821"/>
+        <TextEquiv>
+          <Unicode>Il y a des animaux, des végétaux qui vivent individuellement en dehors de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_96323444" >
+        <Coords points="549,1865 549,1824 780,1824 780,1865 780,1879 549,1879"/>
+        <Baseline points="549,1865 780,1865"/>
+        <TextEquiv>
+          <Unicode>tout groupe.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ecd2daea" >
+        <Coords points="596,1908 596,1865 1929,1870 1929,1914 1923,1926 590,1920"/>
+        <Baseline points="596,1908 1929,1914"/>
+        <TextEquiv>
+          <Unicode>Certains de ces êtres, au contraire, sont groupés, forment des sociétés, et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_41dd49a8" >
+        <Coords points="552,1952 552,1911 1920,1920 1923,1961 1917,1976 546,1967"/>
+        <Baseline points="552,1952 1923,1961"/>
+        <TextEquiv>
+          <Unicode>alors nous nous trouvons en présence d’une étude nouvelle, celle qui s’applique</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6f2c176a" >
+        <Coords points="552,1999 552,1955 1923,1970 1926,2011 1920,2025 546,2017"/>
+        <Baseline points="552,1999 1926,2011"/>
+        <TextEquiv>
+          <Unicode>à ces groupes d’êtres organisés, qu’il s’agisse de végétaux ou qu’il s’agisse d’a-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d0ef4e32" >
+        <Coords points="552,2055 546,2017 689,2011 698,2049 695,2072 552,2072"/>
+        <Baseline points="552,2055 698,2049"/>
+        <TextEquiv>
+          <Unicode>nimaux.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_47b15701" >
+        <Coords points="596,2096 596,2052 1923,2060 1926,2104 1920,2116 590,2107"/>
+        <Baseline points="596,2096 1926,2104"/>
+        <TextEquiv>
+          <Unicode>Mais l’étude la plus intéressante pour nous est évidemment celle qui s’oc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_09aa8eb0" >
+        <Coords points="549,2148 540,2104 1052,2098 1061,2142 1058,2157 549,2163"/>
+        <Baseline points="549,2148 1061,2142"/>
+        <TextEquiv>
+          <Unicode>cupe des groupes d’hommes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2fa7cc27" >
+        <Coords points="596,2189 596,2148 1923,2157 1926,2198 1920,2210 590,2201"/>
+        <Baseline points="596,2189 1926,2198"/>
+        <TextEquiv>
+          <Unicode>Eh bien! parmi ces groupes, je crois qu’il y en a d’autres que la nation et</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_69f8c2eb" >
+        <Coords points="549,2239 549,2189 1917,2195 1920,2248 1914,2256 543,2250"/>
+        <Baseline points="549,2239 1920,2248"/>
+        <TextEquiv>
+          <Unicode>l&#39;État, je crois qu’il y en a qui passent avant eux, qui en sont la base et qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e95b1399" >
+        <Coords points="552,2286 552,2242 1920,2248 1923,2294 1917,2306 546,2297"/>
+        <Baseline points="552,2286 1923,2294"/>
+        <TextEquiv>
+          <Unicode>sont compris dans ceux-là. Ainsi, quand les êtres se groupent, c’est d’abord</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9fd2e35f" >
+        <Coords points="552,2329 552,2286 1923,2300 1926,2344 1920,2356 546,2350"/>
+        <Baseline points="552,2329 1926,2344"/>
+        <TextEquiv>
+          <Unicode>pour former la famille; la famille est le premier groupe qu’on rencontre,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fc2ad652" >
+        <Coords points="552,2385 546,2344 1143,2335 1151,2376 1145,2400 549,2397"/>
+        <Baseline points="552,2385 1151,2376"/>
+        <TextEquiv>
+          <Unicode>c’est la base de toutes les sociétés.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b54d422a" >
+        <Coords points="599,2423 599,2376 1923,2391 1926,2435 1920,2446 593,2438"/>
+        <Baseline points="599,2423 1926,2435"/>
+        <TextEquiv>
+          <Unicode>Les familles se groupent ensuite pour former ce qu’on appelle la gens, la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_01aa9c4d" >
+        <Coords points="552,2473 552,2432 1923,2438 1926,2478 1920,2493 546,2487"/>
+        <Baseline points="552,2473 1926,2478"/>
+        <TextEquiv>
+          <Unicode>maison, et ces maisons se groupent elles-mêmes pour former une tribu; ces</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_057cef9a" >
+        <Coords points="555,2522 555,2476 1923,2484 1926,2528 1920,2540 549,2534"/>
+        <Baseline points="555,2522 1926,2528"/>
+        <TextEquiv>
+          <Unicode>tribus, lorsqu’elles viennent à se grouper, à s’associer entre elles, forment ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cdf9f395" >
+        <Coords points="558,2572 558,2531 1926,2531 1926,2572 1926,2587 558,2590"/>
+        <Baseline points="558,2572 1926,2572"/>
+        <TextEquiv>
+          <Unicode>qu’on appelle la nation. Cette nation est plus ou moins importante; elle com-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a62f2748" >
+        <Coords points="558,2616 558,2569 1929,2578 1929,2625 1926,2639 555,2639"/>
+        <Baseline points="558,2616 1929,2625"/>
+        <TextEquiv>
+          <Unicode>prend tantôt des milliers, tantôt des millions d’individus; je tenais à bien</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4b7cf04a" >
+        <Coords points="558,2669 552,2628 1259,2622 1268,2663 1265,2674 558,2680"/>
+        <Baseline points="558,2669 1268,2663"/>
+        <TextEquiv>
+          <Unicode>marquer les termes de ces groupements.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_35ce7908" >
+        <Coords points="602,2712 602,2669 1236,2669 1236,2712 1236,2730 602,2730"/>
+        <Baseline points="602,2712 1236,2712"/>
+        <TextEquiv>
+          <Unicode>Considérons les sociétés inférieures.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e0ca7be9" >
+        <Coords points="602,2762 599,2712 1920,2715 1926,2756 1923,2774 602,2777"/>
+        <Baseline points="602,2762 1926,2756"/>
+        <TextEquiv>
+          <Unicode>La tribu des Mincopies est formée d’environ 80 pérsonnes. Eh bien! tous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b2092788" >
+        <Coords points="558,2806 558,2759 1923,2768 1926,2815 1920,2829 552,2821"/>
+        <Baseline points="558,2806 1926,2815"/>
+        <TextEquiv>
+          <Unicode>ces individus se ressemblent; de même les animaux inférieurs sont composés</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_160e4c46"  >
+      <Coords points="970,3391 1505,3391 1517,3434 970,3434 970,3391"/>
+      
+      
+      <TextLine id="eSc_line_fd31728d" >
+        <Coords points="967,3423 967,3379 1511,3385 1514,3429 1508,3443 961,3440"/>
+        <Baseline points="967,3423 1514,3429"/>
+        <TextEquiv>
+          <Unicode>Drois reservés au Cnam et à ses partenaires.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
