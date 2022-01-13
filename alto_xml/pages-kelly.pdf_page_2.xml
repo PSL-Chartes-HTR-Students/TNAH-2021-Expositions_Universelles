@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pages-kelly.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1389"
+                   HEIGHT="2148"
+                   ID="eSc_textblock_27b755f9"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1181 596 1342 596 1380 654 1938 666 1938 756 1345 768 1389 908 1295 923 1938 946 1915 2744 549 2732 549 1017 620 935 1061 935 982 888 1017 794 1076 780 561 756 561 666 1143 654 1087 631 1181 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a03dfc28"
+                    
+                    BASELINE="1146 634 1354 634" 
+                    HPOS="1146"
+                    VPOS="596"
+                    WIDTH="208"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="1146 634 1146 596 1354 596 1354 634 1354 645 1146 645"/></Shape>
+	    <String CONTENT="— 164 —"
+                    HPOS="1146"
+                    VPOS="596"
+                    WIDTH="208"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af9562d1"
+                    
+                    BASELINE="561 695 1933 695" 
+                    HPOS="561"
+                    VPOS="651"
+                    WIDTH="1372"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 695 561 651 1933 651 1933 695 1933 716 561 716"/></Shape>
+	    <String CONTENT="aux habitants des plaines fertiles qu’arrosent les eaux errantes du Céphise et"
+                    HPOS="561"
+                    VPOS="651"
+                    WIDTH="1372"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11e0cff1"
+                    
+                    BASELINE="561 742 1927 748" 
+                    HPOS="555"
+                    VPOS="698"
+                    WIDTH="1372"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 742 561 698 1924 704 1927 748 1921 762 555 759"/></Shape>
+	    <String CONTENT="que parcourent volontiers le chœur des Muses et Aphrodite à la ceinture dorée:"
+                    HPOS="555"
+                    VPOS="698"
+                    WIDTH="1372"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c21b8dc6"
+                    
+                    BASELINE="1052 818 1333 824" 
+                    HPOS="1046"
+                    VPOS="789"
+                    WIDTH="287"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="1052 818 1051 789 1332 791 1333 824 1327 835 1046 832"/></Shape>
+	    <String CONTENT="οὐδὲ Μουσᾶν χοροί"
+                    HPOS="1046"
+                    VPOS="789"
+                    WIDTH="287"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a32bffd5"
+                    
+                    BASELINE="997 856 1038 858 1049 856 1368 859" 
+                    HPOS="996"
+                    VPOS="829"
+                    WIDTH="378"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="996 829 1006 829 1374 831 1365 856 1359 870 996 866"/></Shape>
+	    <String CONTENT="Nιν ἀπεστύγησαν, οὐδὲ y᾽"
+                    HPOS="996"
+                    VPOS="829"
+                    WIDTH="378"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e19921cf"
+                    
+                    BASELINE="1001 895 1021 897 1056 897 1374 894" 
+                    HPOS="994"
+                    VPOS="856"
+                    WIDTH="377"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1001 894 994 856 1367 870 1371 891 1368 911 1004 913"/></Shape>
+	    <String CONTENT="Ἀ χρυσάνιος Ἀφροδίτα (1)."
+                    HPOS="994"
+                    VPOS="856"
+                    WIDTH="377"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ec1c6dc"
+                    
+                    BASELINE="608 973 1918 984" 
+                    HPOS="602"
+                    VPOS="926"
+                    WIDTH="1316"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="608 973 608 926 1918 926 1918 984 1912 999 602 984"/></Shape>
+	    <String CONTENT="Cependant ces considérations n’ont pas empêché M. Brasseur (de Bourbourg)"
+                    HPOS="602"
+                    VPOS="926"
+                    WIDTH="1316"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c34b8419"
+                    
+                    BASELINE="561 1025 1924 1025" 
+                    HPOS="561"
+                    VPOS="981"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1025 561 981 1924 984 1924 1025 1924 1043 561 1043"/></Shape>
+	    <String CONTENT="d’attribuer aux anciens Américains la qualité de civilisés, de nous donner leur"
+                    HPOS="561"
+                    VPOS="981"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0a7d39dd"
+                    
+                    BASELINE="561 1072 1927 1072" 
+                    HPOS="561"
+                    VPOS="1022"
+                    WIDTH="1366"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="561 1072 561 1022 1927 1031 1927 1072 1927 1090 561 1090"/></Shape>
+	    <String CONTENT="histoire sous le titre : « Histoire des nations civilisées du Merique et de l&#39;Amérique"
+                    HPOS="561"
+                    VPOS="1022"
+                    WIDTH="1366"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b28ee56e"
+                    
+                    BASELINE="561 1119 1927 1119" 
+                    HPOS="561"
+                    VPOS="1078"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1119 561 1078 1927 1078 1927 1119 1927 1136 561 1136"/></Shape>
+	    <String CONTENT="centrale. » Mais civilisé, suivant l’Académie française, qui passe aux yeux de plu-"
+                    HPOS="561"
+                    VPOS="1078"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4de965f8"
+                    
+                    BASELINE="561 1163 1927 1169" 
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1163 561 1119 1924 1125 1927 1169 1921 1180 555 1177"/></Shape>
+	    <String CONTENT="sieurs pour la représentante immortelle de la civilisation, signifie avoir les"
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38ff26fe"
+                    
+                    BASELINE="561 1209 1927 1215" 
+                    HPOS="555"
+                    VPOS="1166"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1209 561 1166 1924 1171 1927 1215 1921 1227 555 1224"/></Shape>
+	    <String CONTENT="mœurs polies, ce qui suppose un état de développement moral fort élevé. Certes"
+                    HPOS="555"
+                    VPOS="1166"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_73843e36"
+                    
+                    BASELINE="561 1262 1924 1262" 
+                    HPOS="561"
+                    VPOS="1218"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1262 561 1218 1924 1218 1924 1262 1924 1280 561 1280"/></Shape>
+	    <String CONTENT="un peuple peut être civilisé sans avoir précisément la délicatesse de sentiments,"
+                    HPOS="561"
+                    VPOS="1218"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_293a8a59"
+                    
+                    BASELINE="558 1312 1927 1306" 
+                    HPOS="552"
+                    VPOS="1256"
+                    WIDTH="1375"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 1312 552 1256 1921 1262 1927 1306 1924 1318 558 1323"/></Shape>
+	    <String CONTENT="la finesse du goût, l’élégance du langage et la simplicité des manières que"
+                    HPOS="552"
+                    VPOS="1256"
+                    WIDTH="1375"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d317ff6"
+                    
+                    BASELINE="561 1356 1927 1356" 
+                    HPOS="561"
+                    VPOS="1315"
+                    WIDTH="1366"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1356 561 1315 1927 1315 1927 1356 1927 1370 561 1376"/></Shape>
+	    <String CONTENT="possédèrent les créateurs et les soutiens de l’atticisme, de ce je ne sais quoi de"
+                    HPOS="561"
+                    VPOS="1315"
+                    WIDTH="1366"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6522afe1"
+                    
+                    BASELINE="558 1402 1927 1402" 
+                    HPOS="558"
+                    VPOS="1361"
+                    WIDTH="1369"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1402 558 1361 1927 1361 1927 1402 1927 1420 558 1420"/></Shape>
+	    <String CONTENT="naturel qui est l’esthétique dans sa forme la plus exquise; toutes les nations ne"
+                    HPOS="558"
+                    VPOS="1361"
+                    WIDTH="1369"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9a3524d"
+                    
+                    BASELINE="561 1452 1927 1452" 
+                    HPOS="561"
+                    VPOS="1402"
+                    WIDTH="1366"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="561 1452 561 1402 1927 1408 1927 1452 1927 1464 561 1470"/></Shape>
+	    <String CONTENT="peuvent pas avoir une poésie, une architecture, une statuaire, une peinture,"
+                    HPOS="561"
+                    VPOS="1402"
+                    WIDTH="1366"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4bd4d57b"
+                    
+                    BASELINE="561 1496 1921 1496" 
+                    HPOS="561"
+                    VPOS="1455"
+                    WIDTH="1360"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1496 561 1455 1921 1455 1921 1496 1921 1513 561 1513"/></Shape>
+	    <String CONTENT="un théâtre, une littérature et une philosophie comme Athènes a su se les ap-"
+                    HPOS="561"
+                    VPOS="1455"
+                    WIDTH="1360"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4067618b"
+                    
+                    BASELINE="561 1546 1927 1540" 
+                    HPOS="555"
+                    VPOS="1499"
+                    WIDTH="1372"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 1546 555 1505 1918 1499 1927 1540 1924 1554 561 1569"/></Shape>
+	    <String CONTENT="proprier et les garder dans cet incomparable siècle qui va de Socrate à Dé-"
+                    HPOS="555"
+                    VPOS="1499"
+                    WIDTH="1372"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4677588b"
+                    
+                    BASELINE="561 1586 1927 1592" 
+                    HPOS="555"
+                    VPOS="1546"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1586 561 1546 1924 1551 1927 1592 1921 1607 555 1604"/></Shape>
+	    <String CONTENT="mosthène; mais ce qui est certain, c’est qu’aucun état social digne de l&#39;épithète"
+                    HPOS="555"
+                    VPOS="1546"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efb1d1d6"
+                    
+                    BASELINE="558 1639 1927 1639" 
+                    HPOS="558"
+                    VPOS="1598"
+                    WIDTH="1369"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="558 1639 558 1598 1927 1598 1927 1639 1927 1654 558 1654"/></Shape>
+	    <String CONTENT="de civilisé n’est compatible avec des mœurs qui accusent une barbarie allant"
+                    HPOS="558"
+                    VPOS="1598"
+                    WIDTH="1369"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c34fa5b"
+                    
+                    BASELINE="555 1686 1924 1686" 
+                    HPOS="555"
+                    VPOS="1639"
+                    WIDTH="1369"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="555 1686 555 1639 1924 1642 1924 1686 1924 1700 555 1706"/></Shape>
+	    <String CONTENT="jusqu’au cannibalisme. Or, j’ouvre l’ouvrage de M. Brasseur et je tombe sur deux"
+                    HPOS="555"
+                    VPOS="1639"
+                    WIDTH="1369"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7c2f9ed"
+                    
+                    BASELINE="558 1730 1927 1735" 
+                    HPOS="552"
+                    VPOS="1686"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 1730 558 1686 1924 1692 1927 1735 1921 1747 552 1744"/></Shape>
+	    <String CONTENT="longs chapitres, le deuxième et le troisième du livre XII, contenant nombre de"
+                    HPOS="552"
+                    VPOS="1686"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ba4a553"
+                    
+                    BASELINE="561 1785 1181 1779" 
+                    HPOS="555"
+                    VPOS="1735"
+                    WIDTH="626"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="561 1785 555 1738 1172 1735 1181 1779 1178 1791 561 1806"/></Shape>
+	    <String CONTENT="passages dans le genre de celui-ci :"
+                    HPOS="555"
+                    VPOS="1735"
+                    WIDTH="626"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bb5a3b9"
+                    
+                    BASELINE="596 1852 1921 1858" 
+                    HPOS="590"
+                    VPOS="1806"
+                    WIDTH="1331"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="596 1852 596 1806 1918 1814 1921 1858 1915 1873 590 1867"/></Shape>
+	    <String CONTENT="Il y avait un mois consacré à Tlaloc, génie des eaux. On achetait, pour lui sacrifier,"
+                    HPOS="590"
+                    VPOS="1806"
+                    WIDTH="1331"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfab250a"
+                    
+                    BASELINE="558 1896 1921 1899" 
+                    HPOS="552"
+                    VPOS="1852"
+                    WIDTH="1369"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1896 558 1852 1918 1858 1921 1899 1915 1911 552 1908"/></Shape>
+	    <String CONTENT="de tout petits enfants, que leurs pères offraient souvent d’eux-mêmes. On portait ces"
+                    HPOS="552"
+                    VPOS="1852"
+                    WIDTH="1369"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_276d4059"
+                    
+                    BASELINE="555 1943 1924 1943" 
+                    HPOS="555"
+                    VPOS="1902"
+                    WIDTH="1369"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="555 1943 555 1902 1924 1902 1924 1943 1924 1958 555 1958"/></Shape>
+	    <String CONTENT="enfants au sommet des montagnes, et là on les immolait. Le prêtre leur ouvrait la poi-"
+                    HPOS="555"
+                    VPOS="1902"
+                    WIDTH="1369"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99406a5f"
+                    
+                    BASELINE="555 1981 1927 1987" 
+                    HPOS="549"
+                    VPOS="1937"
+                    WIDTH="1378"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1981 555 1937 1924 1946 1927 1987 1921 1998 549 1993"/></Shape>
+	    <String CONTENT="trine et en arrachait le cœur... et leurs petits corps étaient servis ensuite, dans un festin"
+                    HPOS="549"
+                    VPOS="1937"
+                    WIDTH="1378"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b0688277"
+                    
+                    BASELINE="558 2031 1245 2025" 
+                    HPOS="552"
+                    VPOS="1984"
+                    WIDTH="693"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2031 552 1990 1237 1984 1245 2025 1242 2042 558 2045"/></Shape>
+	    <String CONTENT="de cannibales, aux prêtres et à la noblesse."
+                    HPOS="552"
+                    VPOS="1984"
+                    WIDTH="693"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_51837046"
+                    
+                    BASELINE="599 2107 1921 2098" 
+                    HPOS="596"
+                    VPOS="2045"
+                    WIDTH="1325"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="599 2107 596 2063 1471 2063 1479 2060 1544 2045 1544 2045 1544 2045 1547 2045 1915 2060 1921 2098 1918 2112 599 2121"/></Shape>
+	    <String CONTENT="Cela va ainsi tout le long de l’année, car chaque mois est consacré à une"
+                    HPOS="596"
+                    VPOS="2045"
+                    WIDTH="1325"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c95dd463"
+                    
+                    BASELINE="552 2153 1921 2153" 
+                    HPOS="552"
+                    VPOS="2112"
+                    WIDTH="1369"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2153 552 2112 1921 2112 1921 2153 1921 2171 552 2171"/></Shape>
+	    <String CONTENT="divinité sanguinaire, qu’il faut satisfaire le plus souvent avec d’incroyables"
+                    HPOS="552"
+                    VPOS="2112"
+                    WIDTH="1369"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53859ada"
+                    
+                    BASELINE="552 2203 1921 2197" 
+                    HPOS="546"
+                    VPOS="2156"
+                    WIDTH="1375"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 2203 546 2162 1912 2156 1921 2197 1918 2212 552 2218"/></Shape>
+	    <String CONTENT="raffinements de cruauté. Ce ne sont que ventres ouverts, entrailles et cœurs"
+                    HPOS="546"
+                    VPOS="2156"
+                    WIDTH="1375"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e04ecd8"
+                    
+                    BASELINE="552 2250 1921 2244" 
+                    HPOS="546"
+                    VPOS="2203"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2250 546 2209 1912 2203 1921 2244 1918 2259 552 2264"/></Shape>
+	    <String CONTENT="arrachés, ruisseaux de sang du haut des degrés des téocallis et repas de chair-"
+                    HPOS="546"
+                    VPOS="2203"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_11e72355"
+                    
+                    BASELINE="555 2297 1921 2291" 
+                    HPOS="552"
+                    VPOS="2247"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 2297 552 2247 1915 2253 1921 2291 1918 2305 555 2311"/></Shape>
+	    <String CONTENT="humaine, crue ou rôtie, à la face du soleil. L’épouvante vous saisit aux che-"
+                    HPOS="552"
+                    VPOS="2247"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66394367"
+                    
+                    BASELINE="558 2340 1924 2346" 
+                    HPOS="552"
+                    VPOS="2297"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2340 558 2297 1921 2302 1924 2346 1918 2358 552 2352"/></Shape>
+	    <String CONTENT="veux et à la gorge, et ce n’est que pour arriver à un autre sujet que je me dé-"
+                    HPOS="552"
+                    VPOS="2297"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f20af56d"
+                    
+                    BASELINE="555 2390 1257 2387" 
+                    HPOS="549"
+                    VPOS="2349"
+                    WIDTH="708"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 2390 549 2352 1248 2349 1257 2387 1254 2408 555 2408"/></Shape>
+	    <String CONTENT="cide à citer encore le passage que voici:"
+                    HPOS="549"
+                    VPOS="2349"
+                    WIDTH="708"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5348d9f3"
+                    
+                    BASELINE="596 2466 1921 2460" 
+                    HPOS="593"
+                    VPOS="2419"
+                    WIDTH="1328"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="596 2466 593 2419 1915 2422 1921 2460 1915 2484 593 2481"/></Shape>
+	    <String CONTENT="Il y avait chez les Mexicains un mois qui portait le nom de l’écorchement humain,"
+                    HPOS="593"
+                    VPOS="2419"
+                    WIDTH="1328"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f34add01"
+                    
+                    BASELINE="552 2504 1921 2510" 
+                    HPOS="546"
+                    VPOS="2463"
+                    WIDTH="1375"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2504 552 2463 1918 2469 1921 2510 1915 2522 546 2516"/></Shape>
+	    <String CONTENT="tlacaxipehnaliztli. Son patron était Xipe-Totec, notre seigneur le chauve ou l’écorché."
+                    HPOS="546"
+                    VPOS="2463"
+                    WIDTH="1375"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_94a0a794"
+                    
+                    BASELINE="555 2551 1924 2551" 
+                    HPOS="555"
+                    VPOS="2507"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2551 555 2507 1924 2510 1924 2551 1924 2568 555 2568"/></Shape>
+	    <String CONTENT="Cette divinité inspirait à tous une grande horreur ; on lui attribuait le pouvoir de don-"
+                    HPOS="555"
+                    VPOS="2507"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_749b9003"
+                    
+                    BASELINE="552 2595 1918 2589" 
+                    HPOS="546"
+                    VPOS="2551"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 2595 546 2557 1909 2551 1918 2589 1915 2603 552 2609"/></Shape>
+	    <String CONTENT="ner aux hommes les maladies qui causent le plus de dégoût ; aussi lui offrait-on jour-"
+                    HPOS="546"
+                    VPOS="2551"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d34386c2"
+                    
+                    BASELINE="555 2636 1921 2639" 
+                    HPOS="552"
+                    VPOS="2592"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2636 555 2592 1918 2595 1921 2639 1918 2653 552 2653"/></Shape>
+	    <String CONTENT="nellement des sacrifices. Les victimes conduites à ses autels étaient enlevées par les che-"
+                    HPOS="552"
+                    VPOS="2592"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2ddef44"
+                    
+                    BASELINE="558 2677 1921 2682" 
+                    HPOS="552"
+                    VPOS="2633"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2677 558 2633 1918 2639 1921 2682 1915 2694 552 2688"/></Shape>
+	    <String CONTENT="veux jusqu’à la terrasse supérieure du temple, et là les prêtres les écorchaient pour se"
+                    HPOS="552"
+                    VPOS="2633"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49af1325"
+                    
+                    BASELINE="552 2726 1924 2726" 
+                    HPOS="552"
+                    VPOS="2682"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 2726 552 2682 1924 2682 1924 2726 1924 2744 552 2744"/></Shape>
+	    <String CONTENT="revêtir ensuite de leur peau sanglante. La plupart des victimes immolées à cette occa-"
+                    HPOS="552"
+                    VPOS="2682"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="596"
+                   VPOS="2782"
+                   WIDTH="559"
+                   HEIGHT="55"
+                   ID="eSc_textblock_1531039a"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="643 2782 1108 2782 1155 2814 608 2837 596 2793 643 2782"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_95e7f2ee"
+                    
+                    BASELINE="596 2820 1143 2828" 
+                    HPOS="590"
+                    VPOS="2773"
+                    WIDTH="553"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="596 2820 596 2773 1140 2785 1143 2828 1137 2843 590 2834"/></Shape>
+	    <String CONTENT="(1) Sophocle, Œdipe  à Colone, v. 691."
+                    HPOS="590"
+                    VPOS="2773"
+                    WIDTH="553"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3390"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_2ed14a41"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3390 1506 3390 1517 3433 970 3433 970 3390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f9efe2d7"
+                    
+                    BASELINE="968 3422 1514 3428" 
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="968 3422 968 3381 1511 3387 1514 3428 1509 3442 962 3439"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

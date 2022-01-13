@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pages-kelly.pdf_page_9.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1378"
+                   HEIGHT="2241"
+                   ID="eSc_textblock_62870b27"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1158 596 1342 596 1415 654 1927 666 1927 2837 561 2814 549 689 561 654 1120 654 1087 631 1158 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_db79d8ba"
+                    
+                    BASELINE="1134 634 1345 628" 
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="220"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1134 634 1125 596 1225 575 1225 575 1228 575 1228 575 1339 590 1345 628 1345 637 1134 640"/></Shape>
+	    <String CONTENT="— 171 —"
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="220"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6ae00d6"
+                    
+                    BASELINE="558 692 1921 698" 
+                    HPOS="552"
+                    VPOS="645"
+                    WIDTH="1369"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="558 692 558 645 1921 651 1921 698 1915 710 552 707"/></Shape>
+	    <String CONTENT="des exemples, notamment dans certains dialectes grecs ; laconien ; τίρ pour"
+                    HPOS="552"
+                    VPOS="645"
+                    WIDTH="1369"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02b39b54"
+                    
+                    BASELINE="558 748 1830 742" 
+                    HPOS="552"
+                    VPOS="701"
+                    WIDTH="1278"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 748 552 707 1821 701 1830 742 1827 762 558 762"/></Shape>
+	    <String CONTENT="τίς, νέχυρ pour νέχυς, ζούγωνερ pour ζούγωνες, ῶίσορ pour ῶίθος, etc."
+                    HPOS="552"
+                    VPOS="701"
+                    WIDTH="1278"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46090bb1"
+                    
+                    BASELINE="605 786 1918 791" 
+                    HPOS="599"
+                    VPOS="742"
+                    WIDTH="1319"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="605 786 605 742 1915 751 1918 791 1912 806 599 800"/></Shape>
+	    <String CONTENT="Je n’ai point la prétention d’expliquer en ce moment, comme cela serait fa-"
+                    HPOS="599"
+                    VPOS="742"
+                    WIDTH="1319"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fa55c39"
+                    
+                    BASELINE="561 838 1918 838" 
+                    HPOS="561"
+                    VPOS="797"
+                    WIDTH="1357"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 838 561 797 1918 797 1918 838 1918 856 561 856"/></Shape>
+	    <String CONTENT="cile avec les travaux des Eugène Burnouf, des Bopp, des Schleicher, toutes les"
+                    HPOS="561"
+                    VPOS="797"
+                    WIDTH="1357"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0114b3ff"
+                    
+                    BASELINE="561 882 1918 888" 
+                    HPOS="558"
+                    VPOS="832"
+                    WIDTH="1360"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="561 882 561 832 1915 844 1918 888 1915 903 558 903"/></Shape>
+	    <String CONTENT="formes que l’ai citées plus haut ; et encore moins la pensée de vous présenter la"
+                    HPOS="558"
+                    VPOS="832"
+                    WIDTH="1360"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d46ea725"
+                    
+                    BASELINE="561 926 1918 932" 
+                    HPOS="558"
+                    VPOS="885"
+                    WIDTH="1360"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 926 561 885 1915 891 1918 932 1915 946 558 949"/></Shape>
+	    <String CONTENT="physiologie du verbe « être » dans la famille linguistique dont je vous parle en ce"
+                    HPOS="558"
+                    VPOS="885"
+                    WIDTH="1360"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_29cd9d52"
+                    
+                    BASELINE="561 976 1918 981" 
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="1363"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 976 561 932 1915 938 1918 981 1912 993 555 990"/></Shape>
+	    <String CONTENT="moment. Je n’ai voulu signaler autre chose que les ressources qu’offrait la mé-"
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="1363"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_47932165"
+                    
+                    BASELINE="561 1025 1918 1025" 
+                    HPOS="561"
+                    VPOS="981"
+                    WIDTH="1357"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1025 561 981 1918 984 1918 1025 1918 1043 561 1043"/></Shape>
+	    <String CONTENT="thode linguistique des aryanistes, et j’espère que les quelques exemples que"
+                    HPOS="561"
+                    VPOS="981"
+                    WIDTH="1357"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c24a444"
+                    
+                    BASELINE="558 1072 1921 1078" 
+                    HPOS="555"
+                    VPOS="1019"
+                    WIDTH="1366"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="558 1072 558 1019 1921 1034 1921 1078 1918 1093 555 1093"/></Shape>
+	    <String CONTENT="je viens de donner sur le tableau auront suffi pour en démontrer la portée et"
+                    HPOS="555"
+                    VPOS="1019"
+                    WIDTH="1366"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ada3f6a"
+                    
+                    BASELINE="555 1122 897 1116" 
+                    HPOS="546"
+                    VPOS="1069"
+                    WIDTH="351"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 1122 546 1075 889 1069 897 1116 897 1128 555 1133"/></Shape>
+	    <String CONTENT="le puissant intérêt."
+                    HPOS="546"
+                    VPOS="1069"
+                    WIDTH="351"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_817cb359"
+                    
+                    BASELINE="602 1166 1924 1166" 
+                    HPOS="602"
+                    VPOS="1113"
+                    WIDTH="1322"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="602 1166 602 1113 1924 1125 1924 1166 1924 1183 602 1183"/></Shape>
+	    <String CONTENT="Le succès des travaux relatifs à la comparaison et à la classification des"
+                    HPOS="602"
+                    VPOS="1113"
+                    WIDTH="1322"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d51cecb6"
+                    
+                    BASELINE="558 1212 1921 1212" 
+                    HPOS="558"
+                    VPOS="1163"
+                    WIDTH="1363"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="558 1212 558 1163 1921 1171 1921 1212 1921 1233 558 1233"/></Shape>
+	    <String CONTENT="langues sémitiques et des langues indo-européennes fit croire aux orientalistes"
+                    HPOS="558"
+                    VPOS="1163"
+                    WIDTH="1363"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76a4e379"
+                    
+                    BASELINE="558 1259 1918 1265" 
+                    HPOS="555"
+                    VPOS="1215"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 1259 558 1215 1915 1221 1918 1265 1915 1274 555 1277"/></Shape>
+	    <String CONTENT="qu’ils n’avaient qu’à appliquer la même méthode aux autres langues du"
+                    HPOS="555"
+                    VPOS="1215"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f669fa68"
+                    
+                    BASELINE="555 1306 1918 1312" 
+                    HPOS="549"
+                    VPOS="1262"
+                    WIDTH="1369"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 1306 555 1262 1915 1262 1918 1312 1912 1320 549 1318"/></Shape>
+	    <String CONTENT="monde pour obtenir de toutes parts des résultats aussi complets, aussi"
+                    HPOS="549"
+                    VPOS="1262"
+                    WIDTH="1369"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fd88fc2"
+                    
+                    BASELINE="552 1353 1918 1358" 
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1353 552 1309 1915 1315 1918 1358 1912 1370 546 1364"/></Shape>
+	    <String CONTENT="clairs, aussi incontestables. On ne tarda pas à reconnaître qu’en dehors de"
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f69516db"
+                    
+                    BASELINE="555 1399 1921 1405" 
+                    HPOS="549"
+                    VPOS="1356"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1399 555 1356 1918 1361 1921 1405 1915 1417 549 1411"/></Shape>
+	    <String CONTENT="ces deux familles, on n’avait guère à attendre rien de certain, à moins de dé-"
+                    HPOS="549"
+                    VPOS="1356"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_567ead0b"
+                    
+                    BASELINE="555 1446 1921 1452" 
+                    HPOS="549"
+                    VPOS="1402"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="555 1446 555 1402 1918 1408 1921 1452 1915 1464 549 1458"/></Shape>
+	    <String CONTENT="couvrir de nouveaux principes d’analyse et de comparaison philologique. Les"
+                    HPOS="549"
+                    VPOS="1402"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b943690"
+                    
+                    BASELINE="558 1499 1924 1499" 
+                    HPOS="558"
+                    VPOS="1455"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 1499 558 1455 1924 1455 1924 1499 1924 1513 558 1513"/></Shape>
+	    <String CONTENT="difficultés qui se présentaient étaient quelque peu décourageantes ; elles devaient"
+                    HPOS="558"
+                    VPOS="1455"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a9e199a"
+                    
+                    BASELINE="555 1546 1918 1546" 
+                    HPOS="552"
+                    VPOS="1502"
+                    WIDTH="1366"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1546 555 1502 1918 1502 1918 1546 1915 1563 552 1557"/></Shape>
+	    <String CONTENT="cependant avoir pour effet d’élargir la méthode comparative et de la fonder,"
+                    HPOS="552"
+                    VPOS="1502"
+                    WIDTH="1366"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fbdf79c7"
+                    
+                    BASELINE="558 1592 1924 1592" 
+                    HPOS="558"
+                    VPOS="1548"
+                    WIDTH="1366"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1592 558 1548 1924 1548 1924 1592 1924 1607 558 1607"/></Shape>
+	    <String CONTENT="non plus sur le simple examen des procédés adoptés dans les pays des langues"
+                    HPOS="558"
+                    VPOS="1548"
+                    WIDTH="1366"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ab19cdc"
+                    
+                    BASELINE="558 1639 1921 1639" 
+                    HPOS="558"
+                    VPOS="1598"
+                    WIDTH="1363"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1639 558 1598 1921 1598 1921 1639 1921 1651 558 1657"/></Shape>
+	    <String CONTENT="que nous parlons, mais sur les lois générales adoptées par l’esprit humain"
+                    HPOS="558"
+                    VPOS="1598"
+                    WIDTH="1363"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4835c90f"
+                    
+                    BASELINE="558 1686 1921 1686" 
+                    HPOS="558"
+                    VPOS="1645"
+                    WIDTH="1363"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 1686 558 1645 1921 1645 1921 1686 1921 1697 558 1706"/></Shape>
+	    <String CONTENT="pour se manifester extérieurement par des mots et par des phrases. Les ob-"
+                    HPOS="558"
+                    VPOS="1645"
+                    WIDTH="1363"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33c2d61f"
+                    
+                    BASELINE="558 1727 1921 1735" 
+                    HPOS="552"
+                    VPOS="1683"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 1727 558 1683 1918 1692 1921 1735 1915 1747 552 1744"/></Shape>
+	    <String CONTENT="stacles que venait de surmonter la science linguistique assuraient à cette science"
+                    HPOS="552"
+                    VPOS="1683"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_738e670b"
+                    
+                    BASELINE="558 1782 1783 1779" 
+                    HPOS="555"
+                    VPOS="1730"
+                    WIDTH="1228"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 1782 555 1730 1778 1735 1783 1779 1781 1791 558 1794"/></Shape>
+	    <String CONTENT="la possession prochaine de ses véritables lois, de ses véritables assises."
+                    HPOS="555"
+                    VPOS="1730"
+                    WIDTH="1228"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70371cc3"
+                    
+                    BASELINE="605 1826 1921 1820" 
+                    HPOS="599"
+                    VPOS="1782"
+                    WIDTH="1322"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="605 1826 599 1788 1912 1782 1921 1820 1918 1838 605 1844"/></Shape>
+	    <String CONTENT="Alors s’est élevée une grave dispute : fallait-il s’attacher, pour la classifica-"
+                    HPOS="599"
+                    VPOS="1782"
+                    WIDTH="1322"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a582442"
+                    
+                    BASELINE="558 1873 1918 1873" 
+                    HPOS="558"
+                    VPOS="1826"
+                    WIDTH="1360"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 1873 558 1826 1918 1832 1918 1873 1918 1890 558 1890"/></Shape>
+	    <String CONTENT="tion des langues, d’abord à la comparaison des racines de mots, ou bien aux"
+                    HPOS="558"
+                    VPOS="1826"
+                    WIDTH="1360"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2f0abd25"
+                    
+                    BASELINE="555 1923 1921 1923" 
+                    HPOS="555"
+                    VPOS="1879"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 1923 555 1879 1921 1879 1921 1923 1921 1937 555 1937"/></Shape>
+	    <String CONTENT="affinités de construction grammaticale et de syntaxe ? Cette dispute donna un"
+                    HPOS="555"
+                    VPOS="1879"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_698a9d33"
+                    
+                    BASELINE="558 1969 1921 1969" 
+                    HPOS="558"
+                    VPOS="1925"
+                    WIDTH="1363"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1969 558 1925 1921 1925 1921 1969 1921 1984 558 1984"/></Shape>
+	    <String CONTENT="coup terrible à la vieille science de l’étymologie, cette science qui, suivant Vol-"
+                    HPOS="558"
+                    VPOS="1925"
+                    WIDTH="1363"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74d5dd3b"
+                    
+                    BASELINE="558 2016 1921 2016" 
+                    HPOS="558"
+                    VPOS="1969"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 2016 558 1969 1921 1975 1921 2016 1921 2031 558 2031"/></Shape>
+	    <String CONTENT="taire, si je ne me trompe, considère que dans les mots les consonnes ne"
+                    HPOS="558"
+                    VPOS="1969"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bd364c7"
+                    
+                    BASELINE="558 2063 1579 2063" 
+                    HPOS="558"
+                    VPOS="2022"
+                    WIDTH="1021"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2063 558 2022 1579 2022 1579 2063 1579 2080 558 2080"/></Shape>
+	    <String CONTENT="comptent que pour peu de chose, et les voyelles pour rien."
+                    HPOS="558"
+                    VPOS="2022"
+                    WIDTH="1021"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d35c939"
+                    
+                    BASELINE="602 2110 1924 2110" 
+                    HPOS="602"
+                    VPOS="2063"
+                    WIDTH="1322"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="602 2110 602 2063 1924 2069 1924 2110 1924 2127 602 2127"/></Shape>
+	    <String CONTENT="Puis d’un extrême on tomba dans l’autre : on crut que, tandis que les élé-"
+                    HPOS="602"
+                    VPOS="2063"
+                    WIDTH="1322"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e92f3d2"
+                    
+                    BASELINE="561 2153 1918 2159" 
+                    HPOS="555"
+                    VPOS="2110"
+                    WIDTH="1363"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2153 561 2110 1915 2115 1918 2159 1912 2174 555 2168"/></Shape>
+	    <String CONTENT="ments du vecabulaire étaient de nature essentiellement mobiles et variables,"
+                    HPOS="555"
+                    VPOS="2110"
+                    WIDTH="1363"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cae9e61"
+                    
+                    BASELINE="561 2200 1924 2206" 
+                    HPOS="558"
+                    VPOS="2150"
+                    WIDTH="1366"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="561 2200 561 2150 1921 2162 1924 2206 1921 2221 558 2221"/></Shape>
+	    <String CONTENT="les règles de la construction grammaticale étaient permanentes et à peu près"
+                    HPOS="558"
+                    VPOS="2150"
+                    WIDTH="1366"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e46fb22"
+                    
+                    BASELINE="561 2247 1924 2253" 
+                    HPOS="558"
+                    VPOS="2197"
+                    WIDTH="1366"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="561 2247 561 2197 1921 2209 1924 2253 1921 2270 558 2270"/></Shape>
+	    <String CONTENT="immuables. On négligea donc la comparaison des mots pour ne plus guère com-"
+                    HPOS="558"
+                    VPOS="2197"
+                    WIDTH="1366"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70e73700"
+                    
+                    BASELINE="561 2300 1921 2300" 
+                    HPOS="561"
+                    VPOS="2256"
+                    WIDTH="1360"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2300 561 2256 1921 2259 1921 2300 1921 2314 561 2320"/></Shape>
+	    <String CONTENT="parer que les procédés de la syntaxe. On commence à s’apercevoir de l’exagé-"
+                    HPOS="561"
+                    VPOS="2256"
+                    WIDTH="1360"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a2cd903d"
+                    
+                    BASELINE="561 2340 1924 2346" 
+                    HPOS="555"
+                    VPOS="2300"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 2340 561 2300 1921 2305 1924 2346 1918 2361 555 2358"/></Shape>
+	    <String CONTENT="ration fâcheuse de cette manière de rechercher les affinités des langues, et les"
+                    HPOS="555"
+                    VPOS="2300"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84c68bc3"
+                    
+                    BASELINE="561 2393 1924 2393" 
+                    HPOS="561"
+                    VPOS="2349"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 2393 561 2349 1924 2352 1924 2393 1924 2408 561 2411"/></Shape>
+	    <String CONTENT="meilleurs esprits font une juste part à l’étude comparative des mots et des formes"
+                    HPOS="561"
+                    VPOS="2349"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c335a653"
+                    
+                    BASELINE="558 2440 1918 2437" 
+                    HPOS="552"
+                    VPOS="2393"
+                    WIDTH="1366"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 2440 552 2402 1909 2393 1918 2437 1915 2457 558 2457"/></Shape>
+	    <String CONTENT="de la phrase. Un nouveau progrès se manifeste en même temps : on comprend"
+                    HPOS="552"
+                    VPOS="2393"
+                    WIDTH="1366"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2776ca04"
+                    
+                    BASELINE="558 2487 1924 2487" 
+                    HPOS="558"
+                    VPOS="2437"
+                    WIDTH="1366"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 2487 558 2437 1924 2446 1924 2487 1924 2504 558 2504"/></Shape>
+	    <String CONTENT="la nécessité d’approfondir l’économie du langage jusque dans le système de la"
+                    HPOS="558"
+                    VPOS="2437"
+                    WIDTH="1366"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87a9c075"
+                    
+                    BASELINE="561 2533 1924 2533" 
+                    HPOS="561"
+                    VPOS="2487"
+                    WIDTH="1363"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2533 561 2487 1924 2492 1924 2533 1924 2548 561 2551"/></Shape>
+	    <String CONTENT="formation des sons qui en constituent les éléments et qui se développent d’une"
+                    HPOS="561"
+                    VPOS="2487"
+                    WIDTH="1363"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6421889b"
+                    
+                    BASELINE="561 2577 1924 2583" 
+                    HPOS="558"
+                    VPOS="2533"
+                    WIDTH="1366"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 2577 561 2533 1921 2539 1924 2583 1921 2598 558 2598"/></Shape>
+	    <String CONTENT="manière souvent différente et caractéristique dans les divers groupes d’idiomes ;"
+                    HPOS="558"
+                    VPOS="2533"
+                    WIDTH="1366"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1ac0c37"
+                    
+                    BASELINE="558 2627 1918 2633" 
+                    HPOS="552"
+                    VPOS="2583"
+                    WIDTH="1366"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 2627 558 2583 1915 2589 1918 2633 1912 2647 552 2639"/></Shape>
+	    <String CONTENT="on se préoccupe enfin de toutes les manifestations de la vie dans le langage,"
+                    HPOS="552"
+                    VPOS="2583"
+                    WIDTH="1366"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87bb437a"
+                    
+                    BASELINE="558 2677 1918 2674" 
+                    HPOS="552"
+                    VPOS="2636"
+                    WIDTH="1366"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="558 2677 552 2639 1909 2636 1918 2674 1915 2691 558 2691"/></Shape>
+	    <String CONTENT="dont chacun des éléments, — on est arrivé à le constater aujourd’hui, —"
+                    HPOS="552"
+                    VPOS="2636"
+                    WIDTH="1366"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2237c50a"
+                    
+                    BASELINE="558 2720 1927 2729" 
+                    HPOS="552"
+                    VPOS="2674"
+                    WIDTH="1375"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 2720 558 2674 1927 2682 1927 2729 1921 2738 552 2735"/></Shape>
+	    <String CONTENT="mots ou formes grammaticales et syntaxiques, est sujet à des altérations, à"
+                    HPOS="552"
+                    VPOS="2674"
+                    WIDTH="1375"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a33056e6"
+                    
+                    BASELINE="558 2773 1096 2767" 
+                    HPOS="552"
+                    VPOS="2723"
+                    WIDTH="544"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 2773 552 2729 1087 2723 1096 2767 1096 2779 558 2785"/></Shape>
+	    <String CONTENT="des modifications perpétuelles."
+                    HPOS="552"
+                    VPOS="2723"
+                    WIDTH="544"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3a91a31"
+                    
+                    BASELINE="599 2817 1927 2823" 
+                    HPOS="593"
+                    VPOS="2770"
+                    WIDTH="1334"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="599 2817 599 2770 1924 2776 1927 2823 1921 2837 593 2831"/></Shape>
+	    <String CONTENT="La science du langage a vu de la sorte son cadre s’élargir considérablement ;"
+                    HPOS="593"
+                    VPOS="2770"
+                    WIDTH="1334"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3390"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_452c0902"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3390 1494 3390 1517 3433 970 3433 970 3390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b9ad8eb8"
+                    
+                    BASELINE="968 3422 1514 3428" 
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="968 3422 968 3381 1511 3387 1514 3428 1509 3442 962 3439"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

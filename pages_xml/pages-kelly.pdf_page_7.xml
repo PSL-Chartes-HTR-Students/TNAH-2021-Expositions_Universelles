@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-01-13T16:43:32.539272+00:00</Created>
+        <LastChange>2022-01-13T16:43:32.539294+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="pages-kelly.pdf_page_7.png" imageWidth="2480" imageHeight="3507">
+
+    
+    <TextRegion id="eSc_textblock_bdeb0859"  >
+      <Coords points="1169,596 1342,596 1403,654 1938,678 1927,2826 549,2826 549,748 608,654 1131,654 1099,631 1169,596"/>
+      
+      
+      <TextLine id="eSc_line_016d2c6f" >
+        <Coords points="1137,631 1134,596 1207,578 1207,578 1207,578 1210,578 1210,578 1348,596 1348,631 1348,645 1137,645"/>
+        <Baseline points="1137,631 1348,631"/>
+        <TextEquiv>
+          <Unicode>— 169 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4778e9d6" >
+        <Coords points="602,695 602,645 1927,651 1927,695 1927,713 602,713"/>
+        <Baseline points="602,695 1927,695"/>
+        <TextEquiv>
+          <Unicode>L’histoire naturelle, l’anthropologie, qui se sont surtout préoccupées des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_575c1768" >
+        <Coords points="561,739 561,695 1915,701 1918,745 1912,759 555,756"/>
+        <Baseline points="561,739 1918,745"/>
+        <TextEquiv>
+          <Unicode>races, ont trouvé en Asie les variétés les plus nombreuses de l’espèce humaine :</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ff14c7f3" >
+        <Coords points="561,791 561,742 1921,751 1921,791 1921,809 561,809"/>
+        <Baseline points="561,791 1921,791"/>
+        <TextEquiv>
+          <Unicode>la race blanche, la race jaune, la race brune, la race noire. Il n’y manque guère</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fbd85229" >
+        <Coords points="561,841 555,800 1479,794 1488,835 1485,850 561,856"/>
+        <Baseline points="561,841 1488,835"/>
+        <TextEquiv>
+          <Unicode>que la race rouge, spéciale à l’hémisphère américain.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cd0be80d" >
+        <Coords points="605,879 605,829 1918,844 1921,885 1915,897 599,894"/>
+        <Baseline points="605,879 1921,885"/>
+        <TextEquiv>
+          <Unicode>La linguistique y a constaté l’existence de quelques grandes familles ; la fa-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d678ed51" >
+        <Coords points="561,932 561,891 1921,891 1921,932 1921,949 561,949"/>
+        <Baseline points="561,932 1921,932"/>
+        <TextEquiv>
+          <Unicode>mille dite aryenne, la famille dite sémitique, un ensemble d’idiomes qu’on a es-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_02b1fc5a" >
+        <Coords points="561,973 561,932 1915,941 1918,981 1912,993 555,990"/>
+        <Baseline points="561,973 1918,981"/>
+        <TextEquiv>
+          <Unicode>sayé de grouper dans une prétendue famille touranienne, et enfin une foule de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e6863b82" >
+        <Coords points="561,1022 561,970 1915,984 1918,1028 1915,1043 558,1043"/>
+        <Baseline points="561,1022 1918,1028"/>
+        <TextEquiv>
+          <Unicode>langues qui n’ont pas semblé de nature à former d’autres groupes homogènes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c78bb845" >
+        <Coords points="561,1069 561,1025 1918,1034 1921,1078 1915,1090 555,1081"/>
+        <Baseline points="561,1069 1921,1078"/>
+        <TextEquiv>
+          <Unicode>et qu’il n’a pas paru possible de rattacher à aucune des familles que je viens</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ba0e7db" >
+        <Coords points="558,1122 549,1078 769,1072 777,1116 777,1125 558,1131"/>
+        <Baseline points="558,1122 777,1116"/>
+        <TextEquiv>
+          <Unicode>d’énumérer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_25ce02a1" >
+        <Coords points="605,1160 605,1116 1915,1125 1918,1166 1912,1180 599,1174"/>
+        <Baseline points="605,1160 1918,1166"/>
+        <TextEquiv>
+          <Unicode>En dehors de la couleur de la peau, l’anthropologie n’a trouvé en Asie,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_78bbc3af" >
+        <Coords points="561,1209 561,1166 1915,1171 1918,1215 1912,1227 555,1224"/>
+        <Baseline points="561,1209 1918,1215"/>
+        <TextEquiv>
+          <Unicode>malgré ses recherches patientes et minutieuses, souvent même trop minu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_25bd9766" >
+        <Coords points="561,1256 561,1212 1915,1221 1918,1262 1912,1271 555,1268"/>
+        <Baseline points="561,1256 1918,1262"/>
+        <TextEquiv>
+          <Unicode>tieuses, — je tiens à le dire, — aucun élément caractéristique qui fût de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_130a5489" >
+        <Coords points="561,1306 555,1268 1909,1256 1918,1303 1915,1323 561,1323"/>
+        <Baseline points="561,1306 1918,1303"/>
+        <TextEquiv>
+          <Unicode>nature à permettre une classification claire et précise ; lorsqu’elle a adopté</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_889ace47" >
+        <Coords points="558,1353 558,1309 1915,1315 1918,1358 1912,1367 552,1361"/>
+        <Baseline points="558,1353 1918,1358"/>
+        <TextEquiv>
+          <Unicode>d’autres divisions que celles résultant de la couleur de la peau, elle les a</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_34b2cff8" >
+        <Coords points="561,1402 561,1358 1924,1358 1924,1402 1924,1417 561,1417"/>
+        <Baseline points="561,1402 1924,1402"/>
+        <TextEquiv>
+          <Unicode>empruntées à la linguistique presque toujours, à l’histoire et à l’ethnogra-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3b842bd0" >
+        <Coords points="558,1449 558,1408 1921,1408 1921,1449 1921,1464 558,1470"/>
+        <Baseline points="558,1449 1921,1449"/>
+        <TextEquiv>
+          <Unicode>phie bien souvent. La dénomination d’Aryens, de Sémites, de Touraniens,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_693fafe9" >
+        <Coords points="558,1493 558,1449 1918,1455 1921,1499 1915,1508 552,1505"/>
+        <Baseline points="558,1493 1921,1499"/>
+        <TextEquiv>
+          <Unicode>de Mongols, de Dravidiens, ne repose point sur des données anatomiques</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0c28475d" >
+        <Coords points="558,1540 558,1496 1921,1502 1924,1546 1918,1554 552,1548"/>
+        <Baseline points="558,1540 1924,1546"/>
+        <TextEquiv>
+          <Unicode>ou anthropomorphiques. L’anthropologie n’a point établi un tableau des ca-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8690e17b" >
+        <Coords points="558,1589 558,1548 1924,1548 1924,1589 1924,1607 558,1607"/>
+        <Baseline points="558,1589 1924,1589"/>
+        <TextEquiv>
+          <Unicode>ractères de race, dans lequel elle aurait réparti les divers groupes de popu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_55f91cb6" >
+        <Coords points="558,1636 558,1586 1918,1595 1918,1636 1915,1657 555,1651"/>
+        <Baseline points="558,1636 1918,1636"/>
+        <TextEquiv>
+          <Unicode>lation : elle a accepté a priori les divisions de l’ethnographie et de l’histoire ;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_20f06b21" >
+        <Coords points="555,1686 555,1642 1927,1642 1927,1686 1927,1700 555,1700"/>
+        <Baseline points="555,1686 1927,1686"/>
+        <TextEquiv>
+          <Unicode>et, seulement après, elle a recherché si ces divisions répondaient à des dif-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_90563e5b" >
+        <Coords points="558,1733 555,1686 1918,1686 1924,1727 1921,1741 558,1747"/>
+        <Baseline points="558,1733 1924,1727"/>
+        <TextEquiv>
+          <Unicode>férences de structure ostéologique de nature à constituer des rameaux dis-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4e5a483e" >
+        <Coords points="558,1779 552,1738 1912,1733 1921,1773 1918,1788 558,1794"/>
+        <Baseline points="558,1779 1921,1773"/>
+        <TextEquiv>
+          <Unicode>tincts de l’espèce humaine ; elle a recueilli beaucoup d’observations intéres-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a4f2997a" >
+        <Coords points="558,1826 558,1785 1924,1785 1924,1826 1924,1844 558,1844"/>
+        <Baseline points="558,1826 1924,1826"/>
+        <TextEquiv>
+          <Unicode>santes, mais aucune donnée générale sur laquelle elle ait pu fonder un essai</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_3c756342" >
+        <Coords points="558,1876 552,1832 842,1826 851,1870 851,1882 558,1885"/>
+        <Baseline points="558,1876 851,1870"/>
+        <TextEquiv>
+          <Unicode>de classification.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_378b9b7b" >
+        <Coords points="602,1920 602,1870 1921,1876 1921,1920 1921,1937 602,1937"/>
+        <Baseline points="602,1920 1921,1920"/>
+        <TextEquiv>
+          <Unicode>Il faut reconnaître que la linguistique a été plus heureuse. Les recherches</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f4edda36" >
+        <Coords points="561,1966 561,1923 1921,1925 1921,1966 1921,1984 561,1984"/>
+        <Baseline points="561,1966 1921,1966"/>
+        <TextEquiv>
+          <Unicode>des philologues, non moins précises que celles des anthropologistes, ont mis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a3f9c951" >
+        <Coords points="558,2013 558,1972 1924,1972 1924,2013 1924,2031 558,2031"/>
+        <Baseline points="558,2013 1924,2013"/>
+        <TextEquiv>
+          <Unicode>en lumière une foule de faits et de principes sur lesquels ont pu être basés</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_71528a5e" >
+        <Coords points="558,2063 552,2022 1912,2016 1921,2057 1918,2072 558,2077"/>
+        <Baseline points="558,2063 1921,2057"/>
+        <TextEquiv>
+          <Unicode>d’une façon solide et durable les éléments de la classification d’un grand nombre</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_40166d59" >
+        <Coords points="555,2107 555,2066 1924,2066 1924,2107 1924,2124 555,2124"/>
+        <Baseline points="555,2107 1924,2107"/>
+        <TextEquiv>
+          <Unicode>d’idiomes du continent asiatique. L’autonomie de la famille des langues sémi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c8d945ab" >
+        <Coords points="558,2156 558,2112 1921,2112 1921,2156 1921,2174 558,2174"/>
+        <Baseline points="558,2156 1921,2156"/>
+        <TextEquiv>
+          <Unicode>tiques, par exemple, sa remarquable homogénéité, les lois de son phonétisme</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_92c69b5a" >
+        <Coords points="561,2203 561,2159 1921,2159 1921,2203 1921,2221 561,2221"/>
+        <Baseline points="561,2203 1921,2203"/>
+        <TextEquiv>
+          <Unicode>et de ses évolutions lexicographiques, ont été fixées de la manière la plus rigou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ad0e3b37" >
+        <Coords points="558,2244 558,2203 1921,2209 1924,2250 1918,2264 552,2262"/>
+        <Baseline points="558,2244 1924,2250"/>
+        <TextEquiv>
+          <Unicode>reuse. Le travail n’est pas entièrement accompli, puisqu’il reste des idiomes tels</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e606e92b" >
+        <Coords points="561,2300 555,2259 1915,2253 1924,2294 1921,2308 561,2317"/>
+        <Baseline points="561,2300 1924,2294"/>
+        <TextEquiv>
+          <Unicode>que le copte, dont la parenté avec l’hébreu, le syriaque et l’éthiopien n’est pas</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5bbc86ae" >
+        <Coords points="555,2343 549,2305 1912,2302 1921,2340 1918,2361 555,2361"/>
+        <Baseline points="555,2343 1921,2340"/>
+        <TextEquiv>
+          <Unicode>suffisamment établie. On ne peut nier que la philologie sémitique ne nous ait</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f3c80c04" >
+        <Coords points="555,2387 555,2343 1918,2349 1921,2393 1915,2405 549,2402"/>
+        <Baseline points="555,2387 1921,2393"/>
+        <TextEquiv>
+          <Unicode>fourni des indications d’une clarté incontestable, qu’elle n’ait délimité à peu de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_516bff7b" >
+        <Coords points="555,2434 555,2393 1915,2399 1918,2440 1912,2451 549,2449"/>
+        <Baseline points="555,2434 1918,2440"/>
+        <TextEquiv>
+          <Unicode>chose près son domaine, qu’elle n’ait tracé une voie de recherches dans la-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2616bc3c" >
+        <Coords points="558,2481 558,2437 1921,2443 1924,2487 1921,2504 555,2504"/>
+        <Baseline points="558,2481 1924,2487"/>
+        <TextEquiv>
+          <Unicode>quelle les progrès sont constants et à l’abri de tout scepticisme de la part des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_bbf1fdff" >
+        <Coords points="558,2533 558,2492 865,2492 865,2533 865,2545 558,2548"/>
+        <Baseline points="558,2533 865,2533"/>
+        <TextEquiv>
+          <Unicode>savants autorisés.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9911f53d" >
+        <Coords points="599,2574 599,2527 1921,2536 1924,2577 1918,2592 593,2589"/>
+        <Baseline points="599,2574 1924,2577"/>
+        <TextEquiv>
+          <Unicode>La découverte du sanscrit, car la connaissance du sanscrit, comme l’a fort</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_be100592" >
+        <Coords points="555,2627 552,2580 1915,2583 1921,2624 1915,2644 552,2641"/>
+        <Baseline points="555,2627 1921,2624"/>
+        <TextEquiv>
+          <Unicode>bien dit notre savant collègue M. Ed. Dulaurier, a été une véritable découverte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_00cdbf66" >
+        <Coords points="558,2674 558,2633 1924,2633 1924,2674 1924,2691 558,2691"/>
+        <Baseline points="558,2674 1924,2674"/>
+        <TextEquiv>
+          <Unicode>une véritable révélation ; la découverte du sanscrit, dis-je, a permis d’enregis-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ac5c132f" >
+        <Coords points="558,2723 555,2677 1915,2677 1921,2717 1918,2732 558,2738"/>
+        <Baseline points="558,2723 1921,2717"/>
+        <TextEquiv>
+          <Unicode>trer une foule de principes linguistiques que l’on avait ignorés jusque-là, et de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2da84b3d" >
+        <Coords points="555,2770 549,2729 1912,2723 1921,2764 1918,2779 555,2785"/>
+        <Baseline points="555,2770 1921,2764"/>
+        <TextEquiv>
+          <Unicode>créer, à côté de la famille sémitique, la famille linguistique dite aryenne ou indo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5141c00d" >
+        <Coords points="555,2820 555,2776 1927,2776 1927,2820 1927,2837 555,2837"/>
+        <Baseline points="555,2820 1927,2820"/>
+        <TextEquiv>
+          <Unicode>européenne. Cette seconde famille a des caractères particuliers qui ont été dé-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_3b6ecd2b"  >
+      <Coords points="970,3390 1494,3390 1517,3433 970,3433 970,3390"/>
+      
+      
+      <TextLine id="eSc_line_bac2b9fb" >
+        <Coords points="968,3422 968,3378 1509,3384 1511,3428 1506,3445 962,3439"/>
+        <Baseline points="968,3422 1511,3428"/>
+        <TextEquiv>
+          <Unicode>Droits reservés au Cnam et à ses parteraires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
