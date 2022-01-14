@@ -108,5 +108,15 @@ sur la translitération « hest » est la traduction « il est » fournies par l
 consulté la recherche de Jost Gippert, spécifiquement son article « The Encoding of Avestan — Problems and Solutions », 
 qui nous a fourni l’unicode des trois caractères spéciaux du mot cité dans le compte rendu.
 
+Par ailleurs, Escriptorium, bien que parfaitement capable de lire et restituer des mots et termes écrits en italique dans 
+les documents choisis, ne les retranscrit pas pour autant en italique. Cet aspect, qui peut sembler mineur, peut être regrettable.
+En effet, il pourrait être intéressant que les fichiers XML exportés depuis les transcriptions soient capables de baliser 
+automatiquement les termes en italiques. En effet, l'intêrêt d'avoir un mot en italique est souvent de mettre en avant son aspect particulier 
+(mot étranger ou notion avec une définition technique). Par exemple, dans les textes de Paul Kervegan et Baudoin Davoury sur les différences entre
+la race, le peuple, la nation et l'Etat, ces quatre notions étaient écrites en italique afin de rappeler au lecteur que ce ne sont pas des 
+généralités. Chacune de ces notions a reçu un sens précis par l'auteur, un sens qui fait sa spécificité dans le texte et qui est ainsi rappelé
+en permanence pour que le lecteur l'ait bien en tête afin de comprendre et appréhender le contenu intellectuel du texte lu.
+
+
 (1) André Vaillant, « L’Alphabet vieux-slave », Revue des études slaves 32, no. 1/4 (1955), 7-31.
 (2) Jost Gippert, « The Encoding of Avestan — Problems and Solutions » Journal for Language Technology and Computational Linguistics 27, no. 2 (2012), 1-24.
