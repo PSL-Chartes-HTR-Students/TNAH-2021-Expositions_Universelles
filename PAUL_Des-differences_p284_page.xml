@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-12-24T16:27:31.277860+00:00</Created>
+        <LastChange>2021-12-24T16:27:31.277903+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="expouniv1878_desdifferences_wIkdfHn.pdf_page_11.png" imageWidth="2479" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_ba683934"  >
+      <Coords points="1204,584 1341,596 1426,654 1938,678 1926,1143 1832,1181 1938,1274 1926,1563 1727,1601 1742,1648 1938,1695 1926,2826 549,2826 549,1742 584,1704 549,1599 549,1333 584,1283 549,666 1014,654 1204,584"/>
+      
+      
+      <TextLine id="eSc_line_886d5254" >
+        <Coords points="1137,631 1128,593 1227,575 1227,575 1230,575 1230,575 1341,587 1347,625 1347,634 1137,640"/>
+        <Baseline points="1137,631 1347,625"/>
+        <TextEquiv>
+          <Unicode>— 284 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7dce410d" >
+        <Coords points="552,692 552,646 1923,648 1923,698 1917,710 546,704"/>
+        <Baseline points="552,692 1923,698"/>
+        <TextEquiv>
+          <Unicode>des termes race et nation. J’ajoute que ce dernier terme indique l’état social</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ef688f83" >
+        <Coords points="555,739 555,695 1917,704 1920,748 1914,762 549,751"/>
+        <Baseline points="555,739 1920,748"/>
+        <TextEquiv>
+          <Unicode>essentiel, dans lequel chaque individu profite de l’activité de tous les autres,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e6a42f30" >
+        <Coords points="555,786 555,742 1920,748 1923,792 1917,803 549,798"/>
+        <Baseline points="555,786 1923,792"/>
+        <TextEquiv>
+          <Unicode>et tous les autres de celle de chacun. Il s’établit donc une série de relations</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e5309f48" >
+        <Coords points="555,833 555,789 1917,795 1920,838 1917,853 552,853"/>
+        <Baseline points="555,833 1920,838"/>
+        <TextEquiv>
+          <Unicode>mutuelles et de profits réciproques qui créent la société, et la nation qui est la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_51d1be33" >
+        <Coords points="555,879 555,836 1920,844 1923,888 1917,900 549,897"/>
+        <Baseline points="555,879 1923,888"/>
+        <TextEquiv>
+          <Unicode>société la plus solidement constituée. Rien de pareil n’existe dans la juxtaposi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8f69f659" >
+        <Coords points="558,929 558,885 1423,888 1423,929 1423,947 558,947"/>
+        <Baseline points="558,929 1423,929"/>
+        <TextEquiv>
+          <Unicode>tion des animaux, surtout des espèces inférieures.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_44ad200d" >
+        <Coords points="599,976 599,932 1917,935 1920,979 1914,991 593,988"/>
+        <Baseline points="599,976 1920,979"/>
+        <TextEquiv>
+          <Unicode>Quant à la description que l’on nous fait des évolutions successives et pré-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_217ffab8" >
+        <Coords points="558,1023 558,976 1914,985 1917,1029 1914,1037 555,1040"/>
+        <Baseline points="558,1023 1917,1029"/>
+        <TextEquiv>
+          <Unicode>tendues logiques des sociétés primitives, je n’y saurais voir que des théories</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ef5144dc" >
+        <Coords points="552,1067 552,1026 1914,1031 1917,1072 1911,1084 546,1081"/>
+        <Baseline points="552,1067 1917,1072"/>
+        <TextEquiv>
+          <Unicode>appuyées sur des conjectures. Le seul peuple sur lequel l’histoire nous donne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_de3fe550" >
+        <Coords points="552,1113 552,1069 1917,1078 1920,1122 1914,1134 546,1125"/>
+        <Baseline points="552,1113 1920,1122"/>
+        <TextEquiv>
+          <Unicode>des informations suivies, dès le début, c’est le peuple hébreu, et je n’y vois</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_472c06b9" >
+        <Coords points="552,1169 552,1125 1528,1125 1528,1169 1528,1183 552,1183"/>
+        <Baseline points="552,1169 1528,1169"/>
+        <TextEquiv>
+          <Unicode>rien de pareil à ce que l’on prétend nous faire accepter.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+    
+    </TextRegion>
+  </Page>
+</PcGts>

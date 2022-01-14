@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2021-12-24T16:21:08.769280+00:00</Created>
+        <LastChange>2021-12-24T16:21:08.769323+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="expouniv1878_desdifferences_wIkdfHn.pdf_page_10.png" imageWidth="2479" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_3b3518cf"  >
+      <Coords points="1204,584 1461,654 1938,666 1938,2055 1716,2104 1914,2163 1938,2242 1856,2370 1236,2397 1762,2408 1926,2455 1914,2826 596,2815 549,2745 549,2514 596,2452 549,2288 596,2207 584,2104 549,2101 549,666 1049,643 1204,584"/>
+      
+      
+      <TextLine id="eSc_line_d90748c6" >
+        <Coords points="1134,631 1125,593 1227,572 1227,572 1230,572 1230,572 1338,587 1344,625 1344,634 1134,640"/>
+        <Baseline points="1134,631 1344,625"/>
+        <TextEquiv>
+          <Unicode>— 283 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8be860e7" >
+        <Coords points="555,689 555,648 1923,648 1923,689 1923,710 555,710"/>
+        <Baseline points="555,689 1923,689"/>
+        <TextEquiv>
+          <Unicode>races. Cependant il peut être utile de savoir à quoi s’en tenir sur les termes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e4be463f" >
+        <Coords points="555,739 555,701 1923,701 1923,739 1923,757 555,757"/>
+        <Baseline points="555,739 1923,739"/>
+        <TextEquiv>
+          <Unicode>employés par cette langue, et si vous ne trouvez pas que ce soit un hors-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_07d7a30c" >
+        <Coords points="555,789 555,748 1306,748 1306,789 1306,803 555,803"/>
+        <Baseline points="555,789 1306,789"/>
+        <TextEquiv>
+          <Unicode>d&#39;œuvre, je vous le dirai. (Parlez, parlez !)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cb0a2b4c" >
+        <Coords points="602,833 602,783 1920,792 1920,833 1920,847 602,850"/>
+        <Baseline points="602,833 1920,833"/>
+        <TextEquiv>
+          <Unicode>Il n&#39;y a pas de nuages dans l’allemand; aussi précis que le français peut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8632406c" >
+        <Coords points="555,882 555,833 1917,841 1917,882 1917,900 555,900"/>
+        <Baseline points="555,882 1917,882"/>
+        <TextEquiv>
+          <Unicode>l&#39;être, dans les questions scientifiques, il suit la même marche, obéit aux</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1ba3be07" >
+        <Coords points="558,929 558,888 1917,888 1917,929 1917,947 558,947"/>
+        <Baseline points="558,929 1917,929"/>
+        <TextEquiv>
+          <Unicode>mêmes lois et remplace un terme défini par un terme équivalent. Dans le lan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_17f3cc05" >
+        <Coords points="558,982 552,941 1002,923 1005,923 1908,932 1914,973 1911,991 558,999"/>
+        <Baseline points="558,982 1914,973"/>
+        <TextEquiv>
+          <Unicode>gage de la science, le génie de l’homme qui a une idée spéciale ou déterminée</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4d40a61d" >
+        <Coords points="555,1020 555,976 1914,982 1917,1026 1914,1034 552,1037"/>
+        <Baseline points="555,1020 1917,1026"/>
+        <TextEquiv>
+          <Unicode>pour la première fois crée le terme correspondant; les nations voisines, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_82c42ea6" >
+        <Coords points="558,1064 558,1023 1914,1029 1917,1069 1911,1084 552,1078"/>
+        <Baseline points="558,1064 1917,1069"/>
+        <TextEquiv>
+          <Unicode>adoptant l’idée, adoptent aussi le terme. En général, c’est le latin qui a com-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4c19f335" >
+        <Coords points="558,1113 558,1075 1914,1075 1914,1113 1911,1134 555,1131"/>
+        <Baseline points="558,1113 1914,1113"/>
+        <TextEquiv>
+          <Unicode>mencé, parce qu’il était la langue savante du moyen âge et qu’il est resté la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ca2a0b4" >
+        <Coords points="558,1163 555,1116 1911,1122 1917,1160 1914,1181 558,1181"/>
+        <Baseline points="558,1163 1917,1160"/>
+        <TextEquiv>
+          <Unicode>langue commune des temps modernes, pour les peuples parlant des idiomes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_691b501a" >
+        <Coords points="558,1210 558,1169 1923,1169 1923,1210 1923,1227 558,1227"/>
+        <Baseline points="558,1210 1923,1210"/>
+        <TextEquiv>
+          <Unicode>différents; et l’on peut dire qu’en se modelant sur le latin, les divers idiomes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c6f499e6" >
+        <Coords points="561,1254 561,1210 1920,1219 1923,1262 1917,1274 555,1268"/>
+        <Baseline points="561,1254 1923,1262"/>
+        <TextEquiv>
+          <Unicode>ont suivi des voies parallèles et concordantes. L’allemand n’est pas resté en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e65ec6bb" >
+        <Coords points="558,1306 552,1265 865,1259 874,1300 874,1315 558,1318"/>
+        <Baseline points="558,1306 874,1300"/>
+        <TextEquiv>
+          <Unicode>arrière des autres.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_76f3defb" >
+        <Coords points="605,1347 605,1297 1920,1306 1923,1350 1917,1362 599,1359"/>
+        <Baseline points="605,1347 1923,1350"/>
+        <TextEquiv>
+          <Unicode>Il est vrai que l’allemand est une langue poétique : souvent celui qui parle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6283ffe1" >
+        <Coords points="558,1397 558,1356 1923,1356 1923,1397 1923,1414 558,1414"/>
+        <Baseline points="558,1397 1923,1397"/>
+        <TextEquiv>
+          <Unicode>est entraîné en dehors des lois de la stricte logique et même au delà de sa</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0125a134" >
+        <Coords points="555,1441 555,1397 1923,1403 1926,1447 1923,1458 552,1461"/>
+        <Baseline points="555,1441 1926,1447"/>
+        <TextEquiv>
+          <Unicode>propre pensée, de son intention primordiale. Ceux qui connaissent la langue</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_45f137a2" >
+        <Coords points="558,1487 558,1447 1920,1452 1923,1493 1917,1505 552,1502"/>
+        <Baseline points="558,1487 1923,1493"/>
+        <TextEquiv>
+          <Unicode>ne s’y trompent point; ils émondent la végétation luxuriante de l’expression,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1e7ed2ba" >
+        <Coords points="558,1534 558,1493 1923,1499 1926,1540 1920,1555 552,1549"/>
+        <Baseline points="558,1534 1926,1540"/>
+        <TextEquiv>
+          <Unicode>et retrouvent alors la réalité toute nue, la réalité vivante. Le tout est de pos-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b4e1a203" >
+        <Coords points="558,1584 558,1537 1119,1543 1122,1590 1116,1601 552,1599"/>
+        <Baseline points="558,1584 1122,1590"/>
+        <TextEquiv>
+          <Unicode>séder le sentiment de la langue.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6ca2cf25" >
+        <Coords points="596,1657 596,1613 1920,1619 1923,1663 1917,1675 590,1669"/>
+        <Baseline points="596,1657 1923,1663"/>
+        <TextEquiv>
+          <Unicode>M. Léon DE ROSNY. Il ne m’appartient pas de critiquer l’opinion émise par</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c8debafd" >
+        <Coords points="552,1707 552,1657 1920,1663 1923,1713 1917,1721 546,1718"/>
+        <Baseline points="552,1707 1923,1713"/>
+        <TextEquiv>
+          <Unicode>M. Schœbel, au sujet de la langue allemande, qu’il possède d’une façon si</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d5602db1" >
+        <Coords points="552,1756 552,1715 1926,1715 1926,1756 1926,1774 552,1774"/>
+        <Baseline points="552,1756 1926,1756"/>
+        <TextEquiv>
+          <Unicode>supérieure. Cependant j’espère qu’il approuvera l&#39;observation que j’ai à vous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_9bab4c3a" >
+        <Coords points="552,1803 552,1762 1923,1762 1923,1803 1923,1821 552,1821"/>
+        <Baseline points="552,1803 1923,1803"/>
+        <TextEquiv>
+          <Unicode>adresser. L’allemand est une langue polysynthétique, donnant à ceux qui l’em-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a4288544" >
+        <Coords points="552,1847 552,1803 1920,1809 1923,1853 1920,1868 549,1868"/>
+        <Baseline points="552,1847 1923,1853"/>
+        <TextEquiv>
+          <Unicode>ploient la faculté de renfermer une idée plus ou moins complexe dans un mot</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_72cab45d" >
+        <Coords points="552,1894 552,1850 1914,1856 1917,1900 1911,1914 546,1906"/>
+        <Baseline points="552,1894 1917,1900"/>
+        <TextEquiv>
+          <Unicode>composé d’éléments divers. De la sorte, on renonce à l’emploi des prépositions,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_49ebfa50" >
+        <Coords points="552,1944 552,1903 1923,1903 1923,1944 1923,1961 552,1961"/>
+        <Baseline points="552,1944 1923,1944"/>
+        <TextEquiv>
+          <Unicode>des conjonctions et autres particules qui contribuent si puissamment à la clarté</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_85c42c19" >
+        <Coords points="552,1987 552,1944 1920,1949 1923,1993 1917,2005 546,1999"/>
+        <Baseline points="552,1987 1923,1993"/>
+        <TextEquiv>
+          <Unicode>du discours. La pensée prend alors une teinte vague qui n’est peut-être pas de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e544c0f3" >
+        <Coords points="552,2034 552,1984 1920,1996 1923,2040 1917,2052 546,2046"/>
+        <Baseline points="552,2034 1923,2040"/>
+        <TextEquiv>
+          <Unicode>l’obscurité, mais qui paraît telle à ceux qu’une longue habitude n’a pas fami-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_7aa0fb2b" >
+        <Coords points="552,2084 552,2037 1449,2043 1449,2084 1449,2104 552,2104"/>
+        <Baseline points="552,2084 1449,2084"/>
+        <TextEquiv>
+          <Unicode>liarisés avec cet idiome incontestablement difficile.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5dadbf9b" >
+        <Coords points="599,2160 599,2110 1692,2119 1692,2160 1692,2177 599,2177"/>
+        <Baseline points="599,2160 1692,2160"/>
+        <TextEquiv>
+          <Unicode>UN MEMBRE. Nous ne sommes plus dans la question des races.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a0de1032" >
+        <Coords points="596,2230 596,2186 1926,2192 1926,2236 1920,2250 590,2245"/>
+        <Baseline points="596,2230 1926,2236"/>
+        <TextEquiv>
+          <Unicode>M. CASTAING. Il est vrai que nous sortons de la question de race, mais nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e979090a" >
+        <Coords points="552,2277 552,2236 1610,2242 1613,2283 1607,2297 546,2291"/>
+        <Baseline points="552,2277 1613,2283"/>
+        <TextEquiv>
+          <Unicode>rentrons sur le terrain ethnographique, et cela vaut mieux.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5e5a638b" >
+        <Coords points="596,2353 596,2306 1856,2312 1856,2353 1856,2373 596,2373"/>
+        <Baseline points="596,2353 1856,2353"/>
+        <TextEquiv>
+          <Unicode>UN MEMBRE. Les races sont la question ethnographique par excellence.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0c16b877" >
+        <Coords points="593,2423 593,2379 1090,2385 1093,2429 1087,2440 587,2435"/>
+        <Baseline points="593,2423 1093,2429"/>
+        <TextEquiv>
+          <Unicode>PLUSIEURS VOIX. Non! non!</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0d3911d8" >
+        <Coords points="599,2496 599,2443 1923,2455 1926,2499 1920,2511 593,2508"/>
+        <Baseline points="599,2496 1926,2499"/>
+        <TextEquiv>
+          <Unicode>M. CASTAING. Que voulions-nous au début de cette discussion? Que l’on</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_32985bcf" >
+        <Coords points="552,2537 552,2496 1926,2505 1929,2549 1923,2563 546,2552"/>
+        <Baseline points="552,2537 1929,2549"/>
+        <TextEquiv>
+          <Unicode>éclairât la première question de la troisième Section du questionnaire, ainsi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e8b2625c" >
+        <Coords points="552,2592 546,2554 1809,2549 1818,2587 1815,2604 552,2607"/>
+        <Baseline points="552,2592 1818,2587"/>
+        <TextEquiv>
+          <Unicode>conçue : «Des différences qui existent entre la race, la nation et l’État.»</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_486f23d3" >
+        <Coords points="602,2633 602,2590 1923,2595 1926,2636 1920,2651 596,2648"/>
+        <Baseline points="602,2633 1926,2636"/>
+        <TextEquiv>
+          <Unicode>Au premier abord, on pourrait avoir compris qu’il s’agissait d’une défi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_14effa89" >
+        <Coords points="552,2680 552,2639 1923,2648 1926,2689 1920,2701 546,2692"/>
+        <Baseline points="552,2680 1926,2689"/>
+        <TextEquiv>
+          <Unicode>nition; mais, en vérité, on nous a donné bien autre chose. Je demande qu’on</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_038434cb" >
+        <Coords points="552,2733 552,2692 1505,2692 1505,2733 1505,2750 552,2750"/>
+        <Baseline points="552,2733 1505,2733"/>
+        <TextEquiv>
+          <Unicode>rentre dans la définition des termes ethnographiques.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c53db941" >
+        <Coords points="596,2803 596,2753 1920,2765 1923,2809 1917,2826 590,2821"/>
+        <Baseline points="596,2803 1923,2809"/>
+        <TextEquiv>
+          <Unicode>M. l’abbé DE MEÏSSAS. J&#39;ai déjà donné mon sentiment sur la signification</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_760f4167"  >
+      <Coords points="970,3391 1493,3391 1517,3434 970,3434 970,3391"/>
+      
+      
+      <TextLine id="eSc_line_9d6869e3" >
+        <Coords points="967,3429 967,3385 1514,3385 1514,3429 1514,3449 967,3449"/>
+        <Baseline points="967,3429 1514,3429"/>
+        <TextEquiv>
+          <Unicode>Droits reservés eu Cnam et à ses partenaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

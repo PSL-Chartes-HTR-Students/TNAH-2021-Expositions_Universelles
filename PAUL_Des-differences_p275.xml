@@ -1,515 +1,881 @@
-<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
-  <Metadata>
-	<Creator>escriptorium</Creator>
-	<Created>2021-12-24T12:09:24.009496+00:00</Created>
-        <LastChange>2021-12-24T12:09:24.009537+00:00</LastChange>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>expouniv1878_desdifferences_wIkdfHn.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="549"
+                   VPOS="584"
+                   WIDTH="1389"
+                   HEIGHT="2313"
+                   ID="eSc_textblock_0e599709"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1262 584 1461 654 1926 666 1938 2826 1812 2838 1797 2897 1730 2897 1727 2838 1610 2826 561 2826 549 666 1072 654 1145 596 1262 584"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e584f043"
+                    
+                    BASELINE="1131 634 1338 625" 
+                    HPOS="1122"
+                    VPOS="575"
+                    WIDTH="216"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1131 634 1122 596 1248 575 1248 575 1251 575 1251 575 1333 587 1338 625 1338 634 1131 643"/></Shape>
+	    <String CONTENT="— 275 —"
+                    HPOS="1122"
+                    VPOS="575"
+                    WIDTH="216"
+                    HEIGHT="68"></String>
+          </TextLine>
 
-  </Metadata>
-  <Page imageFilename="expouniv1878_desdifferences_wIkdfHn.pdf_page_2.png" imageWidth="2479" imageHeight="3508">
+          
+          
+          <TextLine ID="eSc_line_bb05f215"
+                    
+                    BASELINE="549 689 1917 695" 
+                    HPOS="543"
+                    VPOS="646"
+                    WIDTH="1374"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="549 689 549 646 1917 651 1917 695 1911 710 543 704"/></Shape>
+	    <String CONTENT="de cellules semblables. Nous cherchons s’il y a là des organes, des fonctions,"
+                    HPOS="543"
+                    VPOS="646"
+                    WIDTH="1374"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-    
-    <TextRegion id="eSc_textblock_0e599709"  >
-      <Coords points="1262,584 1461,654 1926,666 1938,2826 1812,2838 1797,2897 1730,2897 1727,2838 1610,2826 561,2826 549,666 1072,654 1145,596 1262,584"/>
-      
-      
-      <TextLine id="eSc_line_e584f043" >
-        <Coords points="1131,634 1122,596 1248,575 1248,575 1251,575 1251,575 1333,587 1338,625 1338,634 1131,643"/>
-        <Baseline points="1131,634 1338,625"/>
-        <TextEquiv>
-          <Unicode>— 275 —</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c1a052cb"
+                    
+                    BASELINE="552 736 1914 745" 
+                    HPOS="546"
+                    VPOS="695"
+                    WIDTH="1368"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="552 736 552 695 1911 704 1914 745 1908 760 546 751"/></Shape>
+	    <String CONTENT="différentes; pas le moins du monde. Tous ces individus, dis-je, se ressemblent,"
+                    HPOS="546"
+                    VPOS="695"
+                    WIDTH="1368"
+                    HEIGHT="65"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_bb05f215" >
-        <Coords points="549,689 549,646 1917,651 1917,695 1911,710 543,704"/>
-        <Baseline points="549,689 1917,695"/>
-        <TextEquiv>
-          <Unicode>de cellules semblables. Nous cherchons s’il y a là des organes, des fonctions,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b3ceabbc"
+                    
+                    BASELINE="552 783 1917 792" 
+                    HPOS="546"
+                    VPOS="742"
+                    WIDTH="1371"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 783 552 742 1914 751 1917 792 1911 806 546 803"/></Shape>
+	    <String CONTENT="si bien qu’on peut couper cela en morceaux; ce qui restera pourra, en se mul-"
+                    HPOS="546"
+                    VPOS="742"
+                    WIDTH="1371"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_c1a052cb" >
-        <Coords points="552,736 552,695 1911,704 1914,745 1908,760 546,751"/>
-        <Baseline points="552,736 1914,745"/>
-        <TextEquiv>
-          <Unicode>différentes; pas le moins du monde. Tous ces individus, dis-je, se ressemblent,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_cacfde61"
+                    
+                    BASELINE="552 838 1064 833" 
+                    HPOS="546"
+                    VPOS="795"
+                    WIDTH="518"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 838 546 800 1055 795 1064 833 1061 853 552 856"/></Shape>
+	    <String CONTENT="tipliant, reformer un animal."
+                    HPOS="546"
+                    VPOS="795"
+                    WIDTH="518"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_b3ceabbc" >
-        <Coords points="552,783 552,742 1914,751 1917,792 1911,806 546,803"/>
-        <Baseline points="552,783 1917,792"/>
-        <TextEquiv>
-          <Unicode>si bien qu’on peut couper cela en morceaux; ce qui restera pourra, en se mul-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_2322e9a3"
+                    
+                    BASELINE="596 879 1923 888" 
+                    HPOS="590"
+                    VPOS="836"
+                    WIDTH="1333"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="596 879 596 836 1923 844 1923 888 1917 900 590 897"/></Shape>
+	    <String CONTENT="De même, dans les tribus, il n’y a pas de fonctions sociales différentes, il"
+                    HPOS="590"
+                    VPOS="836"
+                    WIDTH="1333"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_cacfde61" >
-        <Coords points="552,838 546,800 1055,795 1064,833 1061,853 552,856"/>
-        <Baseline points="552,838 1064,833"/>
-        <TextEquiv>
-          <Unicode>tipliant, reformer un animal.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1e69391d"
+                    
+                    BASELINE="549 935 1102 935" 
+                    HPOS="549"
+                    VPOS="891"
+                    WIDTH="553"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="549 935 549 891 1102 891 1102 935 1102 950 549 950"/></Shape>
+	    <String CONTENT="n’y a qu’une sorte de consensus."
+                    HPOS="549"
+                    VPOS="891"
+                    WIDTH="553"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_2322e9a3" >
-        <Coords points="596,879 596,836 1923,844 1923,888 1917,900 590,897"/>
-        <Baseline points="596,879 1923,888"/>
-        <TextEquiv>
-          <Unicode>De même, dans les tribus, il n’y a pas de fonctions sociales différentes, il</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_709b1bd0"
+                    
+                    BASELINE="596 979 1920 973" 
+                    HPOS="590"
+                    VPOS="935"
+                    WIDTH="1330"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="596 979 590 941 1911 935 1920 973 1917 991 596 996"/></Shape>
+	    <String CONTENT="Dans la nation, au contraire, qui est un groupe, une société supérieure à"
+                    HPOS="590"
+                    VPOS="935"
+                    WIDTH="1330"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_1e69391d" >
-        <Coords points="549,935 549,891 1102,891 1102,935 1102,950 549,950"/>
-        <Baseline points="549,935 1102,935"/>
-        <TextEquiv>
-          <Unicode>n’y a qu’une sorte de consensus.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7ba98f2e"
+                    
+                    BASELINE="552 1029 1917 1029" 
+                    HPOS="552"
+                    VPOS="976"
+                    WIDTH="1365"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 1029 552 976 1917 985 1917 1029 1917 1043 552 1043"/></Shape>
+	    <String CONTENT="la tribu, nous trouvons des fonctions différentes. Nous avons des individus"
+                    HPOS="552"
+                    VPOS="976"
+                    WIDTH="1365"
+                    HEIGHT="67"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_709b1bd0" >
-        <Coords points="596,979 590,941 1911,935 1920,973 1917,991 596,996"/>
-        <Baseline points="596,979 1920,973"/>
-        <TextEquiv>
-          <Unicode>Dans la nation, au contraire, qui est un groupe, une société supérieure à</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_18c04769"
+                    
+                    BASELINE="552 1072 1917 1078" 
+                    HPOS="546"
+                    VPOS="1026"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1072 552 1026 1914 1031 1917 1078 1911 1087 546 1084"/></Shape>
+	    <String CONTENT="qui cultivent la terre, ce sont les agriculteurs; j’ajoute que l’agriculture est la"
+                    HPOS="546"
+                    VPOS="1026"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_7ba98f2e" >
-        <Coords points="552,1029 552,976 1917,985 1917,1029 1917,1043 552,1043"/>
-        <Baseline points="552,1029 1917,1029"/>
-        <TextEquiv>
-          <Unicode>la tribu, nous trouvons des fonctions différentes. Nous avons des individus</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_cc5d1473"
+                    
+                    BASELINE="552 1113 1637 1122" 
+                    HPOS="549"
+                    VPOS="1072"
+                    WIDTH="1088"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="552 1113 552 1072 1634 1081 1637 1122 1634 1140 549 1140"/></Shape>
+	    <String CONTENT="première fonction qui apparaît dans la formation des sociétés."
+                    HPOS="549"
+                    VPOS="1072"
+                    WIDTH="1088"
+                    HEIGHT="68"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_18c04769" >
-        <Coords points="552,1072 552,1026 1914,1031 1917,1078 1911,1087 546,1084"/>
-        <Baseline points="552,1072 1917,1078"/>
-        <TextEquiv>
-          <Unicode>qui cultivent la terre, ce sont les agriculteurs; j’ajoute que l’agriculture est la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1098042e"
+                    
+                    BASELINE="596 1192 1920 1186" 
+                    HPOS="587"
+                    VPOS="1137"
+                    WIDTH="1333"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="596 1192 587 1154 628 1137 628 1137 631 1137 631 1137 634 1137 1914 1148 1920 1186 1917 1204 596 1210"/></Shape>
+	    <String CONTENT="M. SCHŒBEL. Ce n’est pas l’agriculture, mais la chasse. Je demande la pa-"
+                    HPOS="587"
+                    VPOS="1137"
+                    WIDTH="1333"
+                    HEIGHT="73"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_cc5d1473" >
-        <Coords points="552,1113 552,1072 1634,1081 1637,1122 1634,1140 549,1140"/>
-        <Baseline points="552,1113 1637,1122"/>
-        <TextEquiv>
-          <Unicode>première fonction qui apparaît dans la formation des sociétés.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_7f2c692c"
+                    
+                    BASELINE="596 1192 640 1192 610 1233 648 1239" 
+                    HPOS="540"
+                    VPOS="1154"
+                    WIDTH="126"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="593 1189 605 1154 648 1163 651 1163 651 1163 651 1163 654 1163 654 1163 654 1166 657 1166 657 1166 657 1169 657 1169 657 1169 666 1195 646 1236 608 1268 540 1233"/></Shape>
+	    <String CONTENT="57"
+                    HPOS="540"
+                    VPOS="1154"
+                    WIDTH="126"
+                    HEIGHT="114"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_1098042e" >
-        <Coords points="596,1192 587,1154 628,1137 628,1137 631,1137 631,1137 634,1137 1914,1148 1920,1186 1917,1204 596,1210"/>
-        <Baseline points="596,1192 1920,1186"/>
-        <TextEquiv>
-          <Unicode>M. SCHŒBEL. Ce n’est pas l’agriculture, mais la chasse. Je demande la pa-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_1e3a25b9"
+                    
+                    BASELINE="549 1233 648 1239" 
+                    HPOS="540"
+                    VPOS="1195"
+                    WIDTH="106"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="546 1230 546 1195 646 1201 646 1236 640 1251 540 1245"/></Shape>
+	    <String CONTENT="role."
+                    HPOS="540"
+                    VPOS="1195"
+                    WIDTH="106"
+                    HEIGHT="56"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_7f2c692c" >
-        <Coords points="593,1189 605,1154 648,1163 651,1163 651,1163 651,1163 654,1163 654,1163 654,1166 657,1166 657,1166 657,1169 657,1169 657,1169 666,1195 646,1236 608,1268 540,1233"/>
-        <Baseline points="596,1192 640,1192 610,1233 648,1239"/>
-        <TextEquiv>
-          <Unicode>57</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_aad95745"
+                    
+                    BASELINE="596 1309 1923 1303" 
+                    HPOS="590"
+                    VPOS="1262"
+                    WIDTH="1333"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="596 1309 590 1265 1914 1262 1923 1303 1920 1318 596 1324"/></Shape>
+	    <String CONTENT="M. le De Gaëtan DELAUNAY. C’est cette fonction qui fournit les éléments, la"
+                    HPOS="590"
+                    VPOS="1262"
+                    WIDTH="1333"
+                    HEIGHT="62"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_1e3a25b9" >
-        <Coords points="546,1230 546,1195 646,1201 646,1236 640,1251 540,1245"/>
-        <Baseline points="549,1233 648,1239"/>
-        <TextEquiv>
-          <Unicode>role.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3b727c51"
+                    
+                    BASELINE="549 1359 1268 1353" 
+                    HPOS="543"
+                    VPOS="1309"
+                    WIDTH="725"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="549 1359 543 1315 1259 1309 1268 1353 1265 1368 549 1373"/></Shape>
+	    <String CONTENT="matière première nécessaire à la société."
+                    HPOS="543"
+                    VPOS="1309"
+                    WIDTH="725"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_aad95745" >
-        <Coords points="596,1309 590,1265 1914,1262 1923,1303 1920,1318 596,1324"/>
-        <Baseline points="596,1309 1923,1303"/>
-        <TextEquiv>
-          <Unicode>M. le De Gaëtan DELAUNAY. C’est cette fonction qui fournit les éléments, la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ec0f8f8f"
+                    
+                    BASELINE="596 1406 1920 1400" 
+                    HPOS="590"
+                    VPOS="1359"
+                    WIDTH="1330"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="596 1406 590 1365 1911 1359 1920 1400 1917 1411 596 1417"/></Shape>
+	    <String CONTENT="Qu’arrive-t-il ensuite? Nous voyons apparaître une autre fonction dans la"
+                    HPOS="590"
+                    VPOS="1359"
+                    WIDTH="1330"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_3b727c51" >
-        <Coords points="549,1359 543,1315 1259,1309 1268,1353 1265,1368 549,1373"/>
-        <Baseline points="549,1359 1268,1353"/>
-        <TextEquiv>
-          <Unicode>matière première nécessaire à la société.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_fe99153b"
+                    
+                    BASELINE="552 1452 1920 1452" 
+                    HPOS="552"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1452 552 1409 1920 1409 1920 1452 1920 1467 552 1467"/></Shape>
+	    <String CONTENT="nation; cette fonction, c’est l’industrie qui transforme la matière première en"
+                    HPOS="552"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_ec0f8f8f" >
-        <Coords points="596,1406 590,1365 1911,1359 1920,1400 1917,1411 596,1417"/>
-        <Baseline points="596,1406 1920,1400"/>
-        <TextEquiv>
-          <Unicode>Qu’arrive-t-il ensuite? Nous voyons apparaître une autre fonction dans la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_ccaa2fa1"
+                    
+                    BASELINE="552 1502 1756 1496" 
+                    HPOS="546"
+                    VPOS="1452"
+                    WIDTH="1210"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="552 1502 546 1458 1748 1452 1756 1496 1754 1508 552 1520"/></Shape>
+	    <String CONTENT="produits assimilables et qui est analogue à la digestion des animaux."
+                    HPOS="546"
+                    VPOS="1452"
+                    WIDTH="1210"
+                    HEIGHT="68"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_fe99153b" >
-        <Coords points="552,1452 552,1409 1920,1409 1920,1452 1920,1467 552,1467"/>
-        <Baseline points="552,1452 1920,1452"/>
-        <TextEquiv>
-          <Unicode>nation; cette fonction, c’est l’industrie qui transforme la matière première en</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_36f92662"
+                    
+                    BASELINE="596 1566 1923 1566" 
+                    HPOS="596"
+                    VPOS="1523"
+                    WIDTH="1327"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="596 1566 596 1523 1923 1525 1923 1566 1923 1584 596 1584"/></Shape>
+	    <String CONTENT="M. LE PRÉSIDENT. Nous ne cherchons pas à indiquer les périodes succes-"
+                    HPOS="596"
+                    VPOS="1523"
+                    WIDTH="1327"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_ccaa2fa1" >
-        <Coords points="552,1502 546,1458 1748,1452 1756,1496 1754,1508 552,1520"/>
-        <Baseline points="552,1502 1756,1496"/>
-        <TextEquiv>
-          <Unicode>produits assimilables et qui est analogue à la digestion des animaux.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e2a4baa2"
+                    
+                    BASELINE="552 1613 1879 1613" 
+                    HPOS="552"
+                    VPOS="1572"
+                    WIDTH="1327"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 1613 552 1572 1879 1572 1879 1613 1879 1631 552 1631"/></Shape>
+	    <String CONTENT="sives de formation des races, des tribus, des nationalités. Nous cherchons"
+                    HPOS="552"
+                    VPOS="1572"
+                    WIDTH="1327"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_36f92662" >
-        <Coords points="596,1566 596,1523 1923,1525 1923,1566 1923,1584 596,1584"/>
-        <Baseline points="596,1566 1923,1566"/>
-        <TextEquiv>
-          <Unicode>M. LE PRÉSIDENT. Nous ne cherchons pas à indiquer les périodes succes-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_84c2b0ac"
+                    
+                    BASELINE="562 1615 1922 1612" 
+                    HPOS="558"
+                    VPOS="1575"
+                    WIDTH="1362"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="561 1613 558 1575 1914 1575 1920 1610 1917 1625 561 1631"/></Shape>
+	    <String CONTENT="sives de formation des races, des tribus, des nationalités. Nous cherchons à"
+                    HPOS="558"
+                    VPOS="1575"
+                    WIDTH="1362"
+                    HEIGHT="56"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_e2a4baa2" >
-        <Coords points="552,1613 552,1572 1879,1572 1879,1613 1879,1631 552,1631"/>
-        <Baseline points="552,1613 1879,1613"/>
-        <TextEquiv>
-          <Unicode>sives de formation des races, des tribus, des nationalités. Nous cherchons</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3db18499"
+                    
+                    BASELINE="552 1663 1920 1663" 
+                    HPOS="552"
+                    VPOS="1619"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1663 552 1619 1920 1619 1920 1663 1920 1677 552 1677"/></Shape>
+	    <String CONTENT="définir quelques termes sur lesquels il est indispensable de bien s’entendre"
+                    HPOS="552"
+                    VPOS="1619"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_84c2b0ac" >
-        <Coords points="561,1613 558,1575 1914,1575 1920,1610 1917,1625 561,1631"/>
-        <Baseline points="562,1615 1922,1612"/>
-        <TextEquiv>
-          <Unicode>sives de formation des races, des tribus, des nationalités. Nous cherchons à</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_acd06427"
+                    
+                    BASELINE="552 1710 1917 1713" 
+                    HPOS="546"
+                    VPOS="1663"
+                    WIDTH="1371"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1710 552 1663 1914 1666 1917 1713 1911 1721 546 1718"/></Shape>
+	    <String CONTENT="quand on traite de questions ethnographiques. Je vous prie de vouloir bien"
+                    HPOS="546"
+                    VPOS="1663"
+                    WIDTH="1371"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_3db18499" >
-        <Coords points="552,1663 552,1619 1920,1619 1920,1663 1920,1677 552,1677"/>
-        <Baseline points="552,1663 1920,1663"/>
-        <TextEquiv>
-          <Unicode>définir quelques termes sur lesquels il est indispensable de bien s’entendre</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_e9af1248"
+                    
+                    BASELINE="558 1759 1140 1751" 
+                    HPOS="552"
+                    VPOS="1710"
+                    WIDTH="588"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 1759 552 1715 1131 1710 1140 1751 1140 1765 558 1771"/></Shape>
+	    <String CONTENT="vous renfermer dans la question."
+                    HPOS="552"
+                    VPOS="1710"
+                    WIDTH="588"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_acd06427" >
-        <Coords points="552,1710 552,1663 1914,1666 1917,1713 1911,1721 546,1718"/>
-        <Baseline points="552,1710 1917,1713"/>
-        <TextEquiv>
-          <Unicode>quand on traite de questions ethnographiques. Je vous prie de vouloir bien</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_4f65403d"
+                    
+                    BASELINE="602 1827 1920 1821" 
+                    HPOS="599"
+                    VPOS="1777"
+                    WIDTH="1321"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="602 1827 599 1777 1914 1780 1920 1821 1917 1835 602 1841"/></Shape>
+	    <String CONTENT="M. le De Gaëtan DELAUNAY. Je demanderai alors, pour terminer, de faire"
+                    HPOS="599"
+                    VPOS="1777"
+                    WIDTH="1321"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_e9af1248" >
-        <Coords points="558,1759 552,1715 1131,1710 1140,1751 1140,1765 558,1771"/>
-        <Baseline points="558,1759 1140,1751"/>
-        <TextEquiv>
-          <Unicode>vous renfermer dans la question.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d90542a0"
+                    
+                    BASELINE="555 1873 1920 1873" 
+                    HPOS="555"
+                    VPOS="1832"
+                    WIDTH="1365"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 1873 555 1832 1920 1832 1920 1873 1920 1891 555 1891"/></Shape>
+	    <String CONTENT="observer ceci, pour montrer la distinction à établir entre race et société : c’est"
+                    HPOS="555"
+                    VPOS="1832"
+                    WIDTH="1365"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_4f65403d" >
-        <Coords points="602,1827 599,1777 1914,1780 1920,1821 1917,1835 602,1841"/>
-        <Baseline points="602,1827 1920,1821"/>
-        <TextEquiv>
-          <Unicode>M. le De Gaëtan DELAUNAY. Je demanderai alors, pour terminer, de faire</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d766e332"
+                    
+                    BASELINE="558 1923 1923 1923" 
+                    HPOS="558"
+                    VPOS="1879"
+                    WIDTH="1365"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1923 558 1879 1923 1879 1923 1923 1923 1938 558 1938"/></Shape>
+	    <String CONTENT="qu’il y a des sociétés formées de plusieurs races, et non seulement parmi les"
+                    HPOS="558"
+                    VPOS="1879"
+                    WIDTH="1365"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_d90542a0" >
-        <Coords points="555,1873 555,1832 1920,1832 1920,1873 1920,1891 555,1891"/>
-        <Baseline points="555,1873 1920,1873"/>
-        <TextEquiv>
-          <Unicode>observer ceci, pour montrer la distinction à établir entre race et société : c’est</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_fd29f675"
+                    
+                    BASELINE="561 1970 1163 1970" 
+                    HPOS="561"
+                    VPOS="1917"
+                    WIDTH="602"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 1970 561 1917 1163 1926 1163 1970 1163 1982 561 1987"/></Shape>
+	    <String CONTENT="hommes, mais parmi les animaux."
+                    HPOS="561"
+                    VPOS="1917"
+                    WIDTH="602"
+                    HEIGHT="70"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_d766e332" >
-        <Coords points="558,1923 558,1879 1923,1879 1923,1923 1923,1938 558,1938"/>
-        <Baseline points="558,1923 1923,1923"/>
-        <TextEquiv>
-          <Unicode>qu’il y a des sociétés formées de plusieurs races, et non seulement parmi les</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d90a23a6"
+                    
+                    BASELINE="599 2014 1920 2014" 
+                    HPOS="599"
+                    VPOS="1973"
+                    WIDTH="1321"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="599 2014 599 1973 1920 1973 1920 2014 1920 2031 599 2031"/></Shape>
+	    <String CONTENT="Si vous étudiez les sociétés de fourmis par exemple, vous voyez qu’il y a"
+                    HPOS="599"
+                    VPOS="1973"
+                    WIDTH="1321"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_fd29f675" >
-        <Coords points="561,1970 561,1917 1163,1926 1163,1970 1163,1982 561,1987"/>
-        <Baseline points="561,1970 1163,1970"/>
-        <TextEquiv>
-          <Unicode>hommes, mais parmi les animaux.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_14384150"
+                    
+                    BASELINE="558 2058 1920 2063" 
+                    HPOS="552"
+                    VPOS="2014"
+                    WIDTH="1368"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2058 558 2014 1917 2020 1920 2063 1914 2075 552 2072"/></Shape>
+	    <String CONTENT="des fourmis qui commandent, d’autres qui sont réduites en esclavage; ce sont"
+                    HPOS="552"
+                    VPOS="2014"
+                    WIDTH="1368"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_d90a23a6" >
-        <Coords points="599,2014 599,1973 1920,1973 1920,2014 1920,2031 599,2031"/>
-        <Baseline points="599,2014 1920,2014"/>
-        <TextEquiv>
-          <Unicode>Si vous étudiez les sociétés de fourmis par exemple, vous voyez qu’il y a</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_af8ccf55"
+                    
+                    BASELINE="558 2110 1920 2104" 
+                    HPOS="552"
+                    VPOS="2066"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 2110 552 2069 1911 2066 1920 2104 1917 2119 558 2125"/></Shape>
+	    <String CONTENT="deux races différentes. La dernière est une race qui a été conquise et réduite."
+                    HPOS="552"
+                    VPOS="2066"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_14384150" >
-        <Coords points="558,2058 558,2014 1917,2020 1920,2063 1914,2075 552,2072"/>
-        <Baseline points="558,2058 1920,2063"/>
-        <TextEquiv>
-          <Unicode>des fourmis qui commandent, d’autres qui sont réduites en esclavage; ce sont</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_01682da6"
+                    
+                    BASELINE="558 2151 1923 2160" 
+                    HPOS="552"
+                    VPOS="2110"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 2151 558 2110 1920 2119 1923 2160 1917 2172 552 2166"/></Shape>
+	    <String CONTENT="en esclavage. Néanmoins tout cela forme une société, et il y a des fourmis"
+                    HPOS="552"
+                    VPOS="2110"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_af8ccf55" >
-        <Coords points="558,2110 552,2069 1911,2066 1920,2104 1917,2119 558,2125"/>
-        <Baseline points="558,2110 1920,2104"/>
-        <TextEquiv>
-          <Unicode>deux races différentes. La dernière est une race qui a été conquise et réduite.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f680f296"
+                    
+                    BASELINE="561 2207 1189 2201" 
+                    HPOS="555"
+                    VPOS="2157"
+                    WIDTH="634"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 2207 555 2163 1181 2157 1189 2201 1186 2215 561 2224"/></Shape>
+	    <String CONTENT="qui remplissent des rôles différents."
+                    HPOS="555"
+                    VPOS="2157"
+                    WIDTH="634"
+                    HEIGHT="67"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_01682da6" >
-        <Coords points="558,2151 558,2110 1920,2119 1923,2160 1917,2172 552,2166"/>
-        <Baseline points="558,2151 1923,2160"/>
-        <TextEquiv>
-          <Unicode>en esclavage. Néanmoins tout cela forme une société, et il y a des fourmis</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f273f0d6"
+                    
+                    BASELINE="605 2248 1923 2248" 
+                    HPOS="605"
+                    VPOS="2201"
+                    WIDTH="1318"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="605 2248 605 2201 1923 2207 1923 2248 1923 2268 605 2268"/></Shape>
+	    <String CONTENT="Eh bien ! parmi nos sociétés humaines, je crois que la majorité est formée"
+                    HPOS="605"
+                    VPOS="2201"
+                    WIDTH="1318"
+                    HEIGHT="67"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_f680f296" >
-        <Coords points="561,2207 555,2163 1181,2157 1189,2201 1186,2215 561,2224"/>
-        <Baseline points="561,2207 1189,2201"/>
-        <TextEquiv>
-          <Unicode>qui remplissent des rôles différents.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_9e191bdf"
+                    
+                    BASELINE="558 2297 1923 2297" 
+                    HPOS="558"
+                    VPOS="2256"
+                    WIDTH="1365"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 2297 558 2256 1923 2259 1923 2297 1923 2315 558 2315"/></Shape>
+	    <String CONTENT="de plusieurs races. Il est probable que les Mincopies, par exemple, dont"
+                    HPOS="558"
+                    VPOS="2256"
+                    WIDTH="1365"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_f273f0d6" >
-        <Coords points="605,2248 605,2201 1923,2207 1923,2248 1923,2268 605,2268"/>
-        <Baseline points="605,2248 1923,2248"/>
-        <TextEquiv>
-          <Unicode>Eh bien ! parmi nos sociétés humaines, je crois que la majorité est formée</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_753a7e2f"
+                    
+                    BASELINE="552 2344 1926 2344" 
+                    HPOS="552"
+                    VPOS="2303"
+                    WIDTH="1374"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2344 552 2303 1926 2303 1926 2344 1926 2359 552 2364"/></Shape>
+	    <String CONTENT="je vous parlais tout à l’heure, sont formés d’une même race. Dans les so-"
+                    HPOS="552"
+                    VPOS="2303"
+                    WIDTH="1374"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_9e191bdf" >
-        <Coords points="558,2297 558,2256 1923,2259 1923,2297 1923,2315 558,2315"/>
-        <Baseline points="558,2297 1923,2297"/>
-        <TextEquiv>
-          <Unicode>de plusieurs races. Il est probable que les Mincopies, par exemple, dont</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_c6a32fd4"
+                    
+                    BASELINE="558 2391 1926 2391" 
+                    HPOS="558"
+                    VPOS="2350"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2391 558 2350 1926 2350 1926 2391 1926 2408 558 2408"/></Shape>
+	    <String CONTENT="ciétés, telles qu’elles sont organisées, les sociétés supérieures comme les"
+                    HPOS="558"
+                    VPOS="2350"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_753a7e2f" >
-        <Coords points="552,2344 552,2303 1926,2303 1926,2344 1926,2359 552,2364"/>
-        <Baseline points="552,2344 1926,2344"/>
-        <TextEquiv>
-          <Unicode>je vous parlais tout à l’heure, sont formés d’une même race. Dans les so-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_3efcc94d"
+                    
+                    BASELINE="558 2435 1923 2440" 
+                    HPOS="552"
+                    VPOS="2391"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2435 558 2391 1920 2397 1923 2440 1917 2452 552 2446"/></Shape>
+	    <String CONTENT="sociétés européennes, nous voyons des multitudes de races et de variétés."
+                    HPOS="552"
+                    VPOS="2391"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_c6a32fd4" >
-        <Coords points="558,2391 558,2350 1926,2350 1926,2391 1926,2408 558,2408"/>
-        <Baseline points="558,2391 1926,2391"/>
-        <TextEquiv>
-          <Unicode>ciétés, telles qu’elles sont organisées, les sociétés supérieures comme les</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_12aa042b"
+                    
+                    BASELINE="561 2484 1929 2487" 
+                    HPOS="558"
+                    VPOS="2432"
+                    WIDTH="1371"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 2484 561 2432 1929 2443 1929 2487 1926 2502 558 2502"/></Shape>
+	    <String CONTENT="Malgré cela, ces sociétés sont organisées; elles possèdent toutes les fonctions."
+                    HPOS="558"
+                    VPOS="2432"
+                    WIDTH="1371"
+                    HEIGHT="70"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_3efcc94d" >
-        <Coords points="558,2435 558,2391 1920,2397 1923,2440 1917,2452 552,2446"/>
-        <Baseline points="558,2435 1923,2440"/>
-        <TextEquiv>
-          <Unicode>sociétés européennes, nous voyons des multitudes de races et de variétés.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_d424c15d"
+                    
+                    BASELINE="561 2534 1195 2528" 
+                    HPOS="555"
+                    VPOS="2487"
+                    WIDTH="640"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 2534 555 2493 1186 2487 1195 2528 1192 2543 561 2546"/></Shape>
+	    <String CONTENT="dont je voulais parler tout à l’heure."
+                    HPOS="555"
+                    VPOS="2487"
+                    WIDTH="640"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_12aa042b" >
-        <Coords points="561,2484 561,2432 1929,2443 1929,2487 1926,2502 558,2502"/>
-        <Baseline points="561,2484 1929,2487"/>
-        <TextEquiv>
-          <Unicode>Malgré cela, ces sociétés sont organisées; elles possèdent toutes les fonctions.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_a09086e0"
+                    
+                    BASELINE="602 2572 1926 2578" 
+                    HPOS="596"
+                    VPOS="2531"
+                    WIDTH="1330"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="602 2572 602 2531 1923 2537 1926 2578 1920 2590 596 2584"/></Shape>
+	    <String CONTENT="La distinction que je voulais établir entre la nation et l’État, c&#39;est que la"
+                    HPOS="596"
+                    VPOS="2531"
+                    WIDTH="1330"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_d424c15d" >
-        <Coords points="561,2534 555,2493 1186,2487 1195,2528 1192,2543 561,2546"/>
-        <Baseline points="561,2534 1195,2528"/>
-        <TextEquiv>
-          <Unicode>dont je voulais parler tout à l’heure.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_b6e718a5"
+                    
+                    BASELINE="561 2625 1923 2625" 
+                    HPOS="561"
+                    VPOS="2584"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 2625 561 2584 1923 2584 1923 2625 1923 2642 561 2642"/></Shape>
+	    <String CONTENT="nation est un groupe d’individus organisés en société. L’État, lui, représente"
+                    HPOS="561"
+                    VPOS="2584"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_a09086e0" >
-        <Coords points="602,2572 602,2531 1923,2537 1926,2578 1920,2590 596,2584"/>
-        <Baseline points="602,2572 1926,2578"/>
-        <TextEquiv>
-          <Unicode>La distinction que je voulais établir entre la nation et l’État, c&#39;est que la</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_17e3f9e4"
+                    
+                    BASELINE="561 2671 1926 2671" 
+                    HPOS="561"
+                    VPOS="2631"
+                    WIDTH="1365"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 2671 561 2631 1926 2631 1926 2671 1926 2689 561 2689"/></Shape>
+	    <String CONTENT="une fonction; il représente une fonction correspondant en biologie à l’inner-"
+                    HPOS="561"
+                    VPOS="2631"
+                    WIDTH="1365"
+                    HEIGHT="58"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_b6e718a5" >
-        <Coords points="561,2625 561,2584 1923,2584 1923,2625 1923,2642 561,2642"/>
-        <Baseline points="561,2625 1923,2625"/>
-        <TextEquiv>
-          <Unicode>nation est un groupe d’individus organisés en société. L’État, lui, représente</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_f5c627c0"
+                    
+                    BASELINE="561 2718 1926 2718" 
+                    HPOS="561"
+                    VPOS="2677"
+                    WIDTH="1365"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 2718 561 2677 1926 2677 1926 2718 1926 2736 561 2736"/></Shape>
+	    <String CONTENT="vation; j’aurais désiré justement vous montrer en quelques mots ce parallèle"
+                    HPOS="561"
+                    VPOS="2677"
+                    WIDTH="1365"
+                    HEIGHT="59"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_17e3f9e4" >
-        <Coords points="561,2671 561,2631 1926,2631 1926,2671 1926,2689 561,2689"/>
-        <Baseline points="561,2671 1926,2671"/>
-        <TextEquiv>
-          <Unicode>une fonction; il représente une fonction correspondant en biologie à l’inner-</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_be8b50e2"
+                    
+                    BASELINE="561 2762 1929 2768" 
+                    HPOS="558"
+                    VPOS="2718"
+                    WIDTH="1371"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 2762 561 2718 1926 2724 1929 2768 1926 2783 558 2783"/></Shape>
+	    <String CONTENT="qui est étonnant, et sur lequel on a insisté depuis quelques années, entre les"
+                    HPOS="558"
+                    VPOS="2718"
+                    WIDTH="1371"
+                    HEIGHT="65"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_f5c627c0" >
-        <Coords points="561,2718 561,2677 1926,2677 1926,2718 1926,2736 561,2736"/>
-        <Baseline points="561,2718 1926,2718"/>
-        <TextEquiv>
-          <Unicode>vation; j’aurais désiré justement vous montrer en quelques mots ce parallèle</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_38a5e3ce"
+                    
+                    BASELINE="561 2815 1929 2821" 
+                    HPOS="555"
+                    VPOS="2768"
+                    WIDTH="1374"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2815 561 2768 1926 2774 1929 2821 1923 2832 555 2826"/></Shape>
+	    <String CONTENT="sociétés et les êtres vivants. L’agriculture, qui fournit la matière première,"
+                    HPOS="555"
+                    VPOS="2768"
+                    WIDTH="1374"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_be8b50e2" >
-        <Coords points="561,2762 561,2718 1926,2724 1929,2768 1926,2783 558,2783"/>
-        <Baseline points="561,2762 1929,2768"/>
-        <TextEquiv>
-          <Unicode>qui est étonnant, et sur lequel on a insisté depuis quelques années, entre les</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+          
+          <TextLine ID="eSc_line_48088fa9"
+                    
+                    BASELINE="1727 2888 1794 2882" 
+                    HPOS="1718"
+                    VPOS="2841"
+                    WIDTH="76"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1727 2888 1718 2847 1786 2841 1794 2882 1792 2899 1727 2905"/></Shape>
+	    <String CONTENT="18."
+                    HPOS="1718"
+                    VPOS="2841"
+                    WIDTH="76"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_38a5e3ce" >
-        <Coords points="561,2815 561,2768 1926,2774 1929,2821 1923,2832 555,2826"/>
-        <Baseline points="561,2815 1929,2821"/>
-        <TextEquiv>
-          <Unicode>sociétés et les êtres vivants. L’agriculture, qui fournit la matière première,</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3391"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_8189e1e6"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3391 1493 3391 1517 3434 970 3434 970 3391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_25b74b68"
+                    
+                    BASELINE="967 3423 1514 3429" 
+                    HPOS="961"
+                    VPOS="3379"
+                    WIDTH="553"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="967 3423 967 3379 1511 3385 1514 3429 1508 3443 961 3440"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires."
+                    HPOS="961"
+                    VPOS="3379"
+                    WIDTH="553"
+                    HEIGHT="64"></String>
+          </TextLine>
 
-      
-      
-      <TextLine id="eSc_line_48088fa9" >
-        <Coords points="1727,2888 1718,2847 1786,2841 1794,2882 1792,2899 1727,2905"/>
-        <Baseline points="1727,2888 1794,2882"/>
-        <TextEquiv>
-          <Unicode>18.</Unicode>
-        </TextEquiv>
-      </TextLine>
+          
+        </TextBlock>
+        
 
-      
-    </TextRegion>
-    
-    <TextRegion id="eSc_textblock_8189e1e6"  >
-      <Coords points="970,3391 1493,3391 1517,3434 970,3434 970,3391"/>
-      
-      
-      <TextLine id="eSc_line_25b74b68" >
-        <Coords points="967,3423 967,3379 1511,3385 1514,3429 1508,3443 961,3440"/>
-        <Baseline points="967,3423 1514,3429"/>
-        <TextEquiv>
-          <Unicode>Droits reservés au Cnam et à ses partenaires.</Unicode>
-        </TextEquiv>
-      </TextLine>
-
-      
-    </TextRegion>
-    
-
-    
-  </Page>
-</PcGts>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
