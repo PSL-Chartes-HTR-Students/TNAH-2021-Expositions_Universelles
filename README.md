@@ -71,7 +71,7 @@ description des fichiers*
 L'utilisation de mots en écrits en alphabet non-latins dans les articles a posé un défi pour l’encodage. Le modèle 
 eScriptorium 19th century prints ne reconnaît pas une partie importante des citations de langues étrangères dans les 
 comptes rendus. Les mots en polonais, latin, allemand, et anglais ont été correctement reconnus par le modèle. En fait, 
-le modèle les a reconnus avec un degré d’exactitude égal à celui dles mots de la langue principale du document, le 
+le modèle les a reconnus avec un degré d’exactitude égal à celui des mots de la langue principale du document, le 
 français. Les langues non latines, par contre, n’étaient pas reconnues : ce sont le grec, le sanscrit, le russe, le 
 persan, ainsi que les langues peu connues tel que le vieux-slave et l’avestique que les ethnologues ont appelés par leurs 
 nom anciens, le paléoslave et le zend respectivement. Afin de transcrire ces langues, il fallait trouver l’unicode de 
