@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  16 JAN 2022 21:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  17 JAN 2022 00:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -703,69 +703,50 @@ LaTeX Info: Redefining \nameref on input line 25.
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 62.
+(Font)              <7> on input line 60.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 62.
+(Font)              <5> on input line 60.
 
-Overfull \hbox (1596.41396pt too wide) in paragraph at lines 60--64
-\TU/lmr/m/n/10 grandes idéologies de l’Europe libérale $[]$,
- []
-
-[1]
-Overfull \hbox (133.51767pt too wide) in paragraph at lines 75--76
-\TU/lmr/m/n/10 Conservatoire numérique des arts et métiers (CNUM) (http ://cnum
-.cnam.fr/thematiques/fr/1.expositions_universelles/cata_auteurs.php).
- []
-
-
-Overfull \hbox (53.08879pt too wide) in paragraph at lines 75--76
-\TU/lmr/m/n/10 Reste à signaler l’existence d’autres corpus mis à disposition s
-ur Gallica (https ://gallica.bnf.fr/accueil/es/content/accueil-
- []
-
-[2]
+[1] [2]
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 103.
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 114.
  [3]
+Overfull \hbox (13.06767pt too wide) in paragraph at lines 143--144
+[]\TU/lmr/m/n/10 Le fichier \TU/lmtt/b/n/10 Congrès_international_des_sciences_
+ethnographiques_1878.pdf\TU/lmr/m/n/10 , soit le PDF du compte-
+ []
+
+[4]
 Missing character: There is no τ in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no τ in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no ه in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no س in font [lmroman10-italic]:mapping=tex-text;!
 Missing character: There is no ت in font [lmroman10-italic]:mapping=tex-text;!
- [4] [5] (./git_expo-univ_compte-rendu.toc)
+ [5] [6] [7] [8] [9] (./git_expo-univ_compte-rendu.toc)
 \tf@toc=\write5
 \openout5 = `git_expo-univ_compte-rendu.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
- [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 179.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 
 (./git_expo-univ_compte-rendu.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 147.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 179.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `git_expo-univ_compte-rendu.out' has not chan
 ged.
-(rerunfilecheck)             Checksum: 43761E2BF0C43684523211EE6B8F9947;1679.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                git_expo-univ_compte-rendu
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: F6A8D8F152BEB0BA0FC5A42932E833D8;2285.
 Package logreq Info: Writing requests to 'git_expo-univ_compte-rendu.run.xml'.
 \openout1 = `git_expo-univ_compte-rendu.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19450 strings out of 479819
- 373820 string characters out of 5895846
- 1121433 words of memory out of 5000000
- 36390 multiletter control sequences out of 15000+600000
- 532802 words of font info for 38 fonts, out of 8000000 for 9000
+ 19816 strings out of 479819
+ 385386 string characters out of 5895846
+ 1125244 words of memory out of 5000000
+ 36754 multiletter control sequences out of 15000+600000
+ 532810 words of font info for 39 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,6n,45p,1828b,3911s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,4n,46p,11356b,4839s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on git_expo-univ_compte-rendu.pdf (7 pages).
+Output written on git_expo-univ_compte-rendu.pdf (11 pages).

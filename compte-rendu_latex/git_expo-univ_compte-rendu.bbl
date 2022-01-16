@@ -1,0 +1,1717 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{balibarRaceNationClass1991}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9d6110cc06f2ebdc0201eaa08a0f5029}{%
+           family={Balibar},
+           familyi={B\bibinitperiod},
+           given={Étienne},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3082c3a6a5ec6a0382d9192cd073052}{%
+           family={Wallerstein},
+           familyi={W\bibinitperiod},
+           given={Immanuel},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Londres}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{330238f98d68d91df1f3b25cb32c5361}
+      \strng{fullhash}{330238f98d68d91df1f3b25cb32c5361}
+      \strng{bibnamehash}{330238f98d68d91df1f3b25cb32c5361}
+      \strng{authorbibnamehash}{330238f98d68d91df1f3b25cb32c5361}
+      \strng{authornamehash}{330238f98d68d91df1f3b25cb32c5361}
+      \strng{authorfullhash}{330238f98d68d91df1f3b25cb32c5361}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{232}
+      \field{title}{Race, Nation, Class: Ambiguous identities}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{lu,Mémoire,nationalisme,race}
+    \endentry
+    \entry{bancelInventionRaceRepresentations2014}{collection}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=18caea5248faafef5aa308f985155bc1}{%
+           family={Bancel},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b5eb4ac16368112932ff36772cb0b0b5}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {La Découverte}%
+      }
+      \strng{namehash}{823e76fa0596e3b32512301196409323}
+      \strng{fullhash}{823e76fa0596e3b32512301196409323}
+      \strng{bibnamehash}{823e76fa0596e3b32512301196409323}
+      \strng{editorbibnamehash}{823e76fa0596e3b32512301196409323}
+      \strng{editornamehash}{823e76fa0596e3b32512301196409323}
+      \strng{editorfullhash}{823e76fa0596e3b32512301196409323}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{440}
+      \field{title}{L'invention de la race : des représentations scientifiques aux exhibitions populaires}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Expositions universelles,Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{benjaminParisCapitaleXIXe2003}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b5d39b16d16760e0e4573a45fc6f9f97}{%
+           family={Benjamin},
+           familyi={B\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Allia}%
+      }
+      \strng{namehash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \strng{fullhash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \strng{bibnamehash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \strng{authorbibnamehash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \strng{authornamehash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \strng{authorfullhash}{b5d39b16d16760e0e4573a45fc6f9f97}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{64}
+      \field{title}{Paris, capitale du {XIXe} siècle}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Benjamin, 2003 - Paris, capitale du XIXe siècle.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Benjamin, 2003 - Paris, capitale du XIXe siècle.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,modernité/historicité/Philo}
+    \endentry
+    \entry{blanckaertHistoireSciencesHomme1999}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=707f5683c55c9b77920b6f84baa8cb99}{%
+           family={Blanckaert},
+           familyi={B\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{fullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{bibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorbibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authornamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorfullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{308}
+      \field{title}{l’Histoire des sciences de l’Homme. Trajectoire, enjeux et questions vives}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{blanckaertSpectaclesEthniquesCulture2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=707f5683c55c9b77920b6f84baa8cb99}{%
+           family={Blanckaert},
+           familyi={B\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{fullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{bibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorbibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authornamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorfullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue d'Histoire des Sciences Humaines}
+      \field{number}{7}
+      \field{title}{Spectacles ethniques et culture de masse au temps des colonies}
+      \field{year}{2002}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{223\bibrangedash 232}
+      \range{pages}{10}
+      \verb{file}
+      \verb Blanckaert, 2002 - Spectacles ethniques et culture de masse au temps des colonies.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Blanckaert, 2002 - Spectacles ethniques et culture de masse au temps des colonies.pdf:application/pdf
+      \endverb
+      \keyw{race,Subalternité}
+    \endentry
+    \entry{blanckaertRaceEvolutionPaul2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=707f5683c55c9b77920b6f84baa8cb99}{%
+           family={Blanckaert},
+           familyi={B\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Harmattan}%
+      }
+      \strng{namehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{fullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{bibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorbibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authornamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorfullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-296-10511-9}
+      \field{note}{{OCLC}: 838678701}
+      \field{pagetotal}{616}
+      \field{shorttitle}{De la race à l'évolution}
+      \field{title}{De la race à l'évolution: Paul Broca et l'anthropologie française (1850 - 1900)}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{blanckaertNatureSocieteOrganicisme2014}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=707f5683c55c9b77920b6f84baa8cb99}{%
+           family={Blanckaert},
+           familyi={B\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{fullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{bibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorbibnamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authornamehash}{707f5683c55c9b77920b6f84baa8cb99}
+      \strng{authorfullhash}{707f5683c55c9b77920b6f84baa8cb99}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-7475-7691-8}
+      \field{note}{{OCLC}: 955489669}
+      \field{pagetotal}{158}
+      \field{shorttitle}{La nature de la société}
+      \field{title}{La nature de la société : organicisme et sciences sociales au {XIXe} siècle}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,positivisme}
+    \endentry
+    \entry{burtonWorldFairsAnthropology1981}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39cf5012a2656f5422702ade9e0b8737}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Benedict},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{fullhash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{bibnamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authorbibnamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authornamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authorfullhash}{39cf5012a2656f5422702ade9e0b8737}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World’s Fair}
+      \field{number}{4}
+      \field{title}{World’s Fairs and Anthropology}
+      \field{volume}{1}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{15\bibrangedash 16}
+      \range{pages}{2}
+      \keyw{Expositions universelles,race}
+    \endentry
+    \entry{burtonInternationalExhibitionsNational1991}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39cf5012a2656f5422702ade9e0b8737}{%
+           family={Burton},
+           familyi={B\bibinitperiod},
+           given={Benedict},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{fullhash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{bibnamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authorbibnamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authornamehash}{39cf5012a2656f5422702ade9e0b8737}
+      \strng{authorfullhash}{39cf5012a2656f5422702ade9e0b8737}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Anthropology Today}
+      \field{title}{International Exhibitions and National Identity}
+      \field{volume}{6}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{5\bibrangedash 9}
+      \range{pages}{5}
+      \verb{file}
+      \verb Burton, 1991 - International Exhibitions and National Identity.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Burton, 1991 - International Exhibitions and National Identity.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,lu,Mémoire,nationalisme}
+    \endentry
+    \entry{carreExpositionsUniversellesFrance2012}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e9f0ae5e95b187378644e0b173a5ebfc}{%
+           family={Carré},
+           familyi={C\bibinitperiod},
+           given={Anne\bibnamedelima Laure},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=462e95215524025b46712eefdcd62ebe}{%
+           family={Corcy},
+           familyi={C\bibinitperiod},
+           given={Marie-Sophie},
+           giveni={M\bibinithyphendelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d64f8e95f2b9e972be609475bc117fe4}{%
+           family={Hilaire-Perez},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Liliane},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS}%
+      }
+      \strng{namehash}{06b5b97c73aea7c9bfe5f929c48f8c97}
+      \strng{fullhash}{fa80ac645e9b029f45f673ae32015fde}
+      \strng{bibnamehash}{06b5b97c73aea7c9bfe5f929c48f8c97}
+      \strng{authorbibnamehash}{06b5b97c73aea7c9bfe5f929c48f8c97}
+      \strng{authornamehash}{06b5b97c73aea7c9bfe5f929c48f8c97}
+      \strng{authorfullhash}{fa80ac645e9b029f45f673ae32015fde}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{482}
+      \field{title}{Les expositions universelles en France au {XIX} siècle, Techniques, publics, patrimoine}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Carré et al., 2012 - Les expositions universelles en France au XIX siècle, Techniques, publics, patrimoine.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Carré et al., 2012 - Les expositions universelles en France au XIX siècle, Techniques, publics, patrimoine.doc:application/msword;Carré et al., 2012 - Les expositions universelles en France au XIX siècle, Techniques, publics, patrimoine.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Carré et al., 2012 - Les expositions universelles en France au XIX siècle, Techniques, publics, patrimoine.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,france,Livre physiqye,lu,Mémoire}
+    \endentry
+    \entry{charleDiscordanceTempsBreve2011}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ebe17ecd2cba0de953c95f8ef7168ddd}{%
+           family={Charle},
+           familyi={C\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Armand Colin}%
+      }
+      \strng{namehash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \strng{fullhash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \strng{bibnamehash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \strng{authorbibnamehash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \strng{authornamehash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \strng{authorfullhash}{ebe17ecd2cba0de953c95f8ef7168ddd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-2-200-27191-6}
+      \field{pagetotal}{494}
+      \field{series}{Le temps des idées}
+      \field{shorttitle}{La discordance des temps}
+      \field{title}{Discordance des temps : une brève histoire de la modernité}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{lu,Mémoire,modernité/historicité/Philo}
+    \endentry
+    \entry{conklinExposerHumaniteRace2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b97be3ed9d6e977db37d531e4ca3f1a1}{%
+           family={Conklin},
+           familyi={C\bibinitperiod},
+           given={Alice},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Publications scientifiques du Muséum national d’Histoire naturelle}%
+      }
+      \strng{namehash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \strng{fullhash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \strng{bibnamehash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \strng{authorbibnamehash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \strng{authornamehash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \strng{authorfullhash}{b97be3ed9d6e977db37d531e4ca3f1a1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{541}
+      \field{title}{Exposer l’Humanité. Race, ethnologie et empire en France (1850-1950)}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,race}
+    \endentry
+    \entry{corbeyEthnographicShowcases187019301992}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e99c4970ef7013178d2e7d5b3d7ecf52}{%
+           family={Corbey},
+           familyi={C\bibinitperiod},
+           given={Raymond},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \strng{fullhash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \strng{bibnamehash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \strng{authorbibnamehash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \strng{authornamehash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \strng{authorfullhash}{e99c4970ef7013178d2e7d5b3d7ecf52}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cultural Anthropology}
+      \field{number}{2}
+      \field{title}{Ethnographic Showcases, 1870-1930}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{338\bibrangedash 369}
+      \range{pages}{32}
+      \verb{file}
+      \verb Corbey, 1992 - Ethnographic Showcases, 1870-1930.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Corbey, 1992 - Ethnographic Showcases, 1870-1930.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,Histoire des sciences/épistémologie,race}
+    \endentry
+    \entry{demeulenaere-douyereExotiquesExpositionsExpositions2010}{collection}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Archives nationales/Somogy}%
+      }
+      \strng{namehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{fullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{bibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editorbibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editornamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editorfullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{215}
+      \field{title}{Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-12.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-3.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-4.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-5.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-6.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-7.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-8.doc:application/msword;Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937.doc:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère, 2010 - Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-9.doc:application/msword
+      \endverb
+      \keyw{Expositions universelles,france,lu,Mémoire,Subalternité}
+    \endentry
+    \entry{demeulenaere-douyereEntreArcheologieSavante2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d64f8e95f2b9e972be609475bc117fe4}{%
+           family={Hilaire-Perez},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Liliane},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Rennes}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{fullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{bibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{authorbibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{authornamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{authorfullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editorbibnamehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{editornamehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{editorfullhash}{2a357153b2cc27379494d8de3d1da324}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Les expositions universelles. Les identités au défit de la modernité}
+      \field{title}{Entre archéologie savante, intention politique et divertissement grand public : La Révélation du Mexique ancien dans les expositions universelles (1867-1889)}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{234}
+      \range{pages}{1}
+      \keyw{Expositions universelles,México,nationalisme}
+    \endentry
+    \entry{demeulenaere-douyereExpositionsUniversellesIdentites2014}{collection}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d64f8e95f2b9e972be609475bc117fe4}{%
+           family={Hilaire-Perez},
+           familyi={H\bibinithyphendelim P\bibinitperiod},
+           given={Liliane},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rennes}%
+      }
+      \list{publisher}{1}{%
+        {Presses universitaires de Rennes}%
+      }
+      \strng{namehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{fullhash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{bibnamehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{editorbibnamehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{editornamehash}{2a357153b2cc27379494d8de3d1da324}
+      \strng{editorfullhash}{2a357153b2cc27379494d8de3d1da324}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{234}
+      \field{title}{Les expositions universelles. Les identités au défi de la modernité}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité2.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité3.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité4.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité5.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité6.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité7.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité8.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité9.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité10.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité11.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité12.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité13.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité14.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité15.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité16.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité17.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité18.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité19.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité20.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité21.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité22.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité23.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité24.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité25.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité26.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité27.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité28.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité29.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité30.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité31.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité32.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité33.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité34.pdf:application/pdf;Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Demeulenaere-Douyère et Hilaire-Perez, 2014 - Les expositions universelles. Les identités au défi de la modernité35.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,france,lu,Mémoire,modernité/historicité/Philo}
+    \endentry
+    \entry{diasMuseeEthnographieTrocadero1991}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30e1eba5752d2492f82496badac44578}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Nélia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {CNRS}%
+      }
+      \strng{namehash}{30e1eba5752d2492f82496badac44578}
+      \strng{fullhash}{30e1eba5752d2492f82496badac44578}
+      \strng{bibnamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authorbibnamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authornamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authorfullhash}{30e1eba5752d2492f82496badac44578}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{310}
+      \field{title}{Le Musée d’ethnographie du Trocadéro (1878-1908). Anthropologie et muséologie en France}
+      \field{year}{1991}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{france,Histoire des sciences/épistémologie,race}
+    \endentry
+    \entry{diasMesureSensAnthropologues2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30e1eba5752d2492f82496badac44578}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Nélia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Aubier}%
+      }
+      \strng{namehash}{30e1eba5752d2492f82496badac44578}
+      \strng{fullhash}{30e1eba5752d2492f82496badac44578}
+      \strng{bibnamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authorbibnamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authornamehash}{30e1eba5752d2492f82496badac44578}
+      \strng{authorfullhash}{30e1eba5752d2492f82496badac44578}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{357}
+      \field{title}{La mesure des sens : les anthropologues et le corps humain au {XIXe} siècle}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,race}
+    \endentry
+    \entry{duchetAnthropologieHistoireAu1996}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6290cae7d43a429acf6fbbf31f1d6d4f}{%
+           family={Duchet},
+           familyi={D\bibinitperiod},
+           given={Michèle},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Albin Michel}%
+      }
+      \strng{namehash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \strng{fullhash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \strng{bibnamehash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \strng{authorbibnamehash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \strng{authornamehash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \strng{authorfullhash}{6290cae7d43a429acf6fbbf31f1d6d4f}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{608}
+      \field{title}{Anthropologie et histoire au siècle des Lumières}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,modernité/historicité/Philo,race}
+    \endentry
+    \entry{gippertEncodingAvestanProblems2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7a39af38c8ee585a3140d3175bdf4bb5}{%
+           family={Gippert},
+           familyi={G\bibinitperiod},
+           given={Jost},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \strng{fullhash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \strng{bibnamehash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \strng{authorbibnamehash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \strng{authornamehash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \strng{authorfullhash}{7a39af38c8ee585a3140d3175bdf4bb5}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal for Language Technology and Computational Linguistics}
+      \field{number}{27}
+      \field{title}{The Encoding of Avestan — Problems and Solutions}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+    \endentry
+    \entry{greenhalghEphemeralVistasExpositions1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=abbbee5e58827cefcd36e9f7b01f38d4}{%
+           family={Greenhalgh},
+           familyi={G\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Manchester}%
+      }
+      \list{publisher}{1}{%
+        {Manchester University Press}%
+      }
+      \strng{namehash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \strng{fullhash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \strng{bibnamehash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \strng{authorbibnamehash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \strng{authornamehash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \strng{authorfullhash}{abbbee5e58827cefcd36e9f7b01f38d4}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{245}
+      \field{title}{Ephemeral Vistas : The Expositions Universelles, Great Exhibitions and World’s Fairs, 1851-1939}
+      \field{year}{1988}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Expositions universelles,lu,Mémoire}
+    \endentry
+    \entry{hauserEntreSoftPower2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c1c1aa6d3f405b698499508a4ea16f10}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={Claude},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82412826241e3fcf27e259e216ea37be}{%
+           family={Valloton},
+           familyi={V\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{53008b4e30fb41da6958a49b726725ff}
+      \strng{fullhash}{53008b4e30fb41da6958a49b726725ff}
+      \strng{bibnamehash}{53008b4e30fb41da6958a49b726725ff}
+      \strng{authorbibnamehash}{53008b4e30fb41da6958a49b726725ff}
+      \strng{authornamehash}{53008b4e30fb41da6958a49b726725ff}
+      \strng{authorfullhash}{53008b4e30fb41da6958a49b726725ff}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Relations internationales}
+      \field{number}{164}
+      \field{title}{Entre soft power, compétition économique et divertissement de masse : les expositions internationales aux {XIXe} et {XXe} siècles}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{3\bibrangedash 8}
+      \range{pages}{6}
+      \verb{file}
+      \verb Hauser et Valloton, 2015 - Entre soft power, compétition économique et divertissement de masse - les expositions internationales aux XIXe et XXe siècles.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Hauser et Valloton, 2015 - Entre soft power, compétition économique et divertissement de masse - les expositions internationales aux XIXe et XXe siècles.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles}
+    \endentry
+    \entry{hodeirExhibitionsHumainesDans2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33e47a21b3025d2822c5915432178885}{%
+           family={Hodeir},
+           familyi={H\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=18caea5248faafef5aa308f985155bc1}{%
+           family={Bancel},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b5eb4ac16368112932ff36772cb0b0b5}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {La Découverte}%
+      }
+      \strng{namehash}{33e47a21b3025d2822c5915432178885}
+      \strng{fullhash}{33e47a21b3025d2822c5915432178885}
+      \strng{bibnamehash}{33e47a21b3025d2822c5915432178885}
+      \strng{authorbibnamehash}{33e47a21b3025d2822c5915432178885}
+      \strng{authornamehash}{33e47a21b3025d2822c5915432178885}
+      \strng{authorfullhash}{33e47a21b3025d2822c5915432178885}
+      \strng{editorbibnamehash}{823e76fa0596e3b32512301196409323}
+      \strng{editornamehash}{823e76fa0596e3b32512301196409323}
+      \strng{editorfullhash}{823e76fa0596e3b32512301196409323}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{L’invention de la race : des représentations scientifiques aux exhibitions populaires}
+      \field{title}{Les exhibitions humaines dans les expositions universelles : entre catégorisation scientifique et exotisme ? World's Columbian Exposition, Chicago, 1893}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{247\bibrangedash 259}
+      \range{pages}{13}
+      \verb{file}
+      \verb Hodeir, 2014 - Les exhibitions humaines dans les expositions universelles - entre catégorisation scientifique et exotisme - World's Columbian Exposition, Chicago, 1893.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Hodeir, 2014 - Les exhibitions humaines dans les expositions universelles - entre catégorisation scientifique et exotisme - World's Columbian Exposition, Chicago, 1893.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,france,Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{legoffOrigineMuseeTrocadero2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f7866c23f330c3019fb60d8e5911b2b}{%
+           family={Le\bibnamedelima Goff},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Armelle},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Archives nationales/Somogy}%
+      }
+      \strng{namehash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{fullhash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{bibnamehash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{authorbibnamehash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{authornamehash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{authorfullhash}{8f7866c23f330c3019fb60d8e5911b2b}
+      \strng{editorbibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editornamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editorfullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937}
+      \field{title}{À l’origine du musée du Trocadéro : les missions scientifiques du ministère de l’Instruction publique}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{216}
+      \range{pages}{1}
+      \keyw{Expositions universelles,france}
+    \endentry
+    \entry{lopez-oconcabreraExhibicionPoderCiencia1998}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ba3516e4908ce9e3cf6fe3470242c08c}{%
+           family={López-Ocón\bibnamedelima Cabrera},
+           familyi={L\bibinithyphendelim O\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Leoncio},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{3}{}{%
+        {{hash=f0f95e12aded8dcab99329da182e166b}{%
+           family={Cardoso\bibnamedelimb de\bibnamedelima Matos},
+           familyi={C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=367ebefd6e2cf5f6d8c08eb72433b0e9}{%
+           family={Guedes},
+           familyi={G\bibinitperiod},
+           given={María\bibnamedelima Estela},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=7fd9ade3c208dd6ab74857a12778905f}{%
+           family={Mourao},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima Augusto},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lisbonne}%
+      }
+      \list{publisher}{1}{%
+        {Vega}%
+      }
+      \strng{namehash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{fullhash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{bibnamehash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{authorbibnamehash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{authornamehash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{authorfullhash}{ba3516e4908ce9e3cf6fe3470242c08c}
+      \strng{bookauthorbibnamehash}{7bae6eeec1ef55a0403a3e9b51a5d6d0}
+      \strng{bookauthornamehash}{7bae6eeec1ef55a0403a3e9b51a5d6d0}
+      \strng{bookauthorfullhash}{7bae6eeec1ef55a0403a3e9b51a5d6d0}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{O mundo ibero-americano nas grandes exposiçoes}
+      \field{title}{La exhibición del poder de la ciencia. La América Latina en el escenario de las exposiciones universales del siglo {XIX}}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{67\bibrangedash 90}
+      \range{pages}{24}
+      \keyw{América latina,Expositions universelles,Histoire des sciences/épistémologie,México}
+    \endentry
+    \entry{michaudInvasionsBarbaresGenealogie2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7d5fe4b4e56e40b739171a0d224e7838}{%
+           family={Michaud},
+           familyi={M\bibinitperiod},
+           given={Éric},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Gallimard}%
+      }
+      \strng{namehash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \strng{fullhash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \strng{bibnamehash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \strng{authorbibnamehash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \strng{authornamehash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \strng{authorfullhash}{7d5fe4b4e56e40b739171a0d224e7838}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{301}
+      \field{title}{Les invasions barbares. Une généalogie de l’histoire de l’art}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire de l'art/Visual studies,lu,Mémoire,race}
+    \endentry
+    \entry{nelmsThirdRepublicCentennial1987}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86edd53d94f874fa9724056b4ceb9b81}{%
+           family={Nelms},
+           familyi={N\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{86edd53d94f874fa9724056b4ceb9b81}
+      \strng{fullhash}{86edd53d94f874fa9724056b4ceb9b81}
+      \strng{bibnamehash}{86edd53d94f874fa9724056b4ceb9b81}
+      \strng{authorbibnamehash}{86edd53d94f874fa9724056b4ceb9b81}
+      \strng{authornamehash}{86edd53d94f874fa9724056b4ceb9b81}
+      \strng{authorfullhash}{86edd53d94f874fa9724056b4ceb9b81}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{304}
+      \field{title}{The third Republic and the Centennial of 1789}
+      \field{year}{1987}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Expositions universelles}
+    \endentry
+    \entry{noelExpositionUniverselle18782014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=44e2aa82529c15ad3d4369e67230b2dd}{%
+           family={Noël},
+           familyi={N\bibinitperiod},
+           given={Bastien},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \strng{fullhash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \strng{bibnamehash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \strng{authorbibnamehash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \strng{authornamehash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \strng{authorfullhash}{44e2aa82529c15ad3d4369e67230b2dd}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Diacronie}
+      \field{number}{18}
+      \field{title}{Exposition universelle de 1878. L’archéologie au service des contestations contemporaines}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{13}
+      \range{pages}{1}
+      \verb{file}
+      \verb Noël, 2014 - Exposition universelle de 1878. L’archéologie au service des contestations contemporaines.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Noël, 2014 - Exposition universelle de 1878. L’archéologie au service des contestations contemporaines.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,france}
+    \endentry
+    \entry{noeldenieulSauvageCiviliseAu2007}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5df55d0bce5de12163ce2683e67f5345}{%
+           family={Noël\bibnamedelima Denieul},
+           familyi={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Harmattan}%
+      }
+      \strng{namehash}{5df55d0bce5de12163ce2683e67f5345}
+      \strng{fullhash}{5df55d0bce5de12163ce2683e67f5345}
+      \strng{bibnamehash}{5df55d0bce5de12163ce2683e67f5345}
+      \strng{authorbibnamehash}{5df55d0bce5de12163ce2683e67f5345}
+      \strng{authornamehash}{5df55d0bce5de12163ce2683e67f5345}
+      \strng{authorfullhash}{5df55d0bce5de12163ce2683e67f5345}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{83}
+      \field{title}{Le sauvage et le civilisé au siècle des Lumières. Essai sur les origines de la culture materielle}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{lu,Material culture,Mémoire,modernité/historicité/Philo,race}
+    \endentry
+    \entry{oryExpositionsUniversellesParis1982}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d837dda47d2c47743b2ea34b24d38f2}{%
+           family={Ory},
+           familyi={O\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Ramsay}%
+      }
+      \strng{namehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{fullhash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{bibnamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authorbibnamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authornamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authorfullhash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \field{extraname}{1}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{158}
+      \field{title}{Les expositions universelles de Paris}
+      \field{year}{1982}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Expositions universelles,france}
+    \endentry
+    \entry{oryExpositionsUniverselles18512010}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d837dda47d2c47743b2ea34b24d38f2}{%
+           family={Ory},
+           familyi={O\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{fullhash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{bibnamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authorbibnamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authornamehash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \strng{authorfullhash}{6d837dda47d2c47743b2ea34b24d38f2}
+      \field{extraname}{2}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Les expositions universelles, de 1851 à 2010 : huit fonctions de la modernité}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Ory, 2010 - Les expositions universelles, de 1851 à 2010 - huit fonctions de la modernité.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Ory, 2010 - Les expositions universelles, de 1851 à 2010 - huit fonctions de la modernité.pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,modernité/historicité/Philo}
+    \endentry
+    \entry{pestreHistoireSciencesSavoirs2015}{book}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8b10bdc5fb6841a630c5d906f06b55b1}{%
+           family={Pestre},
+           familyi={P\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd373655e8602ccdc19e42709ec69bfc}{%
+           family={Alexander},
+           familyi={A\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9b3e4ec7974c8b372745f92da7f0fea}{%
+           family={Berlivet},
+           familyi={B\bibinitperiod},
+           given={Luc},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7e995ad155f60551ffb7ce24fd77744}{%
+           family={Aubin},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36212aeaab43d50467aca8ec1cc07fe9}{%
+           family={Raj},
+           familyi={R\bibinitperiod},
+           given={Kapil},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9fa7d13138c987b917fe2fb9b3da6b9}{%
+           family={Sibum},
+           familyi={S\bibinitperiod},
+           given={Heinz\bibnamedelima Otto},
+           giveni={H\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Seuil}%
+      }
+      \strng{namehash}{c37c01e016e4af986976b6e02d2db6a9}
+      \strng{fullhash}{d32bcb63e5081041ab1f18ac6607d3ef}
+      \strng{bibnamehash}{c37c01e016e4af986976b6e02d2db6a9}
+      \strng{authorbibnamehash}{c37c01e016e4af986976b6e02d2db6a9}
+      \strng{authornamehash}{c37c01e016e4af986976b6e02d2db6a9}
+      \strng{authorfullhash}{d32bcb63e5081041ab1f18ac6607d3ef}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-2-02-107677-6}
+      \field{note}{{OCLC}: 926039463}
+      \field{pagetotal}{456}
+      \field{title}{Histoire des sciences et des savoirs. Tome 2 : Modernité et globalisation}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,Nature/Territoire,race,Subalternité}
+    \endentry
+    \entry{pinotdevillechenonExpositionsUniverselles1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e6babc0e542a5fe06376b0a7ecc04c1}{%
+           family={Pinot\bibnamedelimb de\bibnamedelima Villechenon},
+           familyi={P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Florence},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de France}%
+      }
+      \strng{namehash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \strng{fullhash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \strng{bibnamehash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \strng{authorbibnamehash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \strng{authornamehash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \strng{authorfullhash}{1e6babc0e542a5fe06376b0a7ecc04c1}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{126}
+      \field{series}{Que sais-je ?}
+      \field{title}{Les expositions universelles}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Expositions universelles,lu,Mémoire}
+    \endentry
+    \entry{porterWritingHistorySocial2003}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ccf63a820f6bafe9cbbe11ee065d8190}{%
+           family={Porter},
+           familyi={P\bibinitperiod},
+           given={Theodore},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0b5c2a3c47fffbbc839fa17dd38cbd0}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Dorothy},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{601156d8e812e662a4ee53f3f1b2f224}
+      \strng{fullhash}{601156d8e812e662a4ee53f3f1b2f224}
+      \strng{bibnamehash}{601156d8e812e662a4ee53f3f1b2f224}
+      \strng{authorbibnamehash}{601156d8e812e662a4ee53f3f1b2f224}
+      \strng{authornamehash}{601156d8e812e662a4ee53f3f1b2f224}
+      \strng{authorfullhash}{601156d8e812e662a4ee53f3f1b2f224}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Cambridge History of Science vol. 7, The Modern Social Sciences}
+      \field{title}{Writing the History of Social Science}
+      \field{year}{2003}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{przyblyskiVisionsRaceNation2001}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5dae1f4729af17968ee9f52c67a12d3c}{%
+           family={Przyblyski},
+           familyi={P\bibinitperiod},
+           given={Jeannene},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=771bbbe4ae6c326844370fd48439c33e}{%
+           family={Chew},
+           familyi={C\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Rodopi}%
+      }
+      \strng{namehash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{fullhash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{bibnamehash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{authorbibnamehash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{authornamehash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{authorfullhash}{5dae1f4729af17968ee9f52c67a12d3c}
+      \strng{bookauthorbibnamehash}{771bbbe4ae6c326844370fd48439c33e}
+      \strng{bookauthornamehash}{771bbbe4ae6c326844370fd48439c33e}
+      \strng{bookauthorfullhash}{771bbbe4ae6c326844370fd48439c33e}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{National Stereotypes in Perspective: Americans in France, Frenchmen in America}
+      \field{title}{Visions of Race and Nation at the Paris Exposition, 1900: A French Context for the American Negro Exhibit}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{209\bibrangedash 244}
+      \range{pages}{36}
+      \keyw{Expositions universelles,nationalisme,race}
+    \endentry
+    \entry{rasmussenCongresInternationauxLies1989}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1ad0df62f7a3ca60bc7fef1f54fd00a}{%
+           family={Rasmussen},
+           familyi={R\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \strng{fullhash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \strng{bibnamehash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \strng{authorbibnamehash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \strng{authornamehash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \strng{authorfullhash}{b1ad0df62f7a3ca60bc7fef1f54fd00a}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mil neuf cent}
+      \field{number}{7}
+      \field{title}{Les Congrès internationaux liés aux Expositions universelles de Paris (1867-1900)}
+      \field{year}{1989}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{23\bibrangedash 44}
+      \range{pages}{22}
+      \verb{file}
+      \verb Rasmussen, 1989 - Les Congrès internationaux liés aux Expositions universelles de Paris (1867-1900).pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Rasmussen, 1989 - Les Congrès internationaux liés aux Expositions universelles de Paris (1867-1900).pdf:application/pdf
+      \endverb
+      \keyw{Expositions universelles,france}
+    \endentry
+    \entry{reynaudpaligotConstructionCirculationNotion2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e27831d3d08df5ca5322347da6f85700}{%
+           family={Reynaud\bibnamedelima Paligot},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Carole},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=18caea5248faafef5aa308f985155bc1}{%
+           family={Bancel},
+           familyi={B\bibinitperiod},
+           given={Nicolas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d9eed48aff32ab662d58577ac2518f1a}{%
+           family={David},
+           familyi={D\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {La Découverte}%
+      }
+      \strng{namehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{fullhash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{bibnamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authorbibnamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authornamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authorfullhash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{bookauthorbibnamehash}{1c2b00156fb15e5e55bf59363e798fbe}
+      \strng{bookauthornamehash}{1c2b00156fb15e5e55bf59363e798fbe}
+      \strng{bookauthorfullhash}{1c2b00156fb15e5e55bf59363e798fbe}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{L’invention de la race : des représentations scientifiques aux exhibitions populaires}
+      \field{title}{Construction et circulation de la notion de « race » au cours du {XIX} siècle}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{103\bibrangedash 116}
+      \range{pages}{14}
+      \verb{file}
+      \verb Reynaud Paligot, 2014 - Construction et circulation de la notion de « race » au cours du XIX siècle.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Reynaud Paligot, 2014 - Construction et circulation de la notion de « race » au cours du XIX siècle.pdf:application/pdf
+      \endverb
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{reynaudpaligotRepubliqueRaciale186019302015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e27831d3d08df5ca5322347da6f85700}{%
+           family={Reynaud\bibnamedelima Paligot},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Carole},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires de France}%
+      }
+      \strng{namehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{fullhash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{bibnamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authorbibnamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authornamehash}{e27831d3d08df5ca5322347da6f85700}
+      \strng{authorfullhash}{e27831d3d08df5ca5322347da6f85700}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Des années 1860 aux années 1920, une culture raciale, présentant une vision hiérarchisée et inégalitaire du genre humain, a été largement présente au sein de la communauté savante et politique, du monde colonial et des sciences humaines et sociales en général. Cette recherche inédite et originale montre les liens entre pensée raciale et idéologie républicaine : un sujet encore peu connu. L'idéologie républicaine n'a pas échappé à une représentation inégalitaire de la différence.}
+      \field{note}{{OCLC}: 928590488}
+      \field{pagetotal}{368}
+      \field{title}{La République raciale (1860-1930)}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{État/républicanisme/libéralisme,Histoire des sciences/épistémologie,Livre physiqye,lu,Mémoire,race}
+    \endentry
+    \entry{rupp-eisenreichHistoiresAnthropologieXVIXIX1984}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b9b280c056146ad6dd52d9edf2545637}{%
+           family={Rupp-Eisenreich},
+           familyi={R\bibinithyphendelim E\bibinitperiod},
+           given={Britta},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Klincksieck}%
+      }
+      \strng{namehash}{b9b280c056146ad6dd52d9edf2545637}
+      \strng{fullhash}{b9b280c056146ad6dd52d9edf2545637}
+      \strng{bibnamehash}{b9b280c056146ad6dd52d9edf2545637}
+      \strng{authorbibnamehash}{b9b280c056146ad6dd52d9edf2545637}
+      \strng{authornamehash}{b9b280c056146ad6dd52d9edf2545637}
+      \strng{authorfullhash}{b9b280c056146ad6dd52d9edf2545637}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{447}
+      \field{title}{Histoires de l’anthropologie ({XVI}-{XIX} siècle), colloque « La pratique de l’anthropologie aujourd’hui »}
+      \field{year}{1984}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{Histoire des sciences/épistémologie,lu,Mémoire,race}
+    \endentry
+    \entry{schaubPourHistoirePolitique2015}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2937b1ffce81b2db59c9e59acc8d37a9}{%
+           family={Schaub},
+           familyi={S\bibinitperiod},
+           given={Jean-Frédéric},
+           giveni={J\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Éditions du Seuil}%
+      }
+      \strng{namehash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \strng{fullhash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \strng{bibnamehash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \strng{authorbibnamehash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \strng{authornamehash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \strng{authorfullhash}{2937b1ffce81b2db59c9e59acc8d37a9}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{La parole politique et le débat public sont désorientés. Toute discrimination et toute distinction collective semblent relever d’une intention raciale. Dans le même temps, il est question de gommer le terme « race » de notre Constitution. Les sciences sociales observent les progrès des connaissances dans les domaines de la génétique comme menace pour elles-mêmes et peut-être pour la société. Si les progrès des sciences de la vie ne renforcent pas les inepties de la pensée raciste, ils ne les dissipent pas non plus. Dans ce moment de tensions politiques et d’incertitude intellectuelle, l’histoire de la formation des catégories raciales offre des repères pour notre époque. Le dépaysement dans le temps et dans l’espace, qui demeure le propre de l’histoire, est sans doute la voie la plus efficace pour mieux comprendre ce qui nous arrive. L’histoire raconte comment les sociétés et les institutions ont fait et font appel à la « différence naturelle » pour créer et recréer de la division en leur sein. C’est cela la politique raciale à l’âge contemporain : s’en prendre aux Afro-Américains, surtout lorsqu’ils deviennent citoyens, et imaginer le Juif biologique pour contrer l’intégration des juifs. L’histoire permet de comprendre en quoi la « race » est de part en part politique.}
+      \field{isbn}{978-2-02-123701-6}
+      \field{note}{{OCLC}: 910528601}
+      \field{title}{Pour une histoire politique de la race}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Schaub, 2015 - Pour une histoire politique de la race.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Schaub, 2015 - Pour une histoire politique de la race.pdf:application/pdf
+      \endverb
+      \keyw{Important,race,Subalternité}
+    \endentry
+    \entry{schusterWorldFairsSpaces2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1e973da9f828bd563a3e3819146a6f5c}{%
+           family={Schuster},
+           familyi={S\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e973da9f828bd563a3e3819146a6f5c}
+      \strng{fullhash}{1e973da9f828bd563a3e3819146a6f5c}
+      \strng{bibnamehash}{1e973da9f828bd563a3e3819146a6f5c}
+      \strng{authorbibnamehash}{1e973da9f828bd563a3e3819146a6f5c}
+      \strng{authornamehash}{1e973da9f828bd563a3e3819146a6f5c}
+      \strng{authorfullhash}{1e973da9f828bd563a3e3819146a6f5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{At the end of the nineteenth century, Brazil, Mexico, and Peru were among the countries participating in the most important world’s fairs in Europe and North America. These mass gatherings focused on national self-images as well as technological development and commodities, but the Latin American exhibition organizers also understood them to be transnational spaces that contributed to the mobility of persons, objects, and knowledge. In this context, the scientific display of pre-Columbian ‘antiquities’ was regarded as being as important as the participation in archaeological and anthropological congresses. By understanding the world’s fairs as ‘spaces of global knowledge’, this article highlights the agency of Latin American scientists, intellectuals, and collectors in the transnational endeavour to create a ‘Latin American antiquity’ at the fairgrounds. Although most fair attendees sought to study and display the pre-Columbian past in an objective manner, the older dream of (re-)constructing the splendour of America’s ancient civilizations never completely vanished.}
+      \field{issn}{1740-0228, 1740-0236}
+      \field{journaltitle}{Journal of Global History}
+      \field{langid}{english}
+      \field{number}{1}
+      \field{shorttitle}{The world’s fairs as spaces of global knowledge}
+      \field{title}{The world’s fairs as spaces of global knowledge: Latin American archaeology and anthropology in the age of exhibitions}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{volume}{13}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{69\bibrangedash 93}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1017/S1740022817000298
+      \endverb
+      \verb{file}
+      \verb Schuster, 2018 - The world’s fairs as spaces of global knowledge - Latin American archaeology and anthropology in the age of exhibitions.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Schuster, 2018 - The world’s fairs as spaces of global knowledge - Latin American archaeology and anthropology in the age of exhibitions.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/journal-of-global-history/article/worlds-fairs-as-spaces-of-global-knowledge-latin-american-archaeology-and-anthropology-in-the-age-of-exhibitions/3AFB17171CD53C1E91B53B64D6E19948
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/journal-of-global-history/article/worlds-fairs-as-spaces-of-global-knowledge-latin-american-archaeology-and-anthropology-in-the-age-of-exhibitions/3AFB17171CD53C1E91B53B64D6E19948
+      \endverb
+      \keyw{América latina,Expositions universelles,France-Mexique,Histoire des sciences/épistémologie,Histoire globale,Important,lu,México}
+    \endentry
+    \entry{smithEthnicityNationalism1992}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=28d6873a586ade72a7651862f4cb36f3}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Leiden}%
+      }
+      \strng{namehash}{28d6873a586ade72a7651862f4cb36f3}
+      \strng{fullhash}{28d6873a586ade72a7651862f4cb36f3}
+      \strng{bibnamehash}{28d6873a586ade72a7651862f4cb36f3}
+      \strng{authorbibnamehash}{28d6873a586ade72a7651862f4cb36f3}
+      \strng{authornamehash}{28d6873a586ade72a7651862f4cb36f3}
+      \strng{authorfullhash}{28d6873a586ade72a7651862f4cb36f3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{130}
+      \field{title}{Ethnicity and Nationalism}
+      \field{year}{1992}
+      \field{dateera}{ce}
+      \true{nocite}
+      \keyw{nationalisme,race}
+    \endentry
+    \entry{vaillantAlphabetVieuxslave1955}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3dae6b9252a38355ad03945a11a09ea}{%
+           family={Vaillant},
+           familyi={V\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3dae6b9252a38355ad03945a11a09ea}
+      \strng{fullhash}{b3dae6b9252a38355ad03945a11a09ea}
+      \strng{bibnamehash}{b3dae6b9252a38355ad03945a11a09ea}
+      \strng{authorbibnamehash}{b3dae6b9252a38355ad03945a11a09ea}
+      \strng{authornamehash}{b3dae6b9252a38355ad03945a11a09ea}
+      \strng{authorfullhash}{b3dae6b9252a38355ad03945a11a09ea}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revue des études slaves}
+      \field{number}{32}
+      \field{title}{L’Alphabet vieux-slave}
+      \field{year}{1955}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{7\bibrangedash 31}
+      \range{pages}{25}
+    \endentry
+    \entry{vasseurPourquoiOrganiserExpositions2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5461edba191f8be76a45dc1ca3e78c0c}{%
+           family={Vasseur},
+           familyi={V\bibinitperiod},
+           given={Édouard},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{fullhash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{bibnamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authorbibnamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authornamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authorfullhash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \field{extraname}{1}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{<titre>Résumé</titre>La France est l’inventeur et le principal organisateur des expositions industrielles au xixe siècle. L’objectif de l’auteur est de s’interroger sur les raisons de cet engouement, désormais disparu, à travers l’exemple de l’Exposition universelle de 1867 à Paris, considérée comme un succès. L’organisation des expositions, notamment celle de 1867, résulte de la conjonction de plusieurs volontés. Celle des industriels, qui les considèrent comme un élément clé de leur stratégie commerciale grâce aux médailles et récompenses, instruments de validation de la qualité industrielle. Celle du gouvernement, promoteur de cette économie de la qualité dont la politique commerciale libérale constitue un volet. Celle des intellectuels, soucieux d’améliorer l’esthétique des produits français et de renforcer la formation professionnelle des ouvriers. La préparation de l’Exposition est dominée par des spécialistes des expositions, dominés par Frédéric Le Play, qui y synthétise son expérience. La qualité de l’organisation joue un rôle majeur dans le succès de l’événement. Cependant, la volonté d’assurer un bénéfice financier introduit des nouveautés majeures dans les expositions: démultiplication des lieux d’exposition avec la création des pavillons; ouverture à de nouvelles problématiques, notamment la question sociale; plus grande liberté laissée aux exposants pour préparer leur installation. La voie est ouverte vers le gigantisme et le spectacle, au-delà de l’objectif initial. L’Exposition est un succès populaire (11 millions de visiteurs) et financier. Paris, pour un été, est un lieu de fête. Les résultats de l’Exposition sont cependant loin de répondre aux attentes. Certes, l’industrie s’est modernisée et la France conserve son rang en matière d’arts décoratifs, mais la progression des États-Unis et des États allemands est patente. Quant aux idées sociales des organisateurs (patronage), elles ne reçurent un écho favorable qu’auprès de l’élite, et non auprès des ouvriers. Les expositions universelles sont au cœur du système qualitatif de l’économie française du xixe siècle. Leur marche vers le gigantisme et le festif ainsi que leur ouverture vers des questions non directement industrielles conduira néanmoins à un dégoût qui se traduira, après 1900, par un refus de renouveler l’expérience.}
+      \field{issn}{0752-5702}
+      \field{journaltitle}{Histoire, économie \& société}
+      \field{langid}{french}
+      \field{note}{Publisher: Armand Colin}
+      \field{shorttitle}{Pourquoi organiser des Expositions universelles?}
+      \field{title}{Pourquoi organiser des Expositions universelles? Le « succès » de l'Exposition universelle de 1867}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2020}
+      \field{volume}{24}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{573\bibrangedash 594}
+      \range{pages}{22}
+      \verb{file}
+      \verb Vasseur, 2005 - Pourquoi organiser des Expositions universelles - Le « succès » de l'Exposition universelle de 1867.pdf:/Users/EstebanSanchez/Google Drive/Bibliothèques/Bibliothèque Zotero/Vasseur, 2005 - Pourquoi organiser des Expositions universelles - Le « succès » de l'Exposition universelle de 1867.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.cairn.info/revue-histoire-economie-et-societe-2005-4-page-573.htm
+      \endverb
+      \verb{url}
+      \verb http://www.cairn.info/revue-histoire-economie-et-societe-2005-4-page-573.htm
+      \endverb
+      \keyw{Expositions universelles,lu}
+    \endentry
+    \entry{vasseurAutourExotismeAlterite2010}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5461edba191f8be76a45dc1ca3e78c0c}{%
+           family={Vasseur},
+           familyi={V\bibinitperiod},
+           given={Édouard},
+           giveni={É\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5baa13173383bdd90e5e0a5476a1382c}{%
+           family={Demeulenaere-Douyère},
+           familyi={D\bibinithyphendelim D\bibinitperiod},
+           given={Christiane},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Archives nationales/Somogy}%
+      }
+      \strng{namehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{fullhash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{bibnamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authorbibnamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authornamehash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{authorfullhash}{5461edba191f8be76a45dc1ca3e78c0c}
+      \strng{editorbibnamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editornamehash}{5baa13173383bdd90e5e0a5476a1382c}
+      \strng{editorfullhash}{5baa13173383bdd90e5e0a5476a1382c}
+      \field{extraname}{2}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Exotiques expositions... Les expositions universelles et les cultures extra-européennes, France, 1855-1937}
+      \field{title}{Autour de l’exotisme et de l’altérité dans les expositions universelles et internationales : premier bilan d’un renouveau historiographique}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{215}
+      \range{pages}{1}
+      \keyw{Expositions universelles,france,Subalternité}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
