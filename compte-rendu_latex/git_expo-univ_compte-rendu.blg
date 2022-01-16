@@ -1,0 +1,11 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[1] Config.pm:307> INFO - Logfile is 'git_expo-univ_compte-rendu.blg'
+[106] biber:322> INFO - === dim. janv. 16, 2022, 19:16:52
+[126] Biber.pm:415> INFO - Reading 'git_expo-univ_compte-rendu.bcf'
+[224] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[246] Biber.pm:4256> INFO - Processing section 0
+[247] Utils.pm:75> INFO - Globbing data source 'WWWWWWWWWWWWWWWWWWWWWWWW'
+[247] Utils.pm:91> INFO - Globbed data source 'WWWWWWWWWWWWWWWWWWWWWWWW' to WWWWWWWWWWWWWWWWWWWWWWWW
+[261] Biber.pm:4455> INFO - Looking for bibtex format file 'WWWWWWWWWWWWWWWWWWWWWWWW' for section 0
+[418] Utils.pm:309> ERROR - Cannot find 'WWWWWWWWWWWWWWWWWWWWWWWW'!
+[419] Biber.pm:132> INFO - ERRORS: 1
