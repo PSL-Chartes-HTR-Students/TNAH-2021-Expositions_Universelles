@@ -9,6 +9,7 @@
 \documentclass{article}
 \usepackage{fontspec}
 \usepackage[english, french]{babel}
+\usepackage[utf8]{inputenc}
 \usepackage[toc]{appendix}
 % pour le moment j'utilise pas le paquet {imakeidx} ni la commande \makeindex pour créer des index; jsp si c'est utile
 \usepackage{csquotes}
@@ -23,6 +24,10 @@
 \hypersetup{pdfauthor={Baudoin DAVOURY}{Anahi HAEDO}{Paul KERVEGAN}{Kelly CHRISTENSEN}{Esteban SANCHEZ-OECONOMO}, pdftitle={Compte rendu de projet Git. Transcriptions du congrès international des sciences ethnographiques (Paris, 1878)}, pdfsubject={Projet Git sur les expositions universelles}, pdfkeywords={git}{expositions universelles}{tnah}}
 
 \begin{document}
+
+% \DeclareUnicodeCharacter{03C4}{$\tgrec$}
+% \DeclareUnicodeCharacter{FE96}{$\pers$}
+
 	\begin{titlepage}
 		\begin{center}
 			\large
@@ -39,8 +44,6 @@
 			\vfill Devoir réalisé pour le master 2 TNAH de l'École Nationale des Chartes - Janvier 2021
 		\end{center}
 	\end{titlepage}
-
-
 
 	\section{Introduction}
 	\addcontentsline{toc}{section}{Introduction}
@@ -159,11 +162,11 @@
 	
 	On a utilisé deux méthodes pour trouver l’unicode des caractères spéciaux pas capturés par le modèle. Parfois les auteurs ont cité un passage d’un texte connu, tel que \textit{l’Iliade} d'Homère. Dans ce cas, on a vérifié notre transcription de la citation avec des encodages du texte déjà disponibles en ligne. Mais la plupart des caractères spéciaux étaient imprimés sans une citation. En outre les auteurs n’ont pas toujours précisé à laquelle langue les mots qu’ils ont invoqués appartiennent. Dans ce cas, on avait besoin de, en premier, reconnaître la langue et, ensuite, de rechercher l’unicode de chaque caractère.
 	
-	Pour les caractères spéciaux en grec, qui constituent la majorité, notre équipe a profité du fait que l'un des membres, Paul Kervegan, soit familier avec le grec. En travaillant en équipe pour décoder un caractère spécial, on a relevé le fait que l’un des comptes rendus a écrit le lettre \textit{tau (τ)} avec un caractère une graphie qui n'est plus en usage aujourd'hui. Malheureusement, faute d'avoir un unicode pour encoder ce caractère, on n’a pas pu garder le choix unique des auteurs. On l’a encodé avec la lettre moderne, \textit{τ}, en privilégiant la lisibilité du mot.
+	Pour les caractères spéciaux en grec, qui constituent la majorité, notre équipe a profité du fait que l'un des membres, Paul Kervegan, soit familier avec le grec. En travaillant en équipe pour décoder un caractère spécial, on a relevé le fait que l’un des comptes rendus a écrit le lettre \textit{tau ($\tau$)} avec une graphie qui n'est plus en usage aujourd'hui. Malheureusement, faute d'avoir un unicode pour encoder ce caractère, on n’a pas pu garder le choix unique des auteurs. On l’a encodé avec la lettre moderne, \textit{$\tau$}, en privilégiant la lisibilité du mot.
 	
 	Pour les caractères spéciaux en sanscrit, notre équipe a compté sur l’expertise de Christian Iyer. Il a relevé le fait que les comptes rendus de 1878 ont utilisé une fonte rare pour le sanscrit ; donc notre encodage ne ressemble pas toujours à l’imprimé. Heureusement, les auteurs ont souvent précisé le mot en sanscrit avec une translittération, ce qui a aidé à décoder la transcription d’une fonte peu commune. Ces problèmes relatifs aux choix de graphies dans l'imprimé original soulèvent des questions intéressantes vis-à-vis de l'entraînement d'un modèle d'OCR : est-il possible, ou pertinent, d'entraîner un modèle à reconnaître des graphies qui ne sont plus en usage aujourd'hui ? Est-ce qu'il vaut mieux privilégier une spécificité historique du document (l'utilisation de graphies propres au XIXe siècle) ou développer un modèle qui cherche à rendre les textes lisibles pour un public contemporain ?
 	
-	Après le grec et le sanscrit dont les mots étaient le plus nombreux, nous avons encodé des mots en russe, en persan, en avestique, et le vieux-slave. Le vieux-slave a deux écritures, le glagolite et la cyrillique \underline{\textbf{(1)}} ; c'est ce dernier que les auteurs ont utilisé. Sachant que le persan et l’avestique s’écrivent de droite à gauche, on a recherché caractère par caractère dans un dictionnaire. Les dictionnaires de persan, autrement connu comme le farsi, se trouvent facilement et l’encodage est normalisé. Faute d’un expert.e en farsi, on a vérifié notre encodage du mot \textit{ هست }en comptant sur la translitération « hest », traduction de « il est », fournie par les ethnologues. Pour encoder l’avestique on a consulté la recherche de Jost Gippert, spécifiquement son article \textit{The Encoding of Avestan — Problems and Solutions} \underline{\textbf{(2)}}, qui nous a fourni l’unicode des trois caractères spéciaux du mot cité dans le compte rendu.
+	Après le grec et le sanscrit dont les mots étaient le plus nombreux, nous avons encodé des mots en russe, en persan, en avestique, et le vieux-slave. Le vieux-slave a deux écritures, le glagolite et la cyrillique \underline{\textbf{(1)}} ; c'est ce dernier que les auteurs ont utilisé. Sachant que le persan et l’avestique s’écrivent de droite à gauche, on a recherché caractère par caractère dans un dictionnaire. Les dictionnaires de persan, autrement connu comme le farsi, se trouvent facilement et l’encodage est normalisé. Faute d’un expert.e en farsi, on a vérifié notre encodage du mot \textit{ هست } en comptant sur la translitération « hest », traduction de « il est », fournie par les ethnologues. Pour encoder l’avestique on a consulté la recherche de Jost Gippert, spécifiquement son article \textit{The Encoding of Avestan — Problems and Solutions} \underline{\textbf{(2)}}, qui nous a fourni l’unicode des trois caractères spéciaux du mot cité dans le compte rendu.
 	
 	
 	\subsection{L'encodage des variations typographiques}
