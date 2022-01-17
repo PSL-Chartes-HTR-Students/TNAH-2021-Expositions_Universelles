@@ -5,7 +5,7 @@
 	L’objectif de ce groupe Github est de monter un projet de sources numériques. 
   La source choisit est le rapport d’un congrès d’ethnologie ayant eu lieu lors de l’exposition universelle de 1878. 
   Chaque membre doit proposer et travailler sur un ensemble de texte issu dudit rapport. 
-  Les textes retenus doivent faire l’objet au préalable d’un travail de segmentation et de transcription sur le site Escriptorium, avant d’être déposés sur Github. 
+  Les textes retenus doivent faire l’objet au préalable d’un travail de segmentation et de transcription sur le site eScriptorium, avant d’être déposés sur Github. 
 
 
 # 1. Organisation de la page de dépôt Github
@@ -47,13 +47,13 @@
   non ces transformations au document original.
 
 
-# 2. Travail de récupération des fichiers XML de transcriptions issus de Escriptorium
+# 2. Travail de récupération des fichiers XML de transcriptions issus de eScriptorium
 
-Escriptorium permet le transcription automatique de document composés de caractères latins. 
+eScriptorium permet le transcription automatique de document composés de caractères latins. 
 Le site propose différents modèles de transcription. 
 Les documents traités dans ce projet étant  issus d’un imprimé de la fin du XIXe siècle, 
 le modèle de transcription retenu est «19th century prints - HTRCatalogs Artlas ». 
-Il faut bien sûr vérifier que la segmentation et la transcription des textes soumis à Escriptorium ont été correctement effectuées
+Il faut bien sûr vérifier que la segmentation et la transcription des textes soumis à eScriptorium ont été correctement effectuées
 et qu’elles correspondent bien au contenu originel. 
 Cependant, si jamais un texte présente des caractères qui ne peuvent être retranscrit, 
 les éléments problématiques peuvent être ignorés ou alors être indiqués par un « 0 ». 
