@@ -1,0 +1,17 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'git_expo-univ_compte-rendu.blg'
+[69] biber:322> INFO - === dim. janv. 16, 2022, 23:41:09
+[80] Biber.pm:415> INFO - Reading 'git_expo-univ_compte-rendu.bcf'
+[140] Biber.pm:940> INFO - Using all citekeys in bib section 0
+[152] Biber.pm:4256> INFO - Processing section 0
+[153] Utils.pm:75> INFO - Globbing data source 'biblio/bibliographie\_expositions\_universellesgit.bib'
+[153] Utils.pm:91> INFO - Globbed data source 'biblio/bibliographie\_expositions\_universellesgit.bib' to biblio/bibliographie_expositions_universellesgit.bib
+[161] Biber.pm:4455> INFO - Looking for bibtex format file 'biblio/bibliographie_expositions_universellesgit.bib' for section 0
+[164] bibtex.pm:1653> INFO - LaTeX decoding ...
+[224] bibtex.pm:1471> INFO - Found BibTeX data source 'biblio/bibliographie_expositions_universellesgit.bib'
+[471] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[471] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[471] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'fr-FR'
+[471] Biber.pm:4090> INFO - No sort tailoring available for locale 'fr-FR'
+[513] bbl.pm:652> INFO - Writing 'git_expo-univ_compte-rendu.bbl' with encoding 'UTF-8'
+[534] bbl.pm:755> INFO - Output to git_expo-univ_compte-rendu.bbl
