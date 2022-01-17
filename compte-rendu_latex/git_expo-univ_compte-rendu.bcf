@@ -2171,6 +2171,17 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
+    <bcf:citekey order="1">benjaminParisCapitaleXIXe2003</bcf:citekey>
+    <bcf:citekey order="2">schusterWorldFairsSpaces2018</bcf:citekey>
+    <bcf:citekey order="3">demeulenaere-douyereEntreArcheologieSavante2014</bcf:citekey>
+    <bcf:citekey order="4">hauserEntreSoftPower2015</bcf:citekey>
+    <bcf:citekey order="5">blanckaertSpectaclesEthniquesCulture2002</bcf:citekey>
+    <bcf:citekey order="6">schaubPourHistoirePolitique2015</bcf:citekey>
+    <bcf:citekey order="7">conklinExposerHumaniteRace2015</bcf:citekey>
+    <bcf:citekey order="8">reynaudpaligotRepubliqueRaciale186019302015</bcf:citekey>
+    <bcf:citekey order="9">rasmussenCongresInternationauxLies1989</bcf:citekey>
+    <bcf:citekey order="10">legoffOrigineMuseeTrocadero2010</bcf:citekey>
+    <bcf:citekey order="11">vaillantAlphabetVieuxslave1955</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

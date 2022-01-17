@@ -21,36 +21,36 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Répartition des transcriptions}{3}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Choix techniques}{3}{section.4}%
+\contentsline {section}{\numberline {4}Choix techniques}{4}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Choix techniques}{3}{section.4}%
+\contentsline {section}{Choix techniques}{4}{section.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Le modèle de transcription}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.1}Le modèle de transcription}{4}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Le modèle de transcription}{3}{subsection.4.1}%
+\contentsline {subsection}{Le modèle de transcription}{4}{subsection.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Le format d'export XML}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.2}Le format d'export XML}{4}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Le format d'export XML}{3}{subsection.4.2}%
+\contentsline {subsection}{Le format d'export XML}{4}{subsection.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Répartition des branches Git}{3}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.3}Répartition des branches Git}{4}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Répartition des branches Git}{3}{subsection.4.3}%
+\contentsline {subsection}{Répartition des branches Git}{4}{subsection.4.3}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {5}Les données produites}{4}{section.5}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Les données produites}{4}{section.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6}Difficultés et problématiques particulières}{4}{section.6}%
+\contentsline {section}{\numberline {6}Difficultés et problématiques particulières}{5}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Difficultés et problématiques particulières}{4}{section.6}%
+\contentsline {section}{Difficultés et problématiques particulières}{5}{section.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.1}L'encodage des caractères spéciaux et non-latins}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.1}L'encodage des caractères spéciaux et non-latins}{5}{subsection.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{L'encodage des caractères spéciaux et non-latins}{4}{subsection.6.1}%
+\contentsline {subsection}{L'encodage des caractères spéciaux et non-latins}{5}{subsection.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}L'encodage des variations typographiques}{5}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.2}L'encodage des variations typographiques}{6}{subsection.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{L'encodage des variations typographiques}{5}{subsection.6.2}%
+\contentsline {subsection}{L'encodage des variations typographiques}{6}{subsection.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Bibliographie}{9}{section*.1}%
+\contentsline {section}{Bibliographie}{10}{section*.1}%
