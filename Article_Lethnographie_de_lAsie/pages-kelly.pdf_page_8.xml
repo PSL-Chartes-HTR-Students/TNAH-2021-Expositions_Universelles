@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-01-13T16:43:32.555189+00:00</Created>
+        <LastChange>2022-01-13T16:43:32.555211+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="pages-kelly.pdf_page_8.png" imageWidth="2480" imageHeight="3507">
+
+    
+    <TextRegion id="eSc_textblock_2c1ee78b"  >
+      <Coords points="1146,596 1342,596 1403,654 1927,666 1927,2685 549,2674 549,666 1120,654 1146,596"/>
+      
+      
+      <TextLine id="eSc_line_9b69541f" >
+        <Coords points="1134,634 1125,596 1222,575 1222,575 1225,575 1225,575 1333,590 1339,628 1339,637 1134,642"/>
+        <Baseline points="1134,634 1339,628"/>
+        <TextEquiv>
+          <Unicode>— 170 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_292a91c5" >
+        <Coords points="552,692 552,634 1918,651 1918,698 1912,710 546,704"/>
+        <Baseline points="552,692 1918,698"/>
+        <TextEquiv>
+          <Unicode>terminés d’une façon aussi précise que possible, et qui la distinguent nette-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b35a3edf" >
+        <Coords points="555,739 555,698 1921,707 1921,748 1915,759 549,756"/>
+        <Baseline points="555,739 1921,748"/>
+        <TextEquiv>
+          <Unicode>ment de la famille sémitique, avec laquelle cependant elle jouit de quelques</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_2b15f2e9" >
+        <Coords points="555,791 555,748 877,748 877,791 877,809 555,809"/>
+        <Baseline points="555,791 877,791"/>
+        <TextEquiv>
+          <Unicode>affinités évidentes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f0121f9b" >
+        <Coords points="602,838 602,794 1921,794 1921,838 1921,856 602,856"/>
+        <Baseline points="602,838 1921,838"/>
+        <TextEquiv>
+          <Unicode>On est frappé d’une véritable admiration quand on jette les yeux sur quel-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_735ff7aa" >
+        <Coords points="555,885 555,844 1918,844 1918,885 1918,903 555,903"/>
+        <Baseline points="555,885 1918,885"/>
+        <TextEquiv>
+          <Unicode>ques-unes des constatations de la philologie comparée appliquée à l’étude des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_57ccacf0" >
+        <Coords points="555,929 555,879 1918,891 1921,935 1915,946 549,941"/>
+        <Baseline points="555,929 1921,935"/>
+        <TextEquiv>
+          <Unicode>langues indo-européennes. On m’a recommandé, en prenant la parole, de ne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ea75c29d" >
+        <Coords points="555,979 555,932 1915,938 1918,984 1915,996 552,996"/>
+        <Baseline points="555,979 1918,984"/>
+        <TextEquiv>
+          <Unicode>pas éviter les citations de faits connus qui seraient de nature à donner au</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_28141a61" >
+        <Coords points="552,1028 552,984 1921,984 1921,1028 1921,1040 552,1046"/>
+        <Baseline points="552,1028 1921,1028"/>
+        <TextEquiv>
+          <Unicode>plus grand nombre une idée exacte de notre méthode scientifique. Je me per-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6772305b" >
+        <Coords points="555,1072 555,1025 1915,1031 1918,1078 1912,1087 549,1081"/>
+        <Baseline points="555,1072 1918,1078"/>
+        <TextEquiv>
+          <Unicode>mettrai donc de citer un exemple frappant de la puissance des procédés de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ac93c2f6" >
+        <Coords points="552,1122 552,1072 1921,1078 1921,1122 1921,1136 552,1136"/>
+        <Baseline points="552,1122 1921,1122"/>
+        <TextEquiv>
+          <Unicode>l’école linguistique à laquelle nous devons tant de précieux travaux sur les</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c263e3f9" >
+        <Coords points="555,1171 555,1119 1588,1128 1588,1171 1588,1186 555,1186"/>
+        <Baseline points="555,1171 1588,1171"/>
+        <TextEquiv>
+          <Unicode>idiomes apparentés à celui que nous parlons nous-mêmes.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1de0d63a" >
+        <Coords points="602,1215 602,1174 1924,1174 1924,1215 1924,1233 602,1233"/>
+        <Baseline points="602,1215 1924,1215"/>
+        <TextEquiv>
+          <Unicode>Avant que nous ayons acquis la pratique du sanscrit et des principes phi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ca6100ad" >
+        <Coords points="552,1259 552,1212 1918,1221 1921,1265 1915,1277 546,1271"/>
+        <Baseline points="552,1259 1921,1265"/>
+        <TextEquiv>
+          <Unicode>lologiques qui en ont été la conséquence, nous n’étions certainement pas en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_166e871b" >
+        <Coords points="552,1312 546,1271 1915,1265 1924,1306 1921,1318 552,1323"/>
+        <Baseline points="552,1312 1924,1306"/>
+        <TextEquiv>
+          <Unicode>état de constater la parenté des mots employés dans les diverses langues eu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ea67e0a" >
+        <Coords points="552,1353 552,1309 1918,1315 1921,1358 1915,1367 546,1364"/>
+        <Baseline points="552,1353 1921,1358"/>
+        <TextEquiv>
+          <Unicode>ropéennes pour exprimer le verbe substantif « être », esse en latin, εἶναι en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eb17eb88" >
+        <Coords points="552,1408 552,1364 1921,1364 1921,1408 1921,1417 552,1426"/>
+        <Baseline points="552,1408 1921,1408"/>
+        <TextEquiv>
+          <Unicode>grec, to be en anglais, seyn en allemand, бЫТЬ buït en russe, zijn en flamand,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_caaa8756" >
+        <Coords points="552,1449 552,1408 1921,1414 1924,1455 1918,1467 546,1461"/>
+        <Baseline points="552,1449 1924,1455"/>
+        <TextEquiv>
+          <Unicode>bydź en polonais, ІЄСМЬ en paléoslave ; que sais-je ? Dans chacune de ces lan-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_acb50216" >
+        <Coords points="552,1496 552,1455 1912,1461 1915,1502 1912,1522 549,1522"/>
+        <Baseline points="552,1496 1915,1502"/>
+        <TextEquiv>
+          <Unicode>gues en particulier, ce même verbe « é̂tre » présentait, à ses différents temps,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_09104213" >
+        <Coords points="555,1551 549,1510 1909,1505 1918,1546 1915,1563 555,1566"/>
+        <Baseline points="555,1551 1918,1546"/>
+        <TextEquiv>
+          <Unicode>les plus singulières dissemblances, les irrégularités les plus énigmatiques.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e86289e5" >
+        <Coords points="552,1595 552,1554 1921,1557 1921,1595 1921,1613 552,1613"/>
+        <Baseline points="552,1595 1921,1595"/>
+        <TextEquiv>
+          <Unicode>Esse, en latin, fait sum au présent, fui au passé, ero au futur ;  — εἶναι, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_58340bb0" >
+        <Coords points="552,1645 552,1601 1921,1601 1921,1645 1921,1657 552,1665"/>
+        <Baseline points="552,1645 1921,1645"/>
+        <TextEquiv>
+          <Unicode>grec, fait εἰμί au présent, ἐών, ἐόντος dans Homère, et ensuite ὤν, ὄντος au</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fc32c83a" >
+        <Coords points="552,1686 552,1645 1918,1651 1921,1692 1918,1703 549,1706"/>
+        <Baseline points="552,1686 1921,1692"/>
+        <TextEquiv>
+          <Unicode>participe ; — to be, en anglais, fait am au présent, was au passé ; — seyn, en</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_12ad9b2b" >
+        <Coords points="552,1738 546,1700 1912,1695 1921,1733 1918,1756 552,1756"/>
+        <Baseline points="552,1738 1921,1733"/>
+        <TextEquiv>
+          <Unicode>allemand, fait bin au présent, war au passé ; — бЫТЬ, en russe, fait есмь au</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_906059d6" >
+        <Coords points="549,1785 541,1744 1909,1733 1918,1779 1915,1806 549,1806"/>
+        <Baseline points="549,1785 1918,1779"/>
+        <TextEquiv>
+          <Unicode>présent, быль au passé, буду au futur. Toutes ces formes, en apparence aussi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_43361c07" >
+        <Coords points="552,1832 552,1791 1924,1791 1924,1832 1924,1849 552,1849"/>
+        <Baseline points="552,1832 1924,1832"/>
+        <TextEquiv>
+          <Unicode>étrangères que possible les unes aux autres, s’expliquent et se réunissent à</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_dfc988c4" >
+        <Coords points="558,1879 552,1841 1915,1835 1924,1873 1921,1887 558,1893"/>
+        <Baseline points="558,1879 1924,1873"/>
+        <TextEquiv>
+          <Unicode>une source commune que décèle la connaissance du sanscrit. L’auxiliaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c9a1e372" >
+        <Coords points="555,1923 555,1879 1921,1885 1924,1928 1918,1940 549,1934"/>
+        <Baseline points="555,1923 1924,1928"/>
+        <TextEquiv>
+          <Unicode>« être », dans cette langue, est अस् as, où l’on reconnaît le grec ἐσσί), le latin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_235989ff" >
+        <Coords points="552,1981 552,1940 1924,1940 1924,1981 1924,1998 552,1998"/>
+        <Baseline points="552,1981 1924,1981"/>
+        <TextEquiv>
+          <Unicode>es, esse, l’allemand ist, sein, l’anglais is, le français tu es, etc. ; — la première</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b8d81eb9" >
+        <Coords points="552,2031 552,1987 1924,1987 1924,2031 1924,2042 552,2051"/>
+        <Baseline points="552,2031 1924,2031"/>
+        <TextEquiv>
+          <Unicode>personne de l’indicatif présent, अस्मि asmi, nous donne le thème du latin</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1d257174" >
+        <Coords points="555,2077 549,2036 1912,2031 1921,2072 1918,2095 555,2095"/>
+        <Baseline points="555,2077 1921,2072"/>
+        <TextEquiv>
+          <Unicode>sum ; असि asi, lat. es ; अस्ति asti, lat. est ; स्मः smas̅, lat. sumus ; स्थ stha, lat. estis ;</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d8681a62" >
+        <Coords points="555,2118 555,2077 1924,2083 1927,2124 1921,2136 549,2130"/>
+        <Baseline points="555,2118 1927,2124"/>
+        <TextEquiv>
+          <Unicode>— शान्ति santi, lat. sunt. — Un autre verbe sanscrit, भू bhû, nous fournit le</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_eda254c7" >
+        <Coords points="555,2183 555,2139 1930,2139 1930,2183 1930,2197 555,2197"/>
+        <Baseline points="555,2183 1930,2183"/>
+        <TextEquiv>
+          <Unicode>thème du russe buit, buile, budu ; l’impératif अस्तु astu nous rappelle le grec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_db13ed78" >
+        <Coords points="555,2238 549,2197 1915,2191 1924,2232 1921,2247 555,2253"/>
+        <Baseline points="555,2238 1924,2232"/>
+        <TextEquiv>
+          <Unicode>ἔστω et le latin esto. Le persan hestem « je suis » est d’une similitude frappante</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4d5aa24a" >
+        <Coords points="558,2282 558,2238 1918,2241 1921,2285 1918,2300 555,2300"/>
+        <Baseline points="558,2282 1921,2285"/>
+        <TextEquiv>
+          <Unicode>avec le polonais jestem, et هست hest « il est » avec le polonais jest. Il faut dire</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_83c37f7a" >
+        <Coords points="558,2332 558,2291 1924,2291 1924,2332 1924,2349 558,2349"/>
+        <Baseline points="558,2332 1924,2332"/>
+        <TextEquiv>
+          <Unicode>que Bopp (1) rapproche de préférence le persan hestem du zend histâmi « je suis</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ab6fb60" >
+        <Coords points="555,2378 555,2338 1927,2338 1927,2378 1927,2396 555,2396"/>
+        <Baseline points="555,2378 1927,2378"/>
+        <TextEquiv>
+          <Unicode>debout » ; mais, même en adoptant cette opinion, la philologie comparée des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1698f4d1" >
+        <Coords points="558,2428 555,2378 1915,2381 1921,2422 1918,2446 558,2446"/>
+        <Baseline points="558,2428 1921,2422"/>
+        <TextEquiv>
+          <Unicode>langues aryennes nous apporte un nouvel éclaircissement sur l’idée d’« être »,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_af6c8d47" >
+        <Coords points="552,2469 552,2428 1921,2428 1924,2475 1921,2489 549,2489"/>
+        <Baseline points="552,2469 1924,2475"/>
+        <TextEquiv>
+          <Unicode>qui se trouve ainsi rattachée à la racine sanscrite स्था st‘â « tenir debout » (zend</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_8ffc81cf" >
+        <Coords points="552,2522 552,2478 1921,2484 1924,2527 1918,2539 546,2533"/>
+        <Baseline points="552,2522 1924,2527"/>
+        <TextEquiv>
+          <Unicode>𐬯𐬙𐬁 śtâ). Le participe du verbe grec εἰ-μί (pour ἐσ-μὶ), ἐ-ών, ἐ-όντος, nous</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4e3e4b05" >
+        <Coords points="549,2574 541,2533 1918,2527 1927,2568 1924,2583 549,2589"/>
+        <Baseline points="549,2574 1927,2568"/>
+        <TextEquiv>
+          <Unicode>montre le radical es, réduit à la voyelle e, le σ entre deux voyelles tombant</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_72c1e706" >
+        <Coords points="552,2621 552,2580 1927,2580 1927,2621 1927,2639 552,2639"/>
+        <Baseline points="552,2621 1927,2621"/>
+        <TextEquiv>
+          <Unicode>souvent, comme dans γένεσ-ος, devenu γἐνε-ος, γἐνονς, etc. (2). La forme latine</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c7de9683" >
+        <Coords points="552,2665 552,2621 1924,2627 1927,2671 1921,2682 546,2679"/>
+        <Baseline points="552,2665 1927,2671"/>
+        <TextEquiv>
+          <Unicode>ero, eris, s’explique également par la permutation de r en s, dont on trouve</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_344846a1"  >
+      <Coords points="1450,2735 1810,2735 1857,2802 596,2826 596,2747 1450,2735"/>
+      
+      
+      <TextLine id="eSc_line_bb9009af" >
+        <Coords points="599,2779 599,2735 1751,2750 1813,2738 1833,2790 1827,2811 1424,2811 1412,2820 1397,2834 1397,2837 1397,2837 1395,2837 1395,2837 1395,2837 1392,2837 1324,2849 1324,2849 1321,2849 593,2834"/>
+        <Baseline points="600,2781 1836,2792"/>
+        <TextEquiv>
+          <Unicode>(1) Grammaire comparée des langues indo-européenes, trad. de M. Bréal, t. III, p. 273.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f3fdf3a7" >
+        <Coords points="602,2820 602,2785 1395,2790 1397,2828 1392,2840 596,2834"/>
+        <Baseline points="605,2821 1399,2831"/>
+        <TextEquiv>
+          <Unicode>(2) Bréal, De la forme et de la fonction des mots, p. 12.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_db1116ba"  >
+      <Coords points="970,3390 1506,3390 1517,3433 970,3433 970,3390"/>
+      
+      
+      <TextLine id="eSc_line_27553e88" >
+        <Coords points="968,3422 968,3381 1511,3387 1514,3428 1509,3442 962,3439"/>
+        <Baseline points="968,3422 1514,3428"/>
+        <TextEquiv>
+          <Unicode>Droits reservés au Cnam et à ses partenaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
