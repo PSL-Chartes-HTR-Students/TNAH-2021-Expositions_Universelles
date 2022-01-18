@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2022-01-13T16:43:32.490669+00:00</Created>
+        <LastChange>2022-01-13T16:43:32.490691+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="pages-kelly.pdf_page_4.png" imageWidth="2480" imageHeight="3507">
+
+    
+    <TextRegion id="eSc_textblock_43c384f1"  >
+      <Coords points="1193,596 1342,596 1392,654 1927,666 1938,2639 1482,2665 1555,2758 1681,2782 1705,2837 1427,2837 1389,2779 889,2802 889,2688 1003,2662 549,2639 549,736 620,654 1131,654 1099,631 1193,596"/>
+      
+      
+      <TextLine id="eSc_line_a093da04" >
+        <Coords points="1137,634 1128,596 1254,575 1254,575 1257,575 1257,575 1336,587 1342,625 1342,637 1137,642"/>
+        <Baseline points="1137,634 1342,625"/>
+        <TextEquiv>
+          <Unicode>— 166 —</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_26034a38" >
+        <Coords points="602,695 602,640 1918,651 1918,695 1918,716 602,716"/>
+        <Baseline points="602,695 1918,695"/>
+        <TextEquiv>
+          <Unicode>Mais passons sur ce détail ; il faut juger de la qualité d’une civilisation sur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a612bba4" >
+        <Coords points="555,742 555,695 1915,701 1918,748 1912,759 549,754"/>
+        <Baseline points="555,742 1918,748"/>
+        <TextEquiv>
+          <Unicode>l&#39;ensemble des phénomènes sociaux qu’elle produit. Voyons ce que les anciens</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_62008875" >
+        <Coords points="558,791 558,751 1918,751 1918,791 1918,806 558,809"/>
+        <Baseline points="558,791 1918,791"/>
+        <TextEquiv>
+          <Unicode>Américains nous offrent en fait de culture morale et intellectuelle. Eh bien !</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_11349402" >
+        <Coords points="558,841 558,797 1921,797 1921,841 1921,853 558,856"/>
+        <Baseline points="558,841 1921,841"/>
+        <TextEquiv>
+          <Unicode>nous sommes frappé du spectacle qu’ils nous présentent d’une culture matérielle</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c6bf7c59" >
+        <Coords points="555,885 555,838 1915,844 1918,891 1912,900 549,894"/>
+        <Baseline points="555,885 1918,891"/>
+        <TextEquiv>
+          <Unicode>des plus développées et des plus brillantes par l’habile pratique de tous les arts</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_69114bf7" >
+        <Coords points="555,932 555,888 1912,894 1915,938 1912,952 552,952"/>
+        <Baseline points="555,932 1915,938"/>
+        <TextEquiv>
+          <Unicode>purement techniqnes ou mécaniques. Personne ne tissait, brodait, teignait,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e4a64b30" >
+        <Coords points="555,976 555,932 1918,938 1921,981 1915,993 549,990"/>
+        <Baseline points="555,976 1921,981"/>
+        <TextEquiv>
+          <Unicode>taillait, bâtissait, ciselait mieux que les peuples de l’ancienne Amérique ; la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_372e439c" >
+        <Coords points="558,1028 558,987 1915,987 1915,1028 1912,1049 555,1043"/>
+        <Baseline points="558,1028 1915,1028"/>
+        <TextEquiv>
+          <Unicode>mosaïque surtout, qu’ils savaient faire avec les plumes des oiseaux-mouches,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4e72628b" >
+        <Coords points="552,1072 552,1028 1915,1034 1918,1078 1912,1090 546,1084"/>
+        <Baseline points="552,1072 1918,1078"/>
+        <TextEquiv>
+          <Unicode>était d’une perfection et d’une beauté qu’on ne se lassait pas d’admirer, et la</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_cea849fb" >
+        <Coords points="558,1125 558,1078 1921,1081 1921,1125 1921,1139 558,1139"/>
+        <Baseline points="558,1125 1921,1125"/>
+        <TextEquiv>
+          <Unicode>teinture des étoffes était faite par eux avec un talent hors ligne. Et comme ils</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6bc5f6ff" >
+        <Coords points="555,1171 555,1128 1921,1128 1921,1171 1921,1186 555,1186"/>
+        <Baseline points="555,1171 1921,1171"/>
+        <TextEquiv>
+          <Unicode>savaient maçonner et bâtir ! Mais, voyons. Est-ce que l’âme, est-ce que l’esprit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f9df81fa" >
+        <Coords points="555,1218 549,1177 1906,1171 1915,1212 1912,1227 555,1233"/>
+        <Baseline points="555,1218 1915,1212"/>
+        <TextEquiv>
+          <Unicode>trouvent dans ces applications, pour remarquables qu’elles soient, un dédom-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fd2f8382" >
+        <Coords points="558,1265 555,1221 1912,1212 1915,1265 1915,1282 558,1282"/>
+        <Baseline points="558,1265 1915,1265"/>
+        <TextEquiv>
+          <Unicode>magement de la stérilité dans la culture du grand art ? J’aime mieux un : Exegi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_15589828" >
+        <Coords points="552,1312 546,1271 1909,1268 1918,1309 1915,1323 552,1326"/>
+        <Baseline points="552,1312 1918,1309"/>
+        <TextEquiv>
+          <Unicode>Imonumentum, que toutes les pyramides du monde. Or, je voudrais qu’on me</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_6c722386" >
+        <Coords points="555,1358 555,1318 1921,1318 1921,1358 1921,1376 555,1376"/>
+        <Baseline points="555,1358 1921,1358"/>
+        <TextEquiv>
+          <Unicode>montrât parmi les œuvres des anciens Américains une conception poétique, ar-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_91bac0c6" >
+        <Coords points="555,1405 555,1361 1921,1361 1921,1405 1921,1420 555,1420"/>
+        <Baseline points="555,1405 1921,1405"/>
+        <TextEquiv>
+          <Unicode>tistique ou littéraire que la critique de la science du beau idéal, comme Baum-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_11bb5416" >
+        <Coords points="555,1455 549,1414 1909,1405 1918,1446 1915,1464 555,1475"/>
+        <Baseline points="555,1455 1918,1446"/>
+        <TextEquiv>
+          <Unicode>garten, Winckelmann et Kant l’ont établie il y a plus d’un siècle, puisse accepter</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d7d859c2" >
+        <Coords points="555,1499 555,1458 1921,1458 1921,1499 1921,1516 555,1516"/>
+        <Baseline points="555,1499 1921,1499"/>
+        <TextEquiv>
+          <Unicode>sans trop d’observations. « Les poètes, nous dit M. Brasseur, jouissaient chez</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_beba490c" >
+        <Coords points="555,1546 555,1505 1924,1505 1924,1546 1924,1563 555,1563"/>
+        <Baseline points="555,1546 1924,1546"/>
+        <TextEquiv>
+          <Unicode>eux d’une grande influence. Dans leurs vers ils observaient la mesure et la ca-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e35acc6d" >
+        <Coords points="555,1589 555,1546 1918,1551 1921,1595 1915,1607 549,1601"/>
+        <Baseline points="555,1589 1921,1595"/>
+        <TextEquiv>
+          <Unicode>dence. Le langage poétique était pur et avenant, brillant et rempli de figures</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5fe552ed" >
+        <Coords points="558,1639 558,1598 1921,1598 1921,1639 1921,1657 558,1657"/>
+        <Baseline points="558,1639 1921,1639"/>
+        <TextEquiv>
+          <Unicode>et de comparaisons avec les objets les plus agréables que la nature présente</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_22c5fc82" >
+        <Coords points="558,1689 558,1645 1924,1645 1924,1689 1924,1703 558,1703"/>
+        <Baseline points="558,1689 1924,1689"/>
+        <TextEquiv>
+          <Unicode>aux regards. » Ce sont là des éloges qui ne tirent pas à conséquence ; ils ne</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_5fb18757" >
+        <Coords points="558,1735 558,1689 1924,1695 1924,1735 1924,1750 558,1750"/>
+        <Baseline points="558,1735 1924,1735"/>
+        <TextEquiv>
+          <Unicode>touchent pas au sursum corda. Un langage cadencé et coloré des plus riches</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_1e8b7450" >
+        <Coords points="558,1782 555,1733 1912,1738 1918,1776 1915,1800 558,1800"/>
+        <Baseline points="558,1782 1918,1776"/>
+        <TextEquiv>
+          <Unicode>images peut fort bien, à l’instar de l’Assommoir, n’avoir rien de commun avec</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ed2194c8" >
+        <Coords points="558,1829 555,1779 1912,1785 1918,1823 1915,1847 558,1847"/>
+        <Baseline points="558,1829 1918,1823"/>
+        <TextEquiv>
+          <Unicode>le spiritus intus alit et le mens agitat molem, et n’être encore qu’une variété de</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_71ceb64f" >
+        <Coords points="558,1876 558,1832 1921,1832 1921,1876 1921,1893 558,1893"/>
+        <Baseline points="558,1876 1921,1876"/>
+        <TextEquiv>
+          <Unicode>ce carillon assommant que les Américains aimaient tant et dont ils s’amusaient</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_140404ba" >
+        <Coords points="561,1925 555,1885 1813,1879 1821,1920 1819,1934 561,1940"/>
+        <Baseline points="561,1925 1821,1920"/>
+        <TextEquiv>
+          <Unicode>« comme des enfants ». Un désir analogue à celui du Cygne de Mantoue :</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_b017892b" >
+        <Coords points="599,1990 596,1949 1903,1946 1909,2001 1903,2010 593,2004"/>
+        <Baseline points="602,1993 1555,2001 1603,2002 1912,2002"/>
+        <TextEquiv>
+          <Unicode>Qu’avant tout les Muses, mes plus chères délices, divinités que je sers et qui m’é-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_915bb2db" >
+        <Coords points="567,2036 564,1990 1652,1996 1658,2034 1655,2057 567,2057"/>
+        <Baseline points="570,2037 687,2039 1661,2036"/>
+        <TextEquiv>
+          <Unicode>chauffent d’un immense amour, me recoivent dans leur chœur sacré (1);</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_edc996b4" >
+        <Coords points="558,2112 558,2060 1927,2069 1927,2112 1927,2127 558,2127"/>
+        <Baseline points="558,2112 1927,2112"/>
+        <TextEquiv>
+          <Unicode>Un désir semblable n’a donc probablement jamais germé dans l’âme des</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_378efffd" >
+        <Coords points="555,2159 555,2118 1918,2118 1918,2159 1915,2177 552,2174"/>
+        <Baseline points="555,2159 1918,2159"/>
+        <TextEquiv>
+          <Unicode>civilisés Américains. Ce qui leur causait, au contraire, une pleine satisfaction,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_c732765b" >
+        <Coords points="552,2206 549,2165 1921,2162 1924,2206 1924,2224 552,2224"/>
+        <Baseline points="552,2206 1924,2206"/>
+        <TextEquiv>
+          <Unicode>c’étaient des chants en l’honneur de Huitzilopochtli, le dieu colibri, auquel</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_0391c9a2" >
+        <Coords points="558,2253 558,2212 1924,2212 1924,2253 1924,2270 558,2270"/>
+        <Baseline points="558,2253 1924,2253"/>
+        <TextEquiv>
+          <Unicode>on immolait, un mois durant, de petits enfants ; des chants aussi en l’honneur</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_05829164" >
+        <Coords points="555,2302 549,2262 1915,2256 1924,2297 1921,2314 555,2317"/>
+        <Baseline points="555,2302 1924,2297"/>
+        <TextEquiv>
+          <Unicode>des rois, aux obsèques desquels, dans le temple de ce même joli petit dieu,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_f965d9b5" >
+        <Coords points="558,2349 558,2308 1927,2308 1927,2349 1927,2364 558,2364"/>
+        <Baseline points="558,2349 1927,2349"/>
+        <TextEquiv>
+          <Unicode>on faisait une hécatombe de femmes, de serviteurs et de captifs, et cela, pen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d173091b" >
+        <Coords points="555,2399 555,2355 1924,2355 1924,2399 1924,2413 555,2413"/>
+        <Baseline points="555,2399 1924,2399"/>
+        <TextEquiv>
+          <Unicode>dant un certain temps, de dix en dix jours. Au Pérou, à la mort d’un inca,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_d3ca5eac" >
+        <Coords points="552,2443 552,2402 1927,2402 1927,2443 1927,2457 552,2457"/>
+        <Baseline points="552,2443 1927,2443"/>
+        <TextEquiv>
+          <Unicode>aux obsèques de l’inca Huayna Capak par exemple, la boucherie sacrée de-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_a4680976" >
+        <Coords points="558,2492 558,2449 1927,2449 1927,2492 1927,2507 558,2507"/>
+        <Baseline points="558,2492 1927,2492"/>
+        <TextEquiv>
+          <Unicode>mandait jusqu’à mille victimes humaines, parmi lesquelles nombre de petits</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4a5579d8" >
+        <Coords points="552,2539 546,2501 1915,2492 1924,2530 1921,2545 552,2554"/>
+        <Baseline points="552,2539 1924,2530"/>
+        <TextEquiv>
+          <Unicode>enfants. Passons vite. Ce qui serait extraordinaire et tout à fait incompréhen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_772eb52c" >
+        <Coords points="555,2586 549,2545 1915,2539 1924,2580 1921,2595 555,2601"/>
+        <Baseline points="555,2586 1924,2580"/>
+        <TextEquiv>
+          <Unicode>sible, c’est qu’une religion plus cruelle cent fois que celle des anciens Phéni-</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4c78e1b9" >
+        <Coords points="555,2636 555,2592 1927,2592 1927,2636 1927,2653 555,2653"/>
+        <Baseline points="555,2636 1927,2636"/>
+        <TextEquiv>
+          <Unicode>ciens et des Nègres n’eût pas tué dans l’âme des anciens Américains toute</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_652f6c55" >
+        <Coords points="593,2706 593,2668 1501,2681 1485,2717 1479,2735 587,2715"/>
+        <Baseline points="596,2709 1486,2718"/>
+        <TextEquiv>
+          <Unicode>(1) Me verò primum dulces ante omnia Musæ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_839554cf" >
+        <Coords points="903,2752 903,2712 1517,2715 1517,2752 1514,2776 900,2770"/>
+        <Baseline points="905,2753 1518,2753"/>
+        <TextEquiv>
+          <Unicode>Quarum sacra fero ingenti percussus amore,</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_ab8eecf7" >
+        <Coords points="891,2793 883,2752 1026,2747 1035,2788 1035,2814 891,2814"/>
+        <Baseline points="891,2793 1035,2788"/>
+        <TextEquiv>
+          <Unicode>Accipiant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_11648c13" >
+        <Coords points="1418,2828 1412,2788 1687,2782 1696,2823 1696,2840 1418,2846"/>
+        <Baseline points="1418,2828 1696,2823"/>
+        <TextEquiv>
+          <Unicode>(Georgica, II, 475.)</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_5a36dd69"  >
+      <Coords points="970,3390 1506,3390 1517,3433 970,3433 970,3390"/>
+      
+      
+      <TextLine id="eSc_line_c9bc077e" >
+        <Coords points="968,3422 968,3381 1514,3387 1514,3428 1509,3442 962,3439"/>
+        <Baseline points="968,3422 1514,3428"/>
+        <TextEquiv>
+          <Unicode>Droits reservés au Cnam et à ses partenaires</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

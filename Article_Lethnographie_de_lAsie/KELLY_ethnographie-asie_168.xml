@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pages-kelly.pdf_page_6.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="561"
+                   VPOS="596"
+                   WIDTH="1377"
+                   HEIGHT="1587"
+                   ID="eSc_textblock_798d2fdb"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1158 596 1354 596 1403 654 1938 666 1927 2148 561 2183 561 666 1131 654 1158 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_58335eaa"
+                    
+                    BASELINE="1143 634 1354 634" 
+                    HPOS="1140"
+                    VPOS="578"
+                    WIDTH="214"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1143 634 1140 596 1213 578 1213 578 1213 578 1216 578 1216 578 1354 596 1354 634 1354 645 1143 645"/></Shape>
+	    <String CONTENT="— 168 —"
+                    HPOS="1140"
+                    VPOS="578"
+                    WIDTH="214"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8242882a"
+                    
+                    BASELINE="561 698 1930 698" 
+                    HPOS="561"
+                    VPOS="654"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 698 561 654 1930 654 1930 698 1930 716 561 716"/></Shape>
+	    <String CONTENT="de taire que de dire ; le héros de la scène américaine, pas plus que toutes les"
+                    HPOS="561"
+                    VPOS="654"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef8577dd"
+                    
+                    BASELINE="561 748 1927 748" 
+                    HPOS="561"
+                    VPOS="704"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 748 561 704 1927 704 1927 748 1927 762 561 762"/></Shape>
+	    <String CONTENT="autres créations de l’art toltèque ou aztèque, ne peut nous dédommager de la"
+                    HPOS="561"
+                    VPOS="704"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f642d9f2"
+                    
+                    BASELINE="561 794 1927 794" 
+                    HPOS="561"
+                    VPOS="751"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 794 561 751 1927 751 1927 794 1927 809 561 809"/></Shape>
+	    <String CONTENT="contemplation d’Athéné et d’Aphrodité Urania, ces deux formes les plus pures"
+                    HPOS="561"
+                    VPOS="751"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e2e0d43"
+                    
+                    BASELINE="564 838 1930 844" 
+                    HPOS="558"
+                    VPOS="794"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="564 838 564 794 1927 800 1930 844 1924 856 558 850"/></Shape>
+	    <String CONTENT="et les plus parfaites du beau et de la science du sentiment, où le beau prend"
+                    HPOS="558"
+                    VPOS="794"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f0b76ca"
+                    
+                    BASELINE="561 888 982 888" 
+                    HPOS="561"
+                    VPOS="847"
+                    WIDTH="421"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="561 888 561 847 982 847 982 888 982 903 561 903"/></Shape>
+	    <String CONTENT="sa source et se nourrit."
+                    HPOS="561"
+                    VPOS="847"
+                    WIDTH="421"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc1431c5"
+                    
+                    BASELINE="608 935 1930 929" 
+                    HPOS="602"
+                    VPOS="888"
+                    WIDTH="1328"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="608 935 602 894 1921 888 1930 929 1930 943 608 952"/></Shape>
+	    <String CONTENT="On nous l’accordera, je suppose ; mais, nous dira-t-on, est-ce que la litté-"
+                    HPOS="602"
+                    VPOS="888"
+                    WIDTH="1328"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa67b336"
+                    
+                    BASELINE="564 981 1927 981" 
+                    HPOS="564"
+                    VPOS="941"
+                    WIDTH="1363"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="564 981 564 941 1927 941 1927 981 1927 999 564 999"/></Shape>
+	    <String CONTENT="rature péruvienne, telle au moins qu’elle se manifeste dans le drame Ollanta,"
+                    HPOS="564"
+                    VPOS="941"
+                    WIDTH="1363"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd6c04c6"
+                    
+                    BASELINE="561 1025 1924 1034" 
+                    HPOS="555"
+                    VPOS="981"
+                    WIDTH="1369"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 1025 561 981 1921 990 1924 1034 1918 1046 555 1037"/></Shape>
+	    <String CONTENT="ne rachète pas, par de nombreuses beautés et par une action scénique réelle,"
+                    HPOS="555"
+                    VPOS="981"
+                    WIDTH="1369"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37511106"
+                    
+                    BASELINE="561 1075 1924 1072" 
+                    HPOS="558"
+                    VPOS="1031"
+                    WIDTH="1366"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1075 558 1031 1918 1031 1924 1072 1921 1093 561 1093"/></Shape>
+	    <String CONTENT="l’absence d’œuvres véritablement littéraires chez les nations civilisées du Mexique"
+                    HPOS="558"
+                    VPOS="1031"
+                    WIDTH="1366"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6320f02c"
+                    
+                    BASELINE="564 1119 1927 1125" 
+                    HPOS="558"
+                    VPOS="1075"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="564 1119 564 1075 1924 1081 1927 1125 1921 1136 558 1131"/></Shape>
+	    <String CONTENT="et de l’Amérique centrale ? A cette question, si elle m’était faite, je répondrais"
+                    HPOS="558"
+                    VPOS="1075"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_137a6e76"
+                    
+                    BASELINE="564 1166 1927 1171" 
+                    HPOS="561"
+                    VPOS="1122"
+                    WIDTH="1366"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="564 1166 564 1122 1924 1128 1927 1171 1924 1186 561 1186"/></Shape>
+	    <String CONTENT="que je ne conteste pas les réelles beautés poétiques et les qualités dramatiques"
+                    HPOS="561"
+                    VPOS="1122"
+                    WIDTH="1366"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40ba46ac"
+                    
+                    BASELINE="561 1218 1927 1215" 
+                    HPOS="555"
+                    VPOS="1174"
+                    WIDTH="1372"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1218 555 1177 1918 1174 1927 1215 1924 1233 561 1233"/></Shape>
+	    <String CONTENT="d’Ollanta ; mais je demanderais si l’on est bien sûr que ce drame date de"
+                    HPOS="555"
+                    VPOS="1174"
+                    WIDTH="1372"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52266d1f"
+                    
+                    BASELINE="561 1265 1927 1265" 
+                    HPOS="561"
+                    VPOS="1212"
+                    WIDTH="1366"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="561 1265 561 1212 1927 1224 1927 1265 1927 1280 561 1280"/></Shape>
+	    <String CONTENT="l’époque des incas. Le Dr Nodal, à Cuzco, qu’il est permis de considérer"
+                    HPOS="561"
+                    VPOS="1212"
+                    WIDTH="1366"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0b275523"
+                    
+                    BASELINE="564 1315 1924 1306" 
+                    HPOS="558"
+                    VPOS="1265"
+                    WIDTH="1366"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="564 1315 558 1274 1915 1265 1924 1306 1921 1320 564 1329"/></Shape>
+	    <String CONTENT="comme une autorité de quelque compétence dans la matière, le Dr Nodal pré-"
+                    HPOS="558"
+                    VPOS="1265"
+                    WIDTH="1366"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84a326ed"
+                    
+                    BASELINE="564 1361 1927 1356" 
+                    HPOS="558"
+                    VPOS="1315"
+                    WIDTH="1369"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="564 1361 558 1320 1918 1315 1927 1356 1924 1367 564 1373"/></Shape>
+	    <String CONTENT="tend que cette belle et sentimentale pièce, en langue quichua, date... de"
+                    HPOS="558"
+                    VPOS="1315"
+                    WIDTH="1369"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efa57adb"
+                    
+                    BASELINE="564 1408 1927 1402" 
+                    HPOS="561"
+                    VPOS="1358"
+                    WIDTH="1366"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="564 1408 561 1358 1921 1361 1927 1402 1924 1426 564 1426"/></Shape>
+	    <String CONTENT="l’an 1781, et que son auteur est un écrivain nommé Antonia Valdez, de Sicua (1)."
+                    HPOS="561"
+                    VPOS="1358"
+                    WIDTH="1366"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e214546c"
+                    
+                    BASELINE="561 1452 1927 1452" 
+                    HPOS="561"
+                    VPOS="1408"
+                    WIDTH="1366"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1452 561 1408 1927 1408 1927 1452 1927 1470 561 1470"/></Shape>
+	    <String CONTENT="Je sais bien que M. Tschudi repousse avec indignation l’assertion du docteur"
+                    HPOS="561"
+                    VPOS="1408"
+                    WIDTH="1366"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76bc653f"
+                    
+                    BASELINE="564 1499 1927 1499" 
+                    HPOS="564"
+                    VPOS="1458"
+                    WIDTH="1363"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="564 1499 564 1458 1927 1458 1927 1499 1927 1516 564 1516"/></Shape>
+	    <String CONTENT="de Cuzco, dont il est forcé cependant de louer la connaissance approfondie en"
+                    HPOS="564"
+                    VPOS="1458"
+                    WIDTH="1363"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a41fb52e"
+                    
+                    BASELINE="564 1548 1924 1543" 
+                    HPOS="558"
+                    VPOS="1502"
+                    WIDTH="1366"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="564 1548 558 1508 1915 1502 1924 1543 1921 1560 564 1563"/></Shape>
+	    <String CONTENT="quichua, mais les raisons qu’il allègue pour la défense de l’antiquité de l’œuvre"
+                    HPOS="558"
+                    VPOS="1502"
+                    WIDTH="1366"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05f97f19"
+                    
+                    BASELINE="564 1595 1927 1595" 
+                    HPOS="564"
+                    VPOS="1551"
+                    WIDTH="1363"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="564 1595 564 1551 1927 1551 1927 1595 1927 1610 564 1610"/></Shape>
+	    <String CONTENT="en question ne me paraissent pas concluantes. D’ailleurs on peut avec pleine"
+                    HPOS="564"
+                    VPOS="1551"
+                    WIDTH="1363"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07fe0f0c"
+                    
+                    BASELINE="564 1642 1927 1636" 
+                    HPOS="558"
+                    VPOS="1595"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="564 1642 558 1601 1918 1595 1927 1636 1924 1654 564 1657"/></Shape>
+	    <String CONTENT="raison soutenir a priori qu’un peuple cannibale, et les Péruviens l’étaient tout"
+                    HPOS="558"
+                    VPOS="1595"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_237f8ec9"
+                    
+                    BASELINE="564 1689 1924 1683" 
+                    HPOS="558"
+                    VPOS="1645"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="564 1689 558 1651 1915 1645 1924 1683 1921 1697 564 1703"/></Shape>
+	    <String CONTENT="comme les Mexicains et les nations de l’Amérique centrale, qu’un peuple can-"
+                    HPOS="558"
+                    VPOS="1645"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7d65235"
+                    
+                    BASELINE="561 1735 1927 1735" 
+                    HPOS="561"
+                    VPOS="1695"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1735 561 1695 1927 1695 1927 1735 1927 1753 561 1753"/></Shape>
+	    <String CONTENT="nibale, quand même il prétendrait descendre du soleil, ne saurait produire"
+                    HPOS="561"
+                    VPOS="1695"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1ca16d4"
+                    
+                    BASELINE="564 1779 1927 1779" 
+                    HPOS="564"
+                    VPOS="1738"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="564 1779 564 1738 1927 1738 1927 1779 1927 1800 564 1800"/></Shape>
+	    <String CONTENT="une œuvre littéraire, où le beau et le bon soutiennent et ennoblissent le carac-"
+                    HPOS="564"
+                    VPOS="1738"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67d5a4c6"
+                    
+                    BASELINE="561 1829 1927 1829" 
+                    HPOS="561"
+                    VPOS="1788"
+                    WIDTH="1366"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1829 561 1788 1927 1788 1927 1829 1927 1847 561 1847"/></Shape>
+	    <String CONTENT="tère distinctif de l’homme. Mais une telle œuvre est absolument nécessaire"
+                    HPOS="561"
+                    VPOS="1788"
+                    WIDTH="1366"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93b8012e"
+                    
+                    BASELINE="561 1876 1924 1876" 
+                    HPOS="561"
+                    VPOS="1832"
+                    WIDTH="1363"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1876 561 1832 1924 1832 1924 1876 1924 1890 561 1896"/></Shape>
+	    <String CONTENT="pour qu’une civilisation occupe une place importante dans l’histoire de l’hu-"
+                    HPOS="561"
+                    VPOS="1832"
+                    WIDTH="1363"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8ec3f75"
+                    
+                    BASELINE="561 1920 1930 1925" 
+                    HPOS="555"
+                    VPOS="1876"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1920 561 1876 1930 1882 1930 1925 1924 1937 555 1934"/></Shape>
+	    <String CONTENT="manité. C’est faute d’en avoir produit que les anciens Américains se trouvent"
+                    HPOS="555"
+                    VPOS="1876"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b46a43c0"
+                    
+                    BASELINE="561 1972 1924 1966" 
+                    HPOS="555"
+                    VPOS="1925"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1972 555 1931 1915 1925 1924 1966 1921 1981 561 1987"/></Shape>
+	    <String CONTENT="classés dans l’histoire naturelle seulement. Mais cela suffit à la science ethno-"
+                    HPOS="555"
+                    VPOS="1925"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e82adaa"
+                    
+                    BASELINE="561 2022 1927 2016" 
+                    HPOS="555"
+                    VPOS="1975"
+                    WIDTH="1372"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 2022 555 1981 1918 1975 1927 2016 1924 2031 561 2042"/></Shape>
+	    <String CONTENT="graphique pour les étudier avec autant d’intérêt que n’importe quel autre"
+                    HPOS="555"
+                    VPOS="1975"
+                    WIDTH="1372"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16b08972"
+                    
+                    BASELINE="561 2066 698 2066" 
+                    HPOS="561"
+                    VPOS="2025"
+                    WIDTH="137"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 2066 561 2025 698 2025 698 2066 698 2080 561 2092"/></Shape>
+	    <String CONTENT="peuple."
+                    HPOS="561"
+                    VPOS="2025"
+                    WIDTH="137"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d8d6c46"
+                    
+                    BASELINE="608 2124 1930 2130" 
+                    HPOS="605"
+                    VPOS="2074"
+                    WIDTH="1325"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="608 2124 608 2074 1927 2086 1930 2130 1927 2148 605 2148"/></Shape>
+	    <String CONTENT="M. LE PRÉSIDENT. La parole est à M. de Rosny pour une communication sur"
+                    HPOS="605"
+                    VPOS="2074"
+                    WIDTH="1325"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="549"
+                   VPOS="2221"
+                   WIDTH="1389"
+                   HEIGHT="616"
+                   ID="eSc_textblock_459ced48"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="982 2221 1541 2232 1509 2349 1927 2373 1938 2650 1903 2674 1143 2720 1740 2712 1915 2735 1938 2790 561 2837 596 2735 935 2720 549 2697 549 2431 608 2361 956 2361 1006 2335 1003 2288 935 2288 935 2232 982 2221"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c4013935"
+                    
+                    BASELINE="935 2273 1547 2273" 
+                    HPOS="932"
+                    VPOS="2221"
+                    WIDTH="615"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="935 2273 935 2221 1547 2221 1547 2273 1544 2291 932 2288"/></Shape>
+	    <String CONTENT="L’ETHNOGRAPHIE DE L’ASIE,"
+                    HPOS="932"
+                    VPOS="2221"
+                    WIDTH="615"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2953175"
+                    
+                    BASELINE="1029 2338 1468 2338" 
+                    HPOS="1029"
+                    VPOS="2291"
+                    WIDTH="439"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1029 2338 1029 2291 1468 2291 1468 2338 1468 2352 1029 2352"/></Shape>
+	    <String CONTENT="PAR M. LÉON DE ROSNY."
+                    HPOS="1029"
+                    VPOS="2291"
+                    WIDTH="439"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbb8eba6"
+                    
+                    BASELINE="599 2399 1924 2405" 
+                    HPOS="593"
+                    VPOS="2352"
+                    WIDTH="1331"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="599 2399 599 2352 1921 2361 1924 2405 1918 2416 593 2411"/></Shape>
+	    <String CONTENT="Plusieurs membres du Congrès ont pensé qu’il serait intéressant, dans une"
+                    HPOS="593"
+                    VPOS="2352"
+                    WIDTH="1331"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c19d25e"
+                    
+                    BASELINE="555 2449 1924 2449" 
+                    HPOS="552"
+                    VPOS="2408"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2449 555 2408 1924 2408 1924 2449 1921 2469 552 2466"/></Shape>
+	    <String CONTENT="séance où a été invité le public qui fréquente l’Exposition universelle, de résu-"
+                    HPOS="552"
+                    VPOS="2408"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f749cb5b"
+                    
+                    BASELINE="558 2498 1924 2492" 
+                    HPOS="552"
+                    VPOS="2454"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 2498 552 2460 1915 2454 1924 2492 1921 2507 558 2516"/></Shape>
+	    <String CONTENT="mer l’état des connaissances acquises au sujet de la classification ethnogra-"
+                    HPOS="552"
+                    VPOS="2454"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8257167e"
+                    
+                    BASELINE="552 2542 1927 2548" 
+                    HPOS="549"
+                    VPOS="2498"
+                    WIDTH="1378"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="552 2542 552 2498 1927 2504 1927 2548 1924 2560 549 2563"/></Shape>
+	    <String CONTENT="phique des populations de l’Asie. Sur l’invitation du Bureau, je vais essayer de"
+                    HPOS="549"
+                    VPOS="2498"
+                    WIDTH="1378"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7efac8df"
+                    
+                    BASELINE="552 2595 1930 2595" 
+                    HPOS="552"
+                    VPOS="2551"
+                    WIDTH="1378"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 2595 552 2551 1930 2551 1930 2595 1930 2609 552 2609"/></Shape>
+	    <String CONTENT="remplir cette tâche, qui est probablement supérieure à mes forces, mais dont"
+                    HPOS="552"
+                    VPOS="2551"
+                    WIDTH="1378"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eabcd1d6"
+                    
+                    BASELINE="552 2636 1927 2641" 
+                    HPOS="549"
+                    VPOS="2589"
+                    WIDTH="1378"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 2636 552 2589 1924 2598 1927 2641 1924 2653 549 2656"/></Shape>
+	    <String CONTENT="je m’acquitterai de mon mieux, en comptant sur l’indulgence de l’auditoire"
+                    HPOS="549"
+                    VPOS="2589"
+                    WIDTH="1378"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9677ed00"
+                    
+                    BASELINE="552 2691 1137 2682" 
+                    HPOS="546"
+                    VPOS="2641"
+                    WIDTH="591"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 2691 546 2650 1128 2641 1137 2682 1137 2694 552 2703"/></Shape>
+	    <String CONTENT="éclairé réuni dans cette enceinte."
+                    HPOS="546"
+                    VPOS="2641"
+                    WIDTH="591"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e094c23c"
+                    
+                    BASELINE="601 2784 1919 2788" 
+                    HPOS="593"
+                    VPOS="2732"
+                    WIDTH="1325"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="599 2782 599 2732 1915 2744 1918 2785 1912 2802 889 2802 836 2817 821 2823 818 2823 818 2823 815 2823 593 2820"/></Shape>
+	    <String CONTENT="(1) Voir Elementos de la gramática quichua ò idioma de los Yncas, por el Dr José Fernandez"
+                    HPOS="593"
+                    VPOS="2732"
+                    WIDTH="1325"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3390"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_51c88242"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3390 1506 3390 1517 3433 970 3433 970 3390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cee58e9a"
+                    
+                    BASELINE="968 3422 1514 3428" 
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="968 3422 968 3381 1511 3387 1514 3428 1509 3442 962 3439"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_0d360869"
+                    
+                    BASELINE="558 2180 997 2177" 
+                    HPOS="552"
+                    VPOS="2124"
+                    WIDTH="445"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="558 2180 552 2124 991 2130 997 2177 997 2191 558 2194"/></Shape>
+	    <String CONTENT="l’ethnographie de l’Asie."
+                    HPOS="552"
+                    VPOS="2124"
+                    WIDTH="445"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b3410d9"
+                    
+                    BASELINE="559 2827 807 2823" 
+                    HPOS="552"
+                    VPOS="2773"
+                    WIDTH="252"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 2826 552 2773 798 2776 804 2820 804 2840 558 2840"/></Shape>
+	    <String CONTENT="Nodal, V, 6, §3."
+                    HPOS="552"
+                    VPOS="2773"
+                    WIDTH="252"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
