@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  18 JAN 2022 00:37
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  18 JAN 2022 11:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -723,22 +723,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 118.
  [4]
-Overfull \hbox (2.15547pt too wide) in paragraph at lines 140--142
+Overfull \hbox (2.15547pt too wide) in paragraph at lines 139--141
 \TU/lmr/m/n/10 l’article \TU/lmr/m/it/10 De l’esthétique des anciens américains
  \TU/lmr/m/n/10 faites par Kelly, soit les documents \TU/lmtt/m/n/10 pages-kell
 y.pdf
  []
 
 
-Overfull \hbox (3.46877pt too wide) in paragraph at lines 144--146
+Overfull \hbox (3.46877pt too wide) in paragraph at lines 143--145
 []\TU/lmtt/b/n/10 Article_Des_différences_qui_existent_entre_la_race_le_peuple_
 la_nation_la_nationa-
  []
 
 
-Overfull \hbox (3.97878pt too wide) in paragraph at lines 147--148
+Overfull \hbox (3.97878pt too wide) in paragraph at lines 146--147
 []\TU/lmtt/m/n/10 BAUDOIN_Des-differences_page_*.xml \TU/lmr/m/n/10 et \TU/lmtt
 /m/n/10 BAUDOIN_Des-differences_page_*.png \TU/lmr/m/n/10 : les trans-
+ []
+
+
+Overfull \hbox (46.44214pt too wide) in paragraph at lines 149--150
+\TU/lmr/m/it/10 Les villes nègres et leur commerce \TU/lmr/m/n/10 dans son inté
+gralité. Ce dossier contient \TU/lmtt/m/n/10 ANAHI_Les-villes-negres_p*.xml
  []
 
 
