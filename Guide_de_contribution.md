@@ -8,6 +8,8 @@ rapport d’un congrès d’ethnologie ayant eu lieu lors de l’exposition univ
 travailler sur un ensemble de texte issu dudit rapport. Les textes retenus doivent faire l’objet au préalable d’un 
 travail de segmentation et de transcription sur le site eScriptorium, avant d’être déposés sur Github.
 
+---
+
 # 1. Organisation de la page de dépôt Github
 
 S’agissant d’un travail collaboratif, l’emploi de Git et d’un dépôt distant sur Github s’avèrent particulièrement 
@@ -52,6 +54,7 @@ Les pull requests permettent à chaque membre de récupérer un ficher du dépô
 modifications sans altérer le document original. Il peut suggérer ses modifications aux autres membres afin de décider 
 ensemble d’appliquer ou non ces transformations au document original.
 
+---
 
 # 2. Travail de récupération des fichiers XML de transcriptions issus de eScriptorium
 
@@ -64,6 +67,7 @@ retranscrits, les éléments problématiques peuvent être ignorés ou alors êt
 les fichiers doivent être exportés et téléchargés au format `ALTO` avec l’option `include image` cochée. Si vous 
 appliquez correctement cela, vous devez obtenir un fichier `.zip` contenant les fichiers xml et png des textes.
 
+---
 
 # 3. Dépôts des fichiers XML et PNG sur le dépôt Github
 
@@ -74,6 +78,8 @@ articles choisis.
 Afin de normaliser le contenu du dépôt Github, il est nécessaire que les fichiers xml et png de chacun soient nommés de 
 la manière suivante : `PRENOM-DU-MEMBRE_Debut-du-titre-de-larticle-retranscrit_page.xml` ou 
 `NOM-DU-MEMBRE_Debut-du-titre-de-larticle-retranscrit_page.png`
+
+---
 
 # 4. Finalisation du travail
 
