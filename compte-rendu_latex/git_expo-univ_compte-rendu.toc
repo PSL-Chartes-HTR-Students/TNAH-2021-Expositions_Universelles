@@ -1,0 +1,56 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {french}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Introduction}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Le Congrès international des sciences ethnographiques dans son contexte}{1}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Le Congrès international des sciences ethnographiques dans son contexte}{1}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}La consécration des sciences anthropologiques aux expositions universelles du XIXe siècle}{1}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{La consécration des sciences anthropologiques aux expositions universelles du XIXe siècle}{1}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Enjeux scientifiques et historiques du document retranscrit}{2}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Enjeux scientifiques et historiques du document retranscrit}{2}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Répartition des transcriptions}{3}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Répartition des transcriptions}{3}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Choix techniques}{4}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Choix techniques}{4}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Le modèle de transcription}{4}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Le modèle de transcription}{4}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Le format d'export XML}{4}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Le format d'export XML}{4}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Répartition des branches Git}{4}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Répartition des branches Git}{4}{subsection.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Les données produites}{4}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Les données produites}{4}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Difficultés et problématiques particulières}{5}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Difficultés et problématiques particulières}{5}{section.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}L'encodage des caractères spéciaux et non-latins}{5}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{L'encodage des caractères spéciaux et non-latins}{5}{subsection.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}L'encodage des variations typographiques}{6}{subsection.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{L'encodage des variations typographiques}{6}{subsection.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Bibliographie}{10}{section*.1}%

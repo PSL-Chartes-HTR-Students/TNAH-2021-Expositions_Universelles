@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pages-kelly.pdf_page_10.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1389"
+                   HEIGHT="2241"
+                   ID="eSc_textblock_bcf09601"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1158 596 1354 596 1403 654 1938 678 1915 2837 549 2826 561 666 1143 654 1111 631 1158 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1e0273ad"
+                    
+                    BASELINE="1146 631 1351 631" 
+                    HPOS="1143"
+                    VPOS="578"
+                    WIDTH="208"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1146 631 1143 596 1216 578 1216 578 1216 578 1219 578 1219 578 1351 596 1351 631 1351 642 1146 648"/></Shape>
+	    <String CONTENT="— 172 —"
+                    HPOS="1143"
+                    VPOS="578"
+                    WIDTH="208"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf8fffe3"
+                    
+                    BASELINE="561 695 1933 701" 
+                    HPOS="555"
+                    VPOS="648"
+                    WIDTH="1378"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 695 561 648 1933 654 1933 701 1927 713 555 710"/></Shape>
+	    <String CONTENT="mais, en même temps, ses principes se sont compliqués et partant ont perdu"
+                    HPOS="555"
+                    VPOS="648"
+                    WIDTH="1378"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0524b492"
+                    
+                    BASELINE="561 748 1605 742" 
+                    HPOS="555"
+                    VPOS="701"
+                    WIDTH="1050"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 748 555 707 1596 701 1605 742 1602 759 561 762"/></Shape>
+	    <String CONTENT="de leur simplicité, peut-être même de leur clarté primitive."
+                    HPOS="555"
+                    VPOS="701"
+                    WIDTH="1050"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc8b8f9b"
+                    
+                    BASELINE="608 786 1927 791" 
+                    HPOS="602"
+                    VPOS="745"
+                    WIDTH="1325"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="608 786 608 745 1924 751 1927 791 1921 806 602 800"/></Shape>
+	    <String CONTENT="A côté des deux grandes familles dites sémitique et aryenne, on a reconnu"
+                    HPOS="602"
+                    VPOS="745"
+                    WIDTH="1325"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59e0a242"
+                    
+                    BASELINE="561 835 1930 844" 
+                    HPOS="555"
+                    VPOS="786"
+                    WIDTH="1375"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 835 561 786 1927 800 1930 844 1924 856 555 850"/></Shape>
+	    <String CONTENT="I’existence de quelques autres familles, moins nettement caractérisées, il est"
+                    HPOS="555"
+                    VPOS="786"
+                    WIDTH="1375"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79b153fc"
+                    
+                    BASELINE="564 888 1930 888" 
+                    HPOS="564"
+                    VPOS="844"
+                    WIDTH="1366"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="564 888 564 844 1930 844 1930 888 1930 903 564 903"/></Shape>
+	    <String CONTENT="vrai, mais suffisamment distinctes les unes des autres, pour qu’on ait pu les"
+                    HPOS="564"
+                    VPOS="844"
+                    WIDTH="1366"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f852b334"
+                    
+                    BASELINE="561 929 1927 935" 
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 929 561 885 1924 891 1927 935 1921 946 555 941"/></Shape>
+	    <String CONTENT="admettre dans la classification des langues asiatiques. On a déterminé, au"
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b7f3bd2"
+                    
+                    BASELINE="561 981 1927 981" 
+                    HPOS="561"
+                    VPOS="941"
+                    WIDTH="1366"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="561 981 561 941 1927 941 1927 981 1927 996 561 996"/></Shape>
+	    <String CONTENT="moins en partie, les affinités de trois rameaux naguère épars : le finnois, le"
+                    HPOS="561"
+                    VPOS="941"
+                    WIDTH="1366"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cacba763"
+                    
+                    BASELINE="564 1019 1927 1031" 
+                    HPOS="558"
+                    VPOS="979"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="564 1019 564 979 1924 990 1927 1031 1921 1043 558 1040"/></Shape>
+	    <String CONTENT="magyar et le turc, et on les a rattachés, au point de vue grammatical, aux"
+                    HPOS="558"
+                    VPOS="979"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16d25d04"
+                    
+                    BASELINE="561 1072 1927 1078" 
+                    HPOS="555"
+                    VPOS="1022"
+                    WIDTH="1372"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 1072 561 1022 1924 1034 1927 1078 1921 1087 555 1084"/></Shape>
+	    <String CONTENT="idiomes de la longue zone de l’Asie centrale où sont parlés le tibétain, le"
+                    HPOS="555"
+                    VPOS="1022"
+                    WIDTH="1372"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec5cca1e"
+                    
+                    BASELINE="561 1119 1924 1125" 
+                    HPOS="555"
+                    VPOS="1075"
+                    WIDTH="1369"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1119 561 1075 1921 1081 1924 1125 1918 1133 555 1131"/></Shape>
+	    <String CONTENT="mongol, le mandchou et le japonais, de façon à former la famille dite finno-"
+                    HPOS="555"
+                    VPOS="1075"
+                    WIDTH="1369"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cff0153f"
+                    
+                    BASELINE="555 1171 1930 1171" 
+                    HPOS="555"
+                    VPOS="1128"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1171 555 1128 1930 1128 1930 1171 1930 1183 555 1189"/></Shape>
+	    <String CONTENT="japonaise. D’un autre côté, au sein de l’Inde civilisée par les Aryens, mais dont"
+                    HPOS="555"
+                    VPOS="1128"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_562d60d1"
+                    
+                    BASELINE="561 1212 1930 1218" 
+                    HPOS="555"
+                    VPOS="1169"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1212 561 1169 1927 1174 1930 1218 1924 1230 555 1224"/></Shape>
+	    <String CONTENT="ceux-ci ne sauraient plus être considérés comme les autochtones, on a formé"
+                    HPOS="555"
+                    VPOS="1169"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b95065f"
+                    
+                    BASELINE="561 1265 1830 1265" 
+                    HPOS="561"
+                    VPOS="1212"
+                    WIDTH="1269"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="561 1265 561 1212 1830 1221 1830 1265 1830 1280 561 1280"/></Shape>
+	    <String CONTENT="le groupe des idiomes dravidiens, dont le tamoul est le plus considérable."
+                    HPOS="561"
+                    VPOS="1212"
+                    WIDTH="1269"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_233f5305"
+                    
+                    BASELINE="602 1312 1927 1312" 
+                    HPOS="602"
+                    VPOS="1268"
+                    WIDTH="1325"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="602 1312 602 1268 1927 1268 1927 1312 1927 1326 602 1326"/></Shape>
+	    <String CONTENT="La famille finno-japonaise, malgré de remarquables essais, est loin d’être"
+                    HPOS="602"
+                    VPOS="1268"
+                    WIDTH="1325"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_829591ea"
+                    
+                    BASELINE="561 1356 1924 1356" 
+                    HPOS="561"
+                    VPOS="1315"
+                    WIDTH="1363"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1356 561 1315 1924 1315 1924 1356 1924 1373 561 1373"/></Shape>
+	    <String CONTENT="constituée d’une manière définitive, et en raison du grand nombre de dialectes"
+                    HPOS="561"
+                    VPOS="1315"
+                    WIDTH="1363"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85993b06"
+                    
+                    BASELINE="561 1402 1924 1402" 
+                    HPOS="561"
+                    VPOS="1361"
+                    WIDTH="1363"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1402 561 1361 1924 1361 1924 1402 1924 1417 561 1420"/></Shape>
+	    <String CONTENT="qu’elle embrasse, elle laisse encore subsister bien des doutes sur son homogé-"
+                    HPOS="561"
+                    VPOS="1361"
+                    WIDTH="1363"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_268f4f74"
+                    
+                    BASELINE="561 1446 1924 1452" 
+                    HPOS="555"
+                    VPOS="1402"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1446 561 1402 1921 1408 1924 1452 1918 1464 555 1461"/></Shape>
+	    <String CONTENT="néité. La famille dravidienne, au contraire, resserrée dans d’assez étroites li-"
+                    HPOS="555"
+                    VPOS="1402"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6327b42f"
+                    
+                    BASELINE="561 1493 1927 1502" 
+                    HPOS="555"
+                    VPOS="1449"
+                    WIDTH="1372"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1493 561 1449 1924 1458 1927 1502 1921 1513 555 1510"/></Shape>
+	    <String CONTENT="mites, au centre et au sud de l’Hindoustan et à Ceylan, ne peut plus être au-"
+                    HPOS="555"
+                    VPOS="1449"
+                    WIDTH="1372"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42e5f536"
+                    
+                    BASELINE="558 1546 1339 1546" 
+                    HPOS="558"
+                    VPOS="1496"
+                    WIDTH="781"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="558 1546 558 1496 1339 1502 1339 1546 1339 1557 558 1566"/></Shape>
+	    <String CONTENT="jourd’hui l’objet d’importantes contestations."
+                    HPOS="558"
+                    VPOS="1496"
+                    WIDTH="781"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_605da76a"
+                    
+                    BASELINE="608 1592 1927 1592" 
+                    HPOS="608"
+                    VPOS="1540"
+                    WIDTH="1319"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="608 1592 608 1540 1927 1551 1927 1592 1927 1610 608 1610"/></Shape>
+	    <String CONTENT="Voici, en peu de mots, à peu près ce qui a été fait jusqu’à présent pour"
+                    HPOS="608"
+                    VPOS="1540"
+                    WIDTH="1319"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b546e77e"
+                    
+                    BASELINE="561 1633 1924 1639" 
+                    HPOS="558"
+                    VPOS="1583"
+                    WIDTH="1366"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="561 1633 561 1583 1921 1598 1924 1639 1921 1654 558 1654"/></Shape>
+	    <String CONTENT="la classification des langues asiatiques. Ce qu’il reste à faire est énorme. De"
+                    HPOS="558"
+                    VPOS="1583"
+                    WIDTH="1366"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7268ee8f"
+                    
+                    BASELINE="561 1680 1924 1686" 
+                    HPOS="555"
+                    VPOS="1636"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1680 561 1636 1921 1645 1924 1686 1918 1697 555 1695"/></Shape>
+	    <String CONTENT="tous côtés, des idiomes insuffisamment étudiés paraissent rebelles aux ten-"
+                    HPOS="555"
+                    VPOS="1636"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e59c306e"
+                    
+                    BASELINE="558 1735 1924 1735" 
+                    HPOS="558"
+                    VPOS="1689"
+                    WIDTH="1366"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 1735 558 1689 1924 1692 1924 1735 1924 1750 558 1750"/></Shape>
+	    <String CONTENT="tatives de rapprochement. Ces idiomes, il est vrai, sont sans doute ceux des"
+                    HPOS="558"
+                    VPOS="1689"
+                    WIDTH="1366"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9836399a"
+                    
+                    BASELINE="555 1779 1924 1779" 
+                    HPOS="555"
+                    VPOS="1738"
+                    WIDTH="1369"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 1779 555 1738 1924 1738 1924 1779 1924 1797 555 1797"/></Shape>
+	    <String CONTENT="aborigènes de l’Asie, de ces populations encore si peu connues qui ont dû être"
+                    HPOS="555"
+                    VPOS="1738"
+                    WIDTH="1369"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb0e92a6"
+                    
+                    BASELINE="558 1829 1924 1829" 
+                    HPOS="558"
+                    VPOS="1785"
+                    WIDTH="1366"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1829 558 1785 1924 1785 1924 1829 1924 1841 558 1844"/></Shape>
+	    <String CONTENT="refoulées d’âge en âge par les migrations auxquelles on doit la fondation des"
+                    HPOS="558"
+                    VPOS="1785"
+                    WIDTH="1366"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_094de07d"
+                    
+                    BASELINE="555 1876 1924 1876" 
+                    HPOS="555"
+                    VPOS="1832"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 1876 555 1832 1924 1832 1924 1876 1924 1887 555 1896"/></Shape>
+	    <String CONTENT="grands empires constitués au sein du monde oriental. Les langues des tribus"
+                    HPOS="555"
+                    VPOS="1832"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bfa5e219"
+                    
+                    BASELINE="555 1917 1921 1923" 
+                    HPOS="549"
+                    VPOS="1873"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1917 555 1873 1918 1879 1921 1923 1915 1934 549 1928"/></Shape>
+	    <String CONTENT="à demi sauvages de la région de l’Himalaya et de l’Indo-Chine sont très pro-"
+                    HPOS="549"
+                    VPOS="1873"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_157e4005"
+                    
+                    BASELINE="558 1966 1921 1966" 
+                    HPOS="558"
+                    VPOS="1917"
+                    WIDTH="1363"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 1966 558 1917 1921 1925 1921 1966 1921 1981 558 1984"/></Shape>
+	    <String CONTENT="bablement de ce nombre. Mais à côté de ces langues barbares, nous en trou-"
+                    HPOS="558"
+                    VPOS="1917"
+                    WIDTH="1363"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d3c47cf"
+                    
+                    BASELINE="561 2016 1924 2016" 
+                    HPOS="561"
+                    VPOS="1969"
+                    WIDTH="1363"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 2016 561 1969 1924 1972 1924 2016 1924 2031 561 2031"/></Shape>
+	    <String CONTENT="vons d’autres qui ont été cultivées depuis des siècles, qui sont représentées"
+                    HPOS="561"
+                    VPOS="1969"
+                    WIDTH="1363"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_843fb8b8"
+                    
+                    BASELINE="558 2057 1924 2063" 
+                    HPOS="555"
+                    VPOS="2016"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2057 558 2016 1921 2022 1924 2063 1921 2074 555 2077"/></Shape>
+	    <String CONTENT="par une riche littérature et qui néanmoins ne semblent guère offrir de ces"
+                    HPOS="555"
+                    VPOS="2016"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e26b425"
+                    
+                    BASELINE="555 2110 1924 2110" 
+                    HPOS="555"
+                    VPOS="2066"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2110 555 2066 1924 2066 1924 2110 1924 2127 555 2127"/></Shape>
+	    <String CONTENT="affinités sur lesquelles on puisse jeter les bases d’une famille linguistique ; de"
+                    HPOS="555"
+                    VPOS="2066"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8a06a1e"
+                    
+                    BASELINE="558 2159 1634 2153" 
+                    HPOS="552"
+                    VPOS="2112"
+                    WIDTH="1082"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="558 2159 552 2118 1626 2112 1634 2153 1631 2177 558 2177"/></Shape>
+	    <String CONTENT="ce nombre il faut citer le barman, le siamois, l’annamite, etc."
+                    HPOS="552"
+                    VPOS="2112"
+                    WIDTH="1082"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_018ff566"
+                    
+                    BASELINE="599 2200 1921 2203" 
+                    HPOS="593"
+                    VPOS="2150"
+                    WIDTH="1328"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="599 2200 599 2150 1918 2159 1921 2203 1915 2215 593 2212"/></Shape>
+	    <String CONTENT="La classification ethnographique de l’Asie ne repose pas sur les mêmes élé-"
+                    HPOS="593"
+                    VPOS="2150"
+                    WIDTH="1328"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6208631f"
+                    
+                    BASELINE="558 2247 1921 2253" 
+                    HPOS="552"
+                    VPOS="2203"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2247 558 2203 1918 2209 1921 2253 1915 2264 552 2262"/></Shape>
+	    <String CONTENT="ments que la classification anthropologique et la classification linguistique."
+                    HPOS="552"
+                    VPOS="2203"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78ab0e0f"
+                    
+                    BASELINE="555 2294 1921 2300" 
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2294 555 2250 1918 2256 1921 2300 1915 2311 549 2305"/></Shape>
+	    <String CONTENT="Quelques personnes s’en étonnent. Je me rends difficilement compte de leur"
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_635de8be"
+                    
+                    BASELINE="552 2340 1927 2346" 
+                    HPOS="546"
+                    VPOS="2297"
+                    WIDTH="1381"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2340 552 2297 1924 2302 1927 2346 1921 2358 546 2352"/></Shape>
+	    <String CONTENT="étonnement. Les anthropologistes classent des races d’homme, des squelettes et"
+                    HPOS="546"
+                    VPOS="2297"
+                    WIDTH="1381"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38b9480c"
+                    
+                    BASELINE="552 2393 1924 2393" 
+                    HPOS="552"
+                    VPOS="2349"
+                    WIDTH="1372"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 2393 552 2349 1924 2349 1924 2393 1924 2411 552 2411"/></Shape>
+	    <String CONTENT="des crânes surtout ; les linguistes classent des langues ; les ethnographes classent"
+                    HPOS="552"
+                    VPOS="2349"
+                    WIDTH="1372"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1e898e7"
+                    
+                    BASELINE="552 2434 1924 2440" 
+                    HPOS="546"
+                    VPOS="2393"
+                    WIDTH="1378"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 2434 552 2393 1921 2399 1924 2440 1918 2451 546 2446"/></Shape>
+	    <String CONTENT="des nationalités, c’est-à-dire des civilisations, car si une nation peut vivre à la"
+                    HPOS="546"
+                    VPOS="2393"
+                    WIDTH="1378"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_454808f9"
+                    
+                    BASELINE="552 2481 1924 2489" 
+                    HPOS="546"
+                    VPOS="2440"
+                    WIDTH="1378"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2481 552 2440 1921 2449 1924 2489 1918 2501 546 2495"/></Shape>
+	    <String CONTENT="rigueur sans une somme assez étendue de politesse, sans idée collective, sans"
+                    HPOS="546"
+                    VPOS="2440"
+                    WIDTH="1378"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e2e5608e"
+                    
+                    BASELINE="552 2530 1924 2536" 
+                    HPOS="546"
+                    VPOS="2481"
+                    WIDTH="1378"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 2530 552 2481 1921 2489 1924 2536 1918 2548 546 2545"/></Shape>
+	    <String CONTENT="but déterminé, si ce n’est celui de garantir la conservation des individus qui"
+                    HPOS="546"
+                    VPOS="2481"
+                    WIDTH="1378"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_541fb203"
+                    
+                    BASELINE="552 2577 1927 2583" 
+                    HPOS="546"
+                    VPOS="2527"
+                    WIDTH="1381"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="552 2577 552 2527 1924 2539 1927 2583 1921 2595 546 2592"/></Shape>
+	    <String CONTENT="la composent, une nationalité ne peut subsister que par l’adoption par tous"
+                    HPOS="546"
+                    VPOS="2527"
+                    WIDTH="1381"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71b9d0e3"
+                    
+                    BASELINE="552 2630 1924 2630" 
+                    HPOS="552"
+                    VPOS="2589"
+                    WIDTH="1372"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="552 2630 552 2589 1924 2589 1924 2630 1924 2644 552 2644"/></Shape>
+	    <String CONTENT="ses membres d’une idée commune, par le travail de tous pour développer"
+                    HPOS="552"
+                    VPOS="2589"
+                    WIDTH="1372"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fcdb68bb"
+                    
+                    BASELINE="552 2677 1924 2677" 
+                    HPOS="552"
+                    VPOS="2633"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 2677 552 2633 1924 2633 1924 2677 1924 2691 552 2691"/></Shape>
+	    <String CONTENT="une certaine civilisation qui s’est déjà manifestée au moins à l’état rudimen-"
+                    HPOS="552"
+                    VPOS="2633"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_221af7a0"
+                    
+                    BASELINE="552 2723 1924 2723" 
+                    HPOS="552"
+                    VPOS="2679"
+                    WIDTH="1372"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2723 552 2679 1924 2682 1924 2723 1924 2738 552 2738"/></Shape>
+	    <String CONTENT="taire et progressif. Mais alors, dira-t-on, vous ne faites que de l’histoire ou"
+                    HPOS="552"
+                    VPOS="2679"
+                    WIDTH="1372"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aa45921"
+                    
+                    BASELINE="549 2767 1924 2773" 
+                    HPOS="543"
+                    VPOS="2720"
+                    WIDTH="1381"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="549 2767 549 2720 1921 2726 1924 2773 1918 2785 543 2779"/></Shape>
+	    <String CONTENT="de la géographie historique ! Cela serait vrai si nous nous bornions à étudier les"
+                    HPOS="543"
+                    VPOS="2720"
+                    WIDTH="1381"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd81e916"
+                    
+                    BASELINE="549 2817 1927 2823" 
+                    HPOS="543"
+                    VPOS="2770"
+                    WIDTH="1384"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="549 2817 549 2770 1924 2776 1927 2823 1921 2837 543 2831"/></Shape>
+	    <String CONTENT="annales des peuples qui existent ou qui ont cessé d’exister, sans chercher à les"
+                    HPOS="543"
+                    VPOS="2770"
+                    WIDTH="1384"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3390"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_2fa41299"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3390 1494 3390 1517 3433 970 3433 970 3390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4cbd7be6"
+                    
+                    BASELINE="968 3422 1511 3428" 
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="549"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="968 3422 968 3381 1509 3387 1511 3428 1506 3445 962 3439"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="549"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
