@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+            <fileName>ESTEBAN_classification-races-humaines_157.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="143"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1377"
+                   HEIGHT="2230"
+                   ID="eSc_textblock_29317460"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1181 596 1330 596 1403 654 1926 666 1926 2826 549 2815 549 689 584 654 1131 654 1110 631 1181 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_1f146205"
+                    
+                    BASELINE="1143 634 1341 634" 
+                    HPOS="1137"
+                    VPOS="578"
+                    WIDTH="204"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1143 634 1137 596 1204 578 1207 578 1207 578 1210 578 1210 578 1341 596 1341 634 1341 643 1143 648"/></Shape>
+	    <String CONTENT="— 157 —"
+                    HPOS="1137"
+                    VPOS="578"
+                    WIDTH="204"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e528c4d5"
+                    
+                    BASELINE="558 698 1920 692" 
+                    HPOS="549"
+                    VPOS="648"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 698 549 654 1911 648 1920 692 1920 704 558 710"/></Shape>
+	    <String CONTENT="sont formés en vivant isolés, se mélangent ensuite entre eux pendant un cer-"
+                    HPOS="549"
+                    VPOS="648"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2c399e48"
+                    
+                    BASELINE="561 742 1917 748" 
+                    HPOS="558"
+                    VPOS="698"
+                    WIDTH="1359"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 742 561 698 1914 704 1917 748 1914 760 558 760"/></Shape>
+	    <String CONTENT="tain nombre de siècles, il est certain qu’il sortira de ce mélange une race"
+                    HPOS="558"
+                    VPOS="698"
+                    WIDTH="1359"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d643e76c"
+                    
+                    BASELINE="561 786 1914 795" 
+                    HPOS="558"
+                    VPOS="742"
+                    WIDTH="1356"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 786 561 742 1911 751 1914 795 1911 809 558 809"/></Shape>
+	    <String CONTENT="qui prendra à son tour dans l’isolement des caractères distincts et qui de-"
+                    HPOS="558"
+                    VPOS="742"
+                    WIDTH="1356"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6557dfa"
+                    
+                    BASELINE="561 833 1917 841" 
+                    HPOS="555"
+                    VPOS="792"
+                    WIDTH="1362"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 833 561 792 1914 800 1917 841 1911 853 555 844"/></Shape>
+	    <String CONTENT="viendra ce qu’on peut appeler une bonne race. Eh bien! il est certain que la"
+                    HPOS="555"
+                    VPOS="792"
+                    WIDTH="1362"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5604fca2"
+                    
+                    BASELINE="561 882 1914 888" 
+                    HPOS="555"
+                    VPOS="838"
+                    WIDTH="1359"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 882 561 838 1911 844 1914 888 1908 900 555 897"/></Shape>
+	    <String CONTENT="distribution géographique actuelle ne nous montre pas ces conditions néces-"
+                    HPOS="555"
+                    VPOS="838"
+                    WIDTH="1359"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb77e16e"
+                    
+                    BASELINE="561 926 1917 932" 
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1362"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 926 561 885 1914 891 1917 932 1911 947 555 944"/></Shape>
+	    <String CONTENT="saires pour expliquer la formation des différentes races humaines, telles que"
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1362"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_212036ef"
+                    
+                    BASELINE="561 973 1917 979" 
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="1362"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 973 561 932 1914 938 1917 979 1911 993 555 991"/></Shape>
+	    <String CONTENT="nous les voyons se juxtaposer aujourd’hui. Il faut donc que la géographie de"
+                    HPOS="555"
+                    VPOS="932"
+                    WIDTH="1362"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ef91485"
+                    
+                    BASELINE="561 1026 1914 1026" 
+                    HPOS="561"
+                    VPOS="985"
+                    WIDTH="1353"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1026 561 985 1914 985 1914 1026 1914 1043 561 1043"/></Shape>
+	    <String CONTENT="nos continents ait changé; quant à cela, les géologues n’ont plus aucun doute."
+                    HPOS="561"
+                    VPOS="985"
+                    WIDTH="1353"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_26fb29a4"
+                    
+                    BASELINE="561 1075 1914 1069" 
+                    HPOS="558"
+                    VPOS="1026"
+                    WIDTH="1356"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1075 558 1026 1908 1029 1914 1069 1911 1087 561 1090"/></Shape>
+	    <String CONTENT="La géographie, cela est maintenant démontré, n’est pas subitement transformée"
+                    HPOS="558"
+                    VPOS="1026"
+                    WIDTH="1356"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05b8b8eb"
+                    
+                    BASELINE="561 1119 1914 1119" 
+                    HPOS="561"
+                    VPOS="1078"
+                    WIDTH="1353"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1119 561 1078 1914 1078 1914 1119 1914 1134 561 1140"/></Shape>
+	    <String CONTENT="par de grands cataclysmes généraux; elle est en voie de transformation con-"
+                    HPOS="561"
+                    VPOS="1078"
+                    WIDTH="1353"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43e4f772"
+                    
+                    BASELINE="561 1163 1911 1169" 
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1356"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1163 561 1119 1908 1125 1911 1169 1906 1183 555 1178"/></Shape>
+	    <String CONTENT="stante, et ces mutations locales successives finissent, dans la suite des temps,"
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1356"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce1b3b3d"
+                    
+                    BASELINE="561 1213 1917 1219" 
+                    HPOS="558"
+                    VPOS="1166"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1213 561 1166 1914 1172 1917 1219 1914 1227 558 1230"/></Shape>
+	    <String CONTENT="par renouveler nos continents et par donner une tout autre configuration aux"
+                    HPOS="558"
+                    VPOS="1166"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_96423927"
+                    
+                    BASELINE="561 1262 894 1262" 
+                    HPOS="561"
+                    VPOS="1219"
+                    WIDTH="333"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1262 561 1219 894 1219 894 1262 894 1277 561 1277"/></Shape>
+	    <String CONTENT="terres et aux mers."
+                    HPOS="561"
+                    VPOS="1219"
+                    WIDTH="333"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1325f820"
+                    
+                    BASELINE="605 1306 1914 1300" 
+                    HPOS="599"
+                    VPOS="1262"
+                    WIDTH="1315"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="605 1306 599 1265 1906 1262 1914 1300 1911 1318 605 1324"/></Shape>
+	    <String CONTENT="Je sais que certains esprits sont effrayés de se représenter ces grands chan-"
+                    HPOS="599"
+                    VPOS="1262"
+                    WIDTH="1315"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_64a08889"
+                    
+                    BASELINE="561 1356 1920 1356" 
+                    HPOS="561"
+                    VPOS="1312"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1356 561 1312 1920 1312 1920 1356 1920 1368 561 1376"/></Shape>
+	    <String CONTENT="gements, qui leur semblent impliquer la nécessité de grands soulèvements de"
+                    HPOS="561"
+                    VPOS="1312"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_38a1825e"
+                    
+                    BASELINE="561 1403 1917 1403" 
+                    HPOS="561"
+                    VPOS="1359"
+                    WIDTH="1356"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1403 561 1359 1917 1359 1917 1403 1917 1417 561 1417"/></Shape>
+	    <String CONTENT="montagnes, de grands mouvements du sol. Il n’est pas besoin de tout cela."
+                    HPOS="561"
+                    VPOS="1359"
+                    WIDTH="1356"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5971de6c"
+                    
+                    BASELINE="561 1449 1917 1444" 
+                    HPOS="558"
+                    VPOS="1400"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1449 558 1400 1911 1403 1917 1444 1914 1458 561 1464"/></Shape>
+	    <String CONTENT="Une autre hypothèse peut expliquer plus aisément les changements géolo-"
+                    HPOS="558"
+                    VPOS="1400"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a055b24c"
+                    
+                    BASELINE="561 1496 1917 1490" 
+                    HPOS="555"
+                    VPOS="1452"
+                    WIDTH="1362"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="561 1496 555 1458 1908 1452 1917 1490 1914 1505 561 1520"/></Shape>
+	    <String CONTENT="giques. Je crois avoir été une des premières à chercher la cause des change-"
+                    HPOS="555"
+                    VPOS="1452"
+                    WIDTH="1362"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1bc22947"
+                    
+                    BASELINE="561 1543 1920 1543" 
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1359"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="561 1543 561 1502 1920 1502 1920 1543 1920 1558 561 1558"/></Shape>
+	    <String CONTENT="ments géographiques arrivés dans la suite des temps dans un mouvement de"
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1359"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_361f52a3"
+                    
+                    BASELINE="561 1590 1920 1584" 
+                    HPOS="555"
+                    VPOS="1546"
+                    WIDTH="1365"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1590 555 1552 1911 1546 1920 1584 1917 1599 561 1604"/></Shape>
+	    <String CONTENT="déplacement de l’axe de rotation de la terre, et un mouvement de translation"
+                    HPOS="555"
+                    VPOS="1546"
+                    WIDTH="1365"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d9dd3f1"
+                    
+                    BASELINE="561 1637 1917 1631" 
+                    HPOS="555"
+                    VPOS="1590"
+                    WIDTH="1362"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1637 555 1596 1908 1590 1917 1631 1914 1645 561 1651"/></Shape>
+	    <String CONTENT="des pôles terrestres. Cette idée est aujourd’hui acceptée par beaucoup de géo-"
+                    HPOS="555"
+                    VPOS="1590"
+                    WIDTH="1362"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a7d80a8"
+                    
+                    BASELINE="561 1680 1917 1686" 
+                    HPOS="558"
+                    VPOS="1628"
+                    WIDTH="1359"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 1680 561 1628 1914 1642 1917 1686 1914 1698 558 1698"/></Shape>
+	    <String CONTENT="Iogues et de savants. Celte théorie, je ne vous l’exposerai pas aujourd’hui; je"
+                    HPOS="558"
+                    VPOS="1628"
+                    WIDTH="1359"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fde844bb"
+                    
+                    BASELINE="561 1730 1920 1730" 
+                    HPOS="561"
+                    VPOS="1689"
+                    WIDTH="1359"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="561 1730 561 1689 1920 1689 1920 1730 1920 1745 561 1745"/></Shape>
+	    <String CONTENT="veux seulement appeler votre attention sur ce seul fait, c’est que, d’après"
+                    HPOS="561"
+                    VPOS="1689"
+                    WIDTH="1359"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fd187b6a"
+                    
+                    BASELINE="561 1774 1917 1780" 
+                    HPOS="555"
+                    VPOS="1730"
+                    WIDTH="1362"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1774 561 1730 1914 1736 1917 1780 1911 1792 555 1789"/></Shape>
+	    <String CONTENT="Arago, la hauteur du ménisque des eaux équatoriales du à la force centrifuge"
+                    HPOS="555"
+                    VPOS="1730"
+                    WIDTH="1362"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5e39b2e"
+                    
+                    BASELINE="558 1824 1917 1824" 
+                    HPOS="558"
+                    VPOS="1783"
+                    WIDTH="1359"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="558 1824 558 1783 1917 1783 1917 1824 1917 1838 558 1838"/></Shape>
+	    <String CONTENT="est de 5 kilomètres. Par conséquent ce ménisque des eaux équatoriales, trans-"
+                    HPOS="558"
+                    VPOS="1783"
+                    WIDTH="1359"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7fd968b"
+                    
+                    BASELINE="561 1868 1888 1873" 
+                    HPOS="558"
+                    VPOS="1824"
+                    WIDTH="1330"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1868 561 1824 1885 1830 1888 1873 1885 1888 558 1888"/></Shape>
+	    <String CONTENT="porté sous d’autres latitudes par le déplacement de l’axe terrestre, suffirait à"
+                    HPOS="558"
+                    VPOS="1824"
+                    WIDTH="1330"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7a9b7913"
+                    
+                    BASELINE="558 1917 1917 1917" 
+                    HPOS="558"
+                    VPOS="1876"
+                    WIDTH="1359"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1917 558 1876 1917 1876 1917 1917 1917 1935 558 1935"/></Shape>
+	    <String CONTENT="couvrir les plus hautes montagnes de nos continents intertropicaux et extra-"
+                    HPOS="558"
+                    VPOS="1876"
+                    WIDTH="1359"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5f97dee"
+                    
+                    BASELINE="558 1961 1920 1967" 
+                    HPOS="552"
+                    VPOS="1917"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="558 1961 558 1917 1917 1923 1920 1967 1914 1976 552 1973"/></Shape>
+	    <String CONTENT="tropicaux. Donc, aujourd’hui, si les mers équatoriales laissent à découvert"
+                    HPOS="552"
+                    VPOS="1917"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44b94884"
+                    
+                    BASELINE="558 2008 1914 2014" 
+                    HPOS="552"
+                    VPOS="1964"
+                    WIDTH="1362"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 2008 558 1964 1911 1970 1914 2014 1908 2028 552 2020"/></Shape>
+	    <String CONTENT="de grands massifs, tels que le massif africain, c’est-à-dire le massif du Pérou,"
+                    HPOS="552"
+                    VPOS="1964"
+                    WIDTH="1362"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_495c32ad"
+                    
+                    BASELINE="558 2058 1920 2058" 
+                    HPOS="558"
+                    VPOS="2017"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2058 558 2017 1920 2017 1920 2058 1920 2075 558 2075"/></Shape>
+	    <String CONTENT="dans l’Amérique méridionale et celui de l’Amérique centrale, le massif aus-"
+                    HPOS="558"
+                    VPOS="2017"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1903742f"
+                    
+                    BASELINE="558 2101 1917 2107" 
+                    HPOS="552"
+                    VPOS="2058"
+                    WIDTH="1365"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2101 558 2058 1914 2063 1917 2107 1911 2119 552 2113"/></Shape>
+	    <String CONTENT="Itralien avec les iles australo-guinéennes, c’est que ces trois grands plateaux"
+                    HPOS="552"
+                    VPOS="2058"
+                    WIDTH="1365"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3fdf9e0"
+                    
+                    BASELINE="561 2148 1917 2154" 
+                    HPOS="555"
+                    VPOS="2104"
+                    WIDTH="1362"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 2148 561 2104 1914 2110 1917 2154 1911 2166 555 2163"/></Shape>
+	    <String CONTENT="terrestres, considérés au point de vue de l’altitude absolue, et non plus d’après"
+                    HPOS="555"
+                    VPOS="2104"
+                    WIDTH="1362"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d84d9095"
+                    
+                    BASELINE="561 2195 1920 2201" 
+                    HPOS="555"
+                    VPOS="2145"
+                    WIDTH="1365"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 2195 561 2145 1917 2157 1920 2201 1914 2215 555 2212"/></Shape>
+	    <String CONTENT="la hauteur actuelle du niveau des mers, puisque ce niveau doit être changeant"
+                    HPOS="555"
+                    VPOS="2145"
+                    WIDTH="1365"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09e648f3"
+                    
+                    BASELINE="561 2242 1917 2248" 
+                    HPOS="555"
+                    VPOS="2198"
+                    WIDTH="1362"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 2242 561 2198 1914 2204 1917 2248 1911 2259 555 2256"/></Shape>
+	    <String CONTENT="si l’axe terrestre est lui-même mobile dans une période de temps excessive-"
+                    HPOS="555"
+                    VPOS="2198"
+                    WIDTH="1362"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3f5641b"
+                    
+                    BASELINE="561 2288 1914 2297" 
+                    HPOS="555"
+                    VPOS="2245"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2288 561 2245 1911 2253 1914 2297 1908 2309 555 2303"/></Shape>
+	    <String CONTENT="ment longue, c’est, dis-je, que ces trois grands continents doivent avoir en"
+                    HPOS="555"
+                    VPOS="2245"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e07ed69"
+                    
+                    BASELINE="561 2335 1917 2341" 
+                    HPOS="555"
+                    VPOS="2294"
+                    WIDTH="1362"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 2335 561 2294 1914 2300 1917 2341 1911 2356 555 2353"/></Shape>
+	    <String CONTENT="altitude au moins 5 kilomètres de plus que les plus hautes montagnes des en-"
+                    HPOS="555"
+                    VPOS="2294"
+                    WIDTH="1362"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58d32a7f"
+                    
+                    BASELINE="561 2382 1917 2388" 
+                    HPOS="555"
+                    VPOS="2341"
+                    WIDTH="1362"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 2382 561 2341 1914 2347 1917 2388 1911 2402 555 2397"/></Shape>
+	    <String CONTENT="virons du pôle ou même des zones tempérées; c’est-à-dire que cette altitude"
+                    HPOS="555"
+                    VPOS="2341"
+                    WIDTH="1362"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad32c45d"
+                    
+                    BASELINE="558 2438 1914 2432" 
+                    HPOS="552"
+                    VPOS="2391"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2438 552 2397 1906 2391 1914 2432 1911 2443 558 2449"/></Shape>
+	    <String CONTENT="étant rapportée à la longueur du rayon terrestre correspondant aux mon-"
+                    HPOS="552"
+                    VPOS="2391"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_852be928"
+                    
+                    BASELINE="561 2481 1914 2481" 
+                    HPOS="561"
+                    VPOS="2435"
+                    WIDTH="1353"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2481 561 2435 1914 2440 1914 2481 1914 2499 561 2499"/></Shape>
+	    <String CONTENT="tagnes du Pérou, de l’Afrique centrale et du massif guinéo-australien, est déjà"
+                    HPOS="561"
+                    VPOS="2435"
+                    WIDTH="1353"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe48fa70"
+                    
+                    BASELINE="558 2528 1911 2531" 
+                    HPOS="552"
+                    VPOS="2481"
+                    WIDTH="1359"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="558 2528 558 2481 1908 2484 1911 2531 1906 2546 552 2537"/></Shape>
+	    <String CONTENT="de 5 kilomètres plus élevée que les terres des environs du pôle. Par conséquent,"
+                    HPOS="552"
+                    VPOS="2481"
+                    WIDTH="1359"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_91264883"
+                    
+                    BASELINE="558 2575 1914 2575" 
+                    HPOS="558"
+                    VPOS="2534"
+                    WIDTH="1356"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2575 558 2534 1914 2534 1914 2575 1914 2592 558 2592"/></Shape>
+	    <String CONTENT="en supposant l’écorce terrestre immobile, si quelque jour le mouvement du"
+                    HPOS="558"
+                    VPOS="2534"
+                    WIDTH="1356"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e7eab4dd"
+                    
+                    BASELINE="558 2622 1914 2622" 
+                    HPOS="558"
+                    VPOS="2581"
+                    WIDTH="1356"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2622 558 2581 1914 2581 1914 2622 1914 2636 558 2642"/></Shape>
+	    <String CONTENT="pôle amenait le déplacement du ménisque des eaux équatoriales, il en ré-"
+                    HPOS="558"
+                    VPOS="2581"
+                    WIDTH="1356"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f01ad0ff"
+                    
+                    BASELINE="558 2669 1917 2669" 
+                    HPOS="558"
+                    VPOS="2628"
+                    WIDTH="1359"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2669 558 2628 1917 2628 1917 2669 1917 2686 558 2686"/></Shape>
+	    <String CONTENT="sulterait que ces trois massifs de l’Afrique, de l’Amérique centrale et de l’Aus-"
+                    HPOS="558"
+                    VPOS="2628"
+                    WIDTH="1359"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ef6cf028"
+                    
+                    BASELINE="558 2712 1917 2718" 
+                    HPOS="552"
+                    VPOS="2669"
+                    WIDTH="1365"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2712 558 2669 1914 2674 1917 2718 1911 2730 552 2724"/></Shape>
+	    <String CONTENT="Itralie auraient des montagnes beaucoup plus élevées que toutes celles que"
+                    HPOS="552"
+                    VPOS="2669"
+                    WIDTH="1365"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_55e716a5"
+                    
+                    BASELINE="561 2762 1917 2762" 
+                    HPOS="561"
+                    VPOS="2718"
+                    WIDTH="1356"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 2762 561 2718 1917 2721 1917 2762 1917 2777 561 2783"/></Shape>
+	    <String CONTENT="nous connaissons aujourd’hui. Seulement, il est à supposer, si le noyau ter-"
+                    HPOS="561"
+                    VPOS="2718"
+                    WIDTH="1356"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa5ae59f"
+                    
+                    BASELINE="558 2812 1917 2812" 
+                    HPOS="558"
+                    VPOS="2768"
+                    WIDTH="1359"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="558 2812 558 2768 1917 2768 1917 2812 1917 2832 558 2832"/></Shape>
+	    <String CONTENT="restre n’est pas absolument solide et s’il renferme un noyau fluide, qu’il par-"
+                    HPOS="558"
+                    VPOS="2768"
+                    WIDTH="1359"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3391"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_ed6a2d96"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3391 1470 3391 1517 3423 970 3434 970 3391"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_2a6f427b"
+                    
+                    BASELINE="967 3429 1508 3429" 
+                    HPOS="967"
+                    VPOS="3385"
+                    WIDTH="541"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="967 3429 967 3385 1508 3385 1508 3429 1508 3449 967 3449"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="967"
+                    VPOS="3385"
+                    WIDTH="541"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>pages-kelly.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2480"
+          HEIGHT="3507"
+          PHYSICAL_IMG_NR="7"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2480"
+                  HEIGHT="3507">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1378"
+                   HEIGHT="2089"
+                   ID="eSc_textblock_2c1ee78b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1146 596 1342 596 1403 654 1927 666 1927 2685 549 2674 549 666 1120 654 1146 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9b69541f"
+                    
+                    BASELINE="1134 634 1339 628" 
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="214"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1134 634 1125 596 1222 575 1222 575 1225 575 1225 575 1333 590 1339 628 1339 637 1134 642"/></Shape>
+	    <String CONTENT="— 170 —"
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="214"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_292a91c5"
+                    
+                    BASELINE="552 692 1918 698" 
+                    HPOS="546"
+                    VPOS="634"
+                    WIDTH="1372"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="552 692 552 634 1918 651 1918 698 1912 710 546 704"/></Shape>
+	    <String CONTENT="terminés d’une façon aussi précise que possible, et qui la distinguent nette-"
+                    HPOS="546"
+                    VPOS="634"
+                    WIDTH="1372"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b35a3edf"
+                    
+                    BASELINE="555 739 1921 748" 
+                    HPOS="549"
+                    VPOS="698"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 739 555 698 1921 707 1921 748 1915 759 549 756"/></Shape>
+	    <String CONTENT="ment de la famille sémitique, avec laquelle cependant elle jouit de quelques"
+                    HPOS="549"
+                    VPOS="698"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b15f2e9"
+                    
+                    BASELINE="555 791 877 791" 
+                    HPOS="555"
+                    VPOS="748"
+                    WIDTH="322"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 791 555 748 877 748 877 791 877 809 555 809"/></Shape>
+	    <String CONTENT="affinités évidentes."
+                    HPOS="555"
+                    VPOS="748"
+                    WIDTH="322"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0121f9b"
+                    
+                    BASELINE="602 838 1921 838" 
+                    HPOS="602"
+                    VPOS="794"
+                    WIDTH="1319"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="602 838 602 794 1921 794 1921 838 1921 856 602 856"/></Shape>
+	    <String CONTENT="On est frappé d’une véritable admiration quand on jette les yeux sur quel-"
+                    HPOS="602"
+                    VPOS="794"
+                    WIDTH="1319"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_735ff7aa"
+                    
+                    BASELINE="555 885 1918 885" 
+                    HPOS="555"
+                    VPOS="844"
+                    WIDTH="1363"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 885 555 844 1918 844 1918 885 1918 903 555 903"/></Shape>
+	    <String CONTENT="ques-unes des constatations de la philologie comparée appliquée à l’étude des"
+                    HPOS="555"
+                    VPOS="844"
+                    WIDTH="1363"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57ccacf0"
+                    
+                    BASELINE="555 929 1921 935" 
+                    HPOS="549"
+                    VPOS="879"
+                    WIDTH="1372"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="555 929 555 879 1918 891 1921 935 1915 946 549 941"/></Shape>
+	    <String CONTENT="langues indo-européennes. On m’a recommandé, en prenant la parole, de ne"
+                    HPOS="549"
+                    VPOS="879"
+                    WIDTH="1372"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea75c29d"
+                    
+                    BASELINE="555 979 1918 984" 
+                    HPOS="552"
+                    VPOS="932"
+                    WIDTH="1366"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 979 555 932 1915 938 1918 984 1915 996 552 996"/></Shape>
+	    <String CONTENT="pas éviter les citations de faits connus qui seraient de nature à donner au"
+                    HPOS="552"
+                    VPOS="932"
+                    WIDTH="1366"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28141a61"
+                    
+                    BASELINE="552 1028 1921 1028" 
+                    HPOS="552"
+                    VPOS="984"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 1028 552 984 1921 984 1921 1028 1921 1040 552 1046"/></Shape>
+	    <String CONTENT="plus grand nombre une idée exacte de notre méthode scientifique. Je me per-"
+                    HPOS="552"
+                    VPOS="984"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6772305b"
+                    
+                    BASELINE="555 1072 1918 1078" 
+                    HPOS="549"
+                    VPOS="1025"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="555 1072 555 1025 1915 1031 1918 1078 1912 1087 549 1081"/></Shape>
+	    <String CONTENT="mettrai donc de citer un exemple frappant de la puissance des procédés de"
+                    HPOS="549"
+                    VPOS="1025"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac93c2f6"
+                    
+                    BASELINE="552 1122 1921 1122" 
+                    HPOS="552"
+                    VPOS="1072"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 1122 552 1072 1921 1078 1921 1122 1921 1136 552 1136"/></Shape>
+	    <String CONTENT="l’école linguistique à laquelle nous devons tant de précieux travaux sur les"
+                    HPOS="552"
+                    VPOS="1072"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c263e3f9"
+                    
+                    BASELINE="555 1171 1588 1171" 
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1033"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="555 1171 555 1119 1588 1128 1588 1171 1588 1186 555 1186"/></Shape>
+	    <String CONTENT="idiomes apparentés à celui que nous parlons nous-mêmes."
+                    HPOS="555"
+                    VPOS="1119"
+                    WIDTH="1033"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1de0d63a"
+                    
+                    BASELINE="602 1215 1924 1215" 
+                    HPOS="602"
+                    VPOS="1174"
+                    WIDTH="1322"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="602 1215 602 1174 1924 1174 1924 1215 1924 1233 602 1233"/></Shape>
+	    <String CONTENT="Avant que nous ayons acquis la pratique du sanscrit et des principes phi-"
+                    HPOS="602"
+                    VPOS="1174"
+                    WIDTH="1322"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca6100ad"
+                    
+                    BASELINE="552 1259 1921 1265" 
+                    HPOS="546"
+                    VPOS="1212"
+                    WIDTH="1375"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="552 1259 552 1212 1918 1221 1921 1265 1915 1277 546 1271"/></Shape>
+	    <String CONTENT="lologiques qui en ont été la conséquence, nous n’étions certainement pas en"
+                    HPOS="546"
+                    VPOS="1212"
+                    WIDTH="1375"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_166e871b"
+                    
+                    BASELINE="552 1312 1924 1306" 
+                    HPOS="546"
+                    VPOS="1265"
+                    WIDTH="1378"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1312 546 1271 1915 1265 1924 1306 1921 1318 552 1323"/></Shape>
+	    <String CONTENT="état de constater la parenté des mots employés dans les diverses langues eu-"
+                    HPOS="546"
+                    VPOS="1265"
+                    WIDTH="1378"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ea67e0a"
+                    
+                    BASELINE="552 1353 1921 1358" 
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1375"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1353 552 1309 1918 1315 1921 1358 1915 1367 546 1364"/></Shape>
+	    <String CONTENT="ropéennes pour exprimer le verbe substantif « être », esse en latin, εἶναι en"
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1375"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb17eb88"
+                    
+                    BASELINE="552 1408 1921 1408" 
+                    HPOS="552"
+                    VPOS="1364"
+                    WIDTH="1369"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 1408 552 1364 1921 1364 1921 1408 1921 1417 552 1426"/></Shape>
+	    <String CONTENT="grec, to be en anglais, seyn en allemand, бЫТЬ buït en russe, zijn en flamand,"
+                    HPOS="552"
+                    VPOS="1364"
+                    WIDTH="1369"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_caaa8756"
+                    
+                    BASELINE="552 1449 1924 1455" 
+                    HPOS="546"
+                    VPOS="1408"
+                    WIDTH="1378"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 1449 552 1408 1921 1414 1924 1455 1918 1467 546 1461"/></Shape>
+	    <String CONTENT="bydź en polonais, ІЄСМЬ en paléoslave ; que sais-je ? Dans chacune de ces lan-"
+                    HPOS="546"
+                    VPOS="1408"
+                    WIDTH="1378"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acb50216"
+                    
+                    BASELINE="552 1496 1915 1502" 
+                    HPOS="549"
+                    VPOS="1455"
+                    WIDTH="1366"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 1496 552 1455 1912 1461 1915 1502 1912 1522 549 1522"/></Shape>
+	    <String CONTENT="gues en particulier, ce même verbe « être » présentait, à ses différents temps,"
+                    HPOS="549"
+                    VPOS="1455"
+                    WIDTH="1366"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09104213"
+                    
+                    BASELINE="555 1551 1918 1546" 
+                    HPOS="549"
+                    VPOS="1505"
+                    WIDTH="1369"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1551 549 1510 1909 1505 1918 1546 1915 1563 555 1566"/></Shape>
+	    <String CONTENT="les plus singulières dissemblances, les irrégularités les plus énigmatiques."
+                    HPOS="549"
+                    VPOS="1505"
+                    WIDTH="1369"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e86289e5"
+                    
+                    BASELINE="552 1595 1921 1595" 
+                    HPOS="552"
+                    VPOS="1554"
+                    WIDTH="1369"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 1595 552 1554 1921 1557 1921 1595 1921 1613 552 1613"/></Shape>
+	    <String CONTENT="Esse, en latin, fait sum au présent, fui au passé, ero au futur ;  — εἶναι, en"
+                    HPOS="552"
+                    VPOS="1554"
+                    WIDTH="1369"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58340bb0"
+                    
+                    BASELINE="552 1645 1921 1645" 
+                    HPOS="552"
+                    VPOS="1601"
+                    WIDTH="1369"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 1645 552 1601 1921 1601 1921 1645 1921 1657 552 1665"/></Shape>
+	    <String CONTENT="grec, fait εἰμί au présent, ἐών, ἐόντος dans Homère, et ensuite ὤν, ὄντος au"
+                    HPOS="552"
+                    VPOS="1601"
+                    WIDTH="1369"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc32c83a"
+                    
+                    BASELINE="552 1686 1921 1692" 
+                    HPOS="549"
+                    VPOS="1645"
+                    WIDTH="1372"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1686 552 1645 1918 1651 1921 1692 1918 1703 549 1706"/></Shape>
+	    <String CONTENT="participe ; — to be, en anglais, fait am au présent, was au passé ; — seyn, en"
+                    HPOS="549"
+                    VPOS="1645"
+                    WIDTH="1372"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12ad9b2b"
+                    
+                    BASELINE="552 1738 1921 1733" 
+                    HPOS="546"
+                    VPOS="1695"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1738 546 1700 1912 1695 1921 1733 1918 1756 552 1756"/></Shape>
+	    <String CONTENT="allemand, fait bin au présent, war au passé ; — бЫТЬ, en russe, fait есмь au"
+                    HPOS="546"
+                    VPOS="1695"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_906059d6"
+                    
+                    BASELINE="549 1785 1918 1779" 
+                    HPOS="541"
+                    VPOS="1733"
+                    WIDTH="1377"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="549 1785 541 1744 1909 1733 1918 1779 1915 1806 549 1806"/></Shape>
+	    <String CONTENT="présent, быль au passé, буду au futur. Toutes ces formes, en apparence aussi"
+                    HPOS="541"
+                    VPOS="1733"
+                    WIDTH="1377"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43361c07"
+                    
+                    BASELINE="552 1832 1924 1832" 
+                    HPOS="552"
+                    VPOS="1791"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1832 552 1791 1924 1791 1924 1832 1924 1849 552 1849"/></Shape>
+	    <String CONTENT="étrangères que possible les unes aux autres, s’expliquent et se réunissent à"
+                    HPOS="552"
+                    VPOS="1791"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfc988c4"
+                    
+                    BASELINE="558 1879 1924 1873" 
+                    HPOS="552"
+                    VPOS="1835"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 1879 552 1841 1915 1835 1924 1873 1921 1887 558 1893"/></Shape>
+	    <String CONTENT="une source commune que décèle la connaissance du sanscrit. L’auxiliaire"
+                    HPOS="552"
+                    VPOS="1835"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9a1e372"
+                    
+                    BASELINE="555 1923 1924 1928" 
+                    HPOS="549"
+                    VPOS="1879"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 1923 555 1879 1921 1885 1924 1928 1918 1940 549 1934"/></Shape>
+	    <String CONTENT="« être », dans cette langue, est अस् as, où l’on reconnaît le grec ἐσσί), le latin"
+                    HPOS="549"
+                    VPOS="1879"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_235989ff"
+                    
+                    BASELINE="552 1981 1924 1981" 
+                    HPOS="552"
+                    VPOS="1940"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1981 552 1940 1924 1940 1924 1981 1924 1998 552 1998"/></Shape>
+	    <String CONTENT="es, esse, l’allemand ist, sein, l’anglais is, le français tu es, etc. ; — la première"
+                    HPOS="552"
+                    VPOS="1940"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b8d81eb9"
+                    
+                    BASELINE="552 2031 1924 2031" 
+                    HPOS="552"
+                    VPOS="1987"
+                    WIDTH="1372"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2031 552 1987 1924 1987 1924 2031 1924 2042 552 2051"/></Shape>
+	    <String CONTENT="personne de l’indicatif présent, अस्मि asmi, nous donne le thème du latin"
+                    HPOS="552"
+                    VPOS="1987"
+                    WIDTH="1372"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1d257174"
+                    
+                    BASELINE="555 2077 1921 2072" 
+                    HPOS="549"
+                    VPOS="2031"
+                    WIDTH="1372"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 2077 549 2036 1912 2031 1921 2072 1918 2095 555 2095"/></Shape>
+	    <String CONTENT="sum ; असि asi, lat. es ; अस्ति asti, lat. est ; स्मः smas̅, lat. sumus ; स्थ stha, lat. estis ;"
+                    HPOS="549"
+                    VPOS="2031"
+                    WIDTH="1372"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8681a62"
+                    
+                    BASELINE="555 2118 1927 2124" 
+                    HPOS="549"
+                    VPOS="2077"
+                    WIDTH="1378"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 2118 555 2077 1924 2083 1927 2124 1921 2136 549 2130"/></Shape>
+	    <String CONTENT="— शान्ति santi, lat. sunt. — Un autre verbe sanscrit, भू bhû, nous fournit le"
+                    HPOS="549"
+                    VPOS="2077"
+                    WIDTH="1378"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eda254c7"
+                    
+                    BASELINE="555 2183 1930 2183" 
+                    HPOS="555"
+                    VPOS="2139"
+                    WIDTH="1375"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 2183 555 2139 1930 2139 1930 2183 1930 2197 555 2197"/></Shape>
+	    <String CONTENT="thème du russe buit, buile, budu ; l’impératif अस्तु astu nous rappelle le grec"
+                    HPOS="555"
+                    VPOS="2139"
+                    WIDTH="1375"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db13ed78"
+                    
+                    BASELINE="555 2238 1924 2232" 
+                    HPOS="549"
+                    VPOS="2191"
+                    WIDTH="1375"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="555 2238 549 2197 1915 2191 1924 2232 1921 2247 555 2253"/></Shape>
+	    <String CONTENT="ἔστω et le latin esto. Le persan hestem « je suis » est d’une similitude frappante"
+                    HPOS="549"
+                    VPOS="2191"
+                    WIDTH="1375"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d5aa24a"
+                    
+                    BASELINE="558 2282 1921 2285" 
+                    HPOS="555"
+                    VPOS="2238"
+                    WIDTH="1366"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 2282 558 2238 1918 2241 1921 2285 1918 2300 555 2300"/></Shape>
+	    <String CONTENT="avec le polonais jestem, et هست hest « il est » avec le polonais jest. Il faut dire"
+                    HPOS="555"
+                    VPOS="2238"
+                    WIDTH="1366"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83c37f7a"
+                    
+                    BASELINE="558 2332 1924 2332" 
+                    HPOS="558"
+                    VPOS="2291"
+                    WIDTH="1366"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2332 558 2291 1924 2291 1924 2332 1924 2349 558 2349"/></Shape>
+	    <String CONTENT="que Bopp (1) rapproche de préférence le persan hestem du zend histâmi « je suis"
+                    HPOS="558"
+                    VPOS="2291"
+                    WIDTH="1366"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ab6fb60"
+                    
+                    BASELINE="555 2378 1927 2378" 
+                    HPOS="555"
+                    VPOS="2338"
+                    WIDTH="1372"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 2378 555 2338 1927 2338 1927 2378 1927 2396 555 2396"/></Shape>
+	    <String CONTENT="debout » ; mais, même en adoptant cette opinion, la philologie comparée des"
+                    HPOS="555"
+                    VPOS="2338"
+                    WIDTH="1372"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1698f4d1"
+                    
+                    BASELINE="558 2428 1921 2422" 
+                    HPOS="555"
+                    VPOS="2378"
+                    WIDTH="1366"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="558 2428 555 2378 1915 2381 1921 2422 1918 2446 558 2446"/></Shape>
+	    <String CONTENT="langues aryennes nous apporte un nouvel éclaircissement sur l’idée d’« être »,"
+                    HPOS="555"
+                    VPOS="2378"
+                    WIDTH="1366"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af6c8d47"
+                    
+                    BASELINE="552 2469 1924 2475" 
+                    HPOS="549"
+                    VPOS="2428"
+                    WIDTH="1375"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2469 552 2428 1921 2428 1924 2475 1921 2489 549 2489"/></Shape>
+	    <String CONTENT="qui se trouve ainsi rattachée à la racine sanscrite स्था st‘â « tenir debout » (zend"
+                    HPOS="549"
+                    VPOS="2428"
+                    WIDTH="1375"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ffc81cf"
+                    
+                    BASELINE="552 2522 1924 2527" 
+                    HPOS="546"
+                    VPOS="2478"
+                    WIDTH="1378"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2522 552 2478 1921 2484 1924 2527 1918 2539 546 2533"/></Shape>
+	    <String CONTENT="𐬯𐬙𐬁 śtâ). Le participe du verbe grec εἰ-μί (pour ἐσ-μὶ), ἐ-ών, ἐ-όντος, nous"
+                    HPOS="546"
+                    VPOS="2478"
+                    WIDTH="1378"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e3e4b05"
+                    
+                    BASELINE="549 2574 1927 2568" 
+                    HPOS="541"
+                    VPOS="2527"
+                    WIDTH="1386"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="549 2574 541 2533 1918 2527 1927 2568 1924 2583 549 2589"/></Shape>
+	    <String CONTENT="montre le radical es, réduit à la voyelle e, le σ entre deux voyelles tombant"
+                    HPOS="541"
+                    VPOS="2527"
+                    WIDTH="1386"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72c1e706"
+                    
+                    BASELINE="552 2621 1927 2621" 
+                    HPOS="552"
+                    VPOS="2580"
+                    WIDTH="1375"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2621 552 2580 1927 2580 1927 2621 1927 2639 552 2639"/></Shape>
+	    <String CONTENT="souvent, comme dans γένεσ-ος, devenu γἐνε-ος, γἐνονς, etc. (2). La forme latine"
+                    HPOS="552"
+                    VPOS="2580"
+                    WIDTH="1375"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7de9683"
+                    
+                    BASELINE="552 2665 1927 2671" 
+                    HPOS="546"
+                    VPOS="2621"
+                    WIDTH="1381"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 2665 552 2621 1924 2627 1927 2671 1921 2682 546 2679"/></Shape>
+	    <String CONTENT="ero, eris, s’explique également par la permutation de r en s, dont on trouve"
+                    HPOS="546"
+                    VPOS="2621"
+                    WIDTH="1381"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="596"
+                   VPOS="2735"
+                   WIDTH="1261"
+                   HEIGHT="91"
+                   ID="eSc_textblock_344846a1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1450 2735 1810 2735 1857 2802 596 2826 596 2747 1450 2735"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bb9009af"
+                    
+                    BASELINE="600 2781 1836 2792" 
+                    HPOS="593"
+                    VPOS="2735"
+                    WIDTH="1240"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="599 2779 599 2735 1751 2750 1813 2738 1833 2790 1827 2811 1424 2811 1412 2820 1397 2834 1397 2837 1397 2837 1395 2837 1395 2837 1395 2837 1392 2837 1324 2849 1324 2849 1321 2849 593 2834"/></Shape>
+	    <String CONTENT="(1) Grammaire comparée des langues indo-européenes, trad. de M. Bréal, t. III, p. 273."
+                    HPOS="593"
+                    VPOS="2735"
+                    WIDTH="1240"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3fdf3a7"
+                    
+                    BASELINE="605 2821 1399 2831" 
+                    HPOS="596"
+                    VPOS="2785"
+                    WIDTH="801"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="602 2820 602 2785 1395 2790 1397 2828 1392 2840 596 2834"/></Shape>
+	    <String CONTENT="(2) Bréal, De la forme et de la fonction des mots, p. 12."
+                    HPOS="596"
+                    VPOS="2785"
+                    WIDTH="801"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3390"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_db1116ba"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3390 1506 3390 1517 3433 970 3433 970 3390"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_27553e88"
+                    
+                    BASELINE="968 3422 1514 3428" 
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="968 3422 968 3381 1511 3387 1514 3428 1509 3442 962 3439"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="962"
+                    VPOS="3381"
+                    WIDTH="552"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
