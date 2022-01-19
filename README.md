@@ -4,7 +4,7 @@
 
 Le Congrès international des sciences ethnographiques de 1878 a eu lieu à l'occasion de l'Exposition universelle de 1878, à Paris. Édité en 1881 par l'Imprimerie nationale, le compte rendu de ce congrès a été mis à disposition par le [Conservatoire numérique des Arts et Métiers](http://cnum.cnam.fr/CGI/redir.cgi?8XAE243).
 
-Ce compte rendu permet de revenir aux débuts souvent problématiques de plusieurs disciplines scientifiques : ethnographie, anthropologie, sociologie. Il témoigne également des développements de l'archéologie, des études du folklore et de la culture populaire française. Le congrès est organisé en 1878, l'année où est créé le premier musée ethnographique parisien. C'est une date clé dans le développement de l'anthropologie et des études sur la culture populaire; c'est pour cette raison que nous avons choisi de nous intéresser à cette édition du Congrès international des sciences ethnographiques.
+Ce compte rendu permet de revenir aux débuts souvent problématiques de plusieurs disciplines scientifiques : ethnographie, anthropologie, préhistoire. Il témoigne également des développements de l'archéologie, des études du folklore et de la culture populaire française. Le congrès est organisé en 1878, l'année où est créé le premier musée ethnographique parisien. C'est une date clé dans le développement de l'anthropologie et des études sur la culture populaire; c'est pour cette raison que nous avons choisi de nous intéresser à cette édition du Congrès international des sciences ethnographiques.
 
 ## Équipe et articles retranscrits
 
