@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  18 JAN 2022 22:33
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2021.12.6)  19 JAN 2022 15:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -764,8 +764,8 @@ LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
 
 Overfull \hbox (2.15547pt too wide) in paragraph at lines 122--124
 \TU/lmr/m/n/10 l’article \TU/lmr/m/it/10 De l’esthétique des anciens américains
- \TU/lmr/m/n/10 faites par Kelly, soit les documents \TU/lmtt/m/n/10 pages-kell
-y.pdf
+ \TU/lmr/m/n/10 faites par Kelly, soit les documents \TU/lmtt/m/n/10 KELLY_esth
+etiq-
  []
 
 [4]
@@ -795,12 +795,12 @@ LaTeX Font Warning: Font shape `TU/GFSPorson(0)/m/it' undefined
 LaTeX Font Warning: Font shape `TU/KacstNaskh(0)/m/it' undefined
 (Font)              using `TU/KacstNaskh(0)/m/n' instead on input line 157.
 
-[6] [7] [8] [9] [10] (./git_expo-univ_compte-rendu.toc)
+[6] [7] [8] [9] (./git_expo-univ_compte-rendu.toc)
 \tf@toc=\write5
 \openout5 = `git_expo-univ_compte-rendu.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
- [11]
+ [10]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
 
 (./git_expo-univ_compte-rendu.aux)
@@ -820,10 +820,10 @@ Package logreq Info: Writing requests to 'git_expo-univ_compte-rendu.run.xml'.
 Here is how much of TeX's memory you used:
  19943 strings out of 479819
  388498 string characters out of 5895846
- 1127034 words of memory out of 5000000
+ 1127033 words of memory out of 5000000
  36844 multiletter control sequences out of 15000+600000
  534753 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  51i,5n,66p,11356b,5165s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on git_expo-univ_compte-rendu.pdf (12 pages).
+Output written on git_expo-univ_compte-rendu.pdf (11 pages).
