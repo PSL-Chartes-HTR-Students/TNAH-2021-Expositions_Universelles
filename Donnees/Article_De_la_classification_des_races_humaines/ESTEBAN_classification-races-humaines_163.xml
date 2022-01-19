@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+            <fileName>ESTEBAN_classification-races-humaines_163.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="149"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1377"
+                   HEIGHT="1061"
+                   ID="eSc_textblock_eca651f5"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1145 596 1341 596 1379 654 1926 666 1914 1610 1248 1657 549 1645 549 666 1119 654 1087 631 1145 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eb50f68c"
+                    
+                    BASELINE="1134 631 1338 625" 
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="213"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="1134 631 1125 593 1221 575 1221 575 1224 575 1224 575 1333 587 1338 625 1338 634 1134 640"/></Shape>
+	    <String CONTENT="— 163 —"
+                    HPOS="1125"
+                    VPOS="575"
+                    WIDTH="213"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a466e52"
+                    
+                    BASELINE="552 698 1920 698" 
+                    HPOS="552"
+                    VPOS="651"
+                    WIDTH="1368"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 698 552 651 1920 651 1920 698 1920 713 552 713"/></Shape>
+	    <String CONTENT="avoir pour espérance de conclure l’avenir de l’humanité de son passé. Si du"
+                    HPOS="552"
+                    VPOS="651"
+                    WIDTH="1368"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2ec9fa7b"
+                    
+                    BASELINE="552 739 1914 745" 
+                    HPOS="549"
+                    VPOS="698"
+                    WIDTH="1365"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 739 552 698 1911 704 1914 745 1911 757 549 760"/></Shape>
+	    <String CONTENT="passé de l’humanité nous pouvons conclure un avenir quelconque, il faudra"
+                    HPOS="549"
+                    VPOS="698"
+                    WIDTH="1365"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ebaa68e"
+                    
+                    BASELINE="552 789 1917 798" 
+                    HPOS="546"
+                    VPOS="745"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 789 552 745 1914 754 1917 798 1911 806 546 798"/></Shape>
+	    <String CONTENT="toutefois faire intervenir dans nos prédictions, — et c’est toujours dangereux"
+                    HPOS="546"
+                    VPOS="745"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5562b7d4"
+                    
+                    BASELINE="552 838 1382 833" 
+                    HPOS="546"
+                    VPOS="795"
+                    WIDTH="836"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 838 546 800 1373 795 1382 833 1379 856 552 856"/></Shape>
+	    <String CONTENT="d’être prophète, — les éléments de civilisation."
+                    HPOS="546"
+                    VPOS="795"
+                    WIDTH="836"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3cc16918"
+                    
+                    BASELINE="596 882 1917 882" 
+                    HPOS="596"
+                    VPOS="841"
+                    WIDTH="1321"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="596 882 596 841 1917 841 1917 882 1917 903 596 903"/></Shape>
+	    <String CONTENT="Si je dis qu’en général toutes les races humaines tendent à accuser leur"
+                    HPOS="596"
+                    VPOS="841"
+                    WIDTH="1321"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e3b1fa8"
+                    
+                    BASELINE="558 935 1917 935" 
+                    HPOS="558"
+                    VPOS="885"
+                    WIDTH="1359"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="558 935 558 885 1917 894 1917 935 1917 950 558 950"/></Shape>
+	    <String CONTENT="type, je parle surtout des races à l’état sauvage. Ces races en effet, par une"
+                    HPOS="558"
+                    VPOS="885"
+                    WIDTH="1359"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aefbed11"
+                    
+                    BASELINE="555 979 1917 979" 
+                    HPOS="555"
+                    VPOS="938"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 979 555 938 1917 938 1917 979 1917 996 555 996"/></Shape>
+	    <String CONTENT="sorte d’instinct brutal, s’isolent de leurs consanguins, vivent entre elles et sont"
+                    HPOS="555"
+                    VPOS="938"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c85e514"
+                    
+                    BASELINE="552 1023 1917 1029" 
+                    HPOS="546"
+                    VPOS="979"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1023 552 979 1914 985 1917 1029 1911 1040 546 1034"/></Shape>
+	    <String CONTENT="à l’état de guerre et de rivalité permanentes avec les races limitrophes. La civi-"
+                    HPOS="546"
+                    VPOS="979"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ca33bdf"
+                    
+                    BASELINE="552 1069 1914 1078" 
+                    HPOS="546"
+                    VPOS="1023"
+                    WIDTH="1368"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 1069 552 1023 1911 1034 1914 1078 1908 1090 546 1081"/></Shape>
+	    <String CONTENT="lisation tend, au contraire, à opérer le mélange des races. Mais il faut que"
+                    HPOS="546"
+                    VPOS="1023"
+                    WIDTH="1368"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e96a17b"
+                    
+                    BASELINE="555 1119 1917 1125" 
+                    HPOS="549"
+                    VPOS="1075"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 1119 555 1075 1914 1081 1917 1125 1911 1134 549 1128"/></Shape>
+	    <String CONTENT="Itous les éléments en soient assimilables, et certains types trop inférieurs se"
+                    HPOS="549"
+                    VPOS="1075"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1461dc3b"
+                    
+                    BASELINE="555 1169 1917 1169" 
+                    HPOS="555"
+                    VPOS="1125"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 1169 555 1125 1917 1125 1917 1169 1917 1181 555 1183"/></Shape>
+	    <String CONTENT="refusent à toute assimilation et disparaissent dans leur contact avec les races"
+                    HPOS="555"
+                    VPOS="1125"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e3b5188"
+                    
+                    BASELINE="552 1216 1917 1216" 
+                    HPOS="552"
+                    VPOS="1175"
+                    WIDTH="1365"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="552 1216 552 1175 1917 1175 1917 1216 1917 1230 552 1230"/></Shape>
+	    <String CONTENT="supérieures. Je crois donc que, dans l’avenir de l’humanité, tous les restes"
+                    HPOS="552"
+                    VPOS="1175"
+                    WIDTH="1365"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3e4faad"
+                    
+                    BASELINE="555 1259 1917 1265" 
+                    HPOS="549"
+                    VPOS="1213"
+                    WIDTH="1368"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 1259 555 1213 1914 1219 1917 1265 1911 1277 549 1271"/></Shape>
+	    <String CONTENT="fossiles de l’humanité quaternaire doivent tendre à disparaître et disparaîtront,"
+                    HPOS="549"
+                    VPOS="1213"
+                    WIDTH="1368"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_621239bd"
+                    
+                    BASELINE="552 1306 1917 1312" 
+                    HPOS="546"
+                    VPOS="1262"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 1306 552 1262 1914 1265 1917 1312 1911 1324 546 1321"/></Shape>
+	    <String CONTENT="quelle que soit la bienveillance de ceux qui prennent leur défense. Je crois aussi"
+                    HPOS="546"
+                    VPOS="1262"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e9e9d9db"
+                    
+                    BASELINE="552 1353 1917 1359" 
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 1353 552 1309 1914 1315 1917 1359 1911 1371 546 1365"/></Shape>
+	    <String CONTENT="que, dans l’avenir de l’humanité, les choses se passeront peut-être autrement."
+                    HPOS="546"
+                    VPOS="1309"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdb0751c"
+                    
+                    BASELINE="552 1400 1917 1406" 
+                    HPOS="546"
+                    VPOS="1350"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 1400 552 1350 1914 1362 1917 1406 1911 1417 546 1414"/></Shape>
+	    <String CONTENT="Deux grandes races, la race mongolique et la race blanche, sont appelées à se"
+                    HPOS="546"
+                    VPOS="1350"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0bce93cc"
+                    
+                    BASELINE="552 1452 1920 1452" 
+                    HPOS="552"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1452 552 1409 1920 1409 1920 1452 1920 1467 552 1467"/></Shape>
+	    <String CONTENT="croiser, plus qu’il ne faudrait peut-être pour le bonheur de l’humanité. Je crois"
+                    HPOS="552"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_76195642"
+                    
+                    BASELINE="552 1499 1917 1499" 
+                    HPOS="552"
+                    VPOS="1458"
+                    WIDTH="1365"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="552 1499 552 1458 1917 1458 1917 1499 1917 1514 552 1514"/></Shape>
+	    <String CONTENT="qu’il y aurait à prendre des précautions législatives pour empêcher que ce"
+                    HPOS="552"
+                    VPOS="1458"
+                    WIDTH="1365"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0675892a"
+                    
+                    BASELINE="552 1546 1917 1546" 
+                    HPOS="552"
+                    VPOS="1502"
+                    WIDTH="1365"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="552 1546 552 1502 1917 1502 1917 1546 1917 1563 552 1563"/></Shape>
+	    <String CONTENT="mélange soit trop intense et trop profond, jusqu’à causer la décadence de notre"
+                    HPOS="552"
+                    VPOS="1502"
+                    WIDTH="1365"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ecbc8730"
+                    
+                    BASELINE="552 1593 1914 1593" 
+                    HPOS="552"
+                    VPOS="1552"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1593 552 1552 1914 1552 1914 1593 1914 1610 552 1610"/></Shape>
+	    <String CONTENT="race blanche. Le Chinois déborde, et j’avoue que j’ai bien peur de ce déborde-"
+                    HPOS="552"
+                    VPOS="1552"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6f76868"
+                    
+                    BASELINE="552 1642 1230 1639" 
+                    HPOS="546"
+                    VPOS="1596"
+                    WIDTH="684"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 1642 546 1599 1221 1596 1230 1639 1230 1651 552 1654"/></Shape>
+	    <String CONTENT="ment en Europe. (Applaudissements.)."
+                    HPOS="546"
+                    VPOS="1596"
+                    WIDTH="684"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="771"
+                   VPOS="1730"
+                   WIDTH="945"
+                   HEIGHT="56"
+                   ID="eSc_textblock_38f9370b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="771 1730 1704 1730 1716 1774 771 1786 771 1730"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_48e9e7f4"
+                    
+                    BASELINE="762 1771 1710 1771" 
+                    HPOS="762"
+                    VPOS="1721"
+                    WIDTH="948"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="762 1771 762 1721 1710 1721 1710 1771 1710 1792 762 1792"/></Shape>
+	    <String CONTENT="DE L’ESTHÉTIOUE DES ANCIENS AMÉRICAINS,"
+                    HPOS="762"
+                    VPOS="1721"
+                    WIDTH="948"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="549"
+                   VPOS="1964"
+                   WIDTH="1377"
+                   HEIGHT="769"
+                   ID="eSc_textblock_31382472"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="596 1964 1926 1976 1926 2721 549 2733 549 2034 596 1964"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c084955a"
+                    
+                    BASELINE="596 2005 1920 2005" 
+                    HPOS="596"
+                    VPOS="1958"
+                    WIDTH="1324"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="596 2005 596 1958 1920 1964 1920 2005 1920 2022 596 2022"/></Shape>
+	    <String CONTENT="Il peut paraître hardi, téméraire peut-être, de parler d’esthétique amé-"
+                    HPOS="596"
+                    VPOS="1958"
+                    WIDTH="1324"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b80efb2"
+                    
+                    BASELINE="552 2052 1920 2052" 
+                    HPOS="549"
+                    VPOS="2008"
+                    WIDTH="1371"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2052 549 2011 1917 2008 1920 2052 1920 2072 552 2072"/></Shape>
+	    <String CONTENT="ricaine. L&#39;esprit nourri dans la contemplation du beau antique se sent attristé"
+                    HPOS="549"
+                    VPOS="2008"
+                    WIDTH="1371"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03b17ae0"
+                    
+                    BASELINE="552 2096 1917 2104" 
+                    HPOS="546"
+                    VPOS="2052"
+                    WIDTH="1371"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2096 552 2052 1914 2060 1917 2104 1911 2116 546 2110"/></Shape>
+	    <String CONTENT="et blessé à l’aspect des monuments qui subsistent de l’Amérique ancienne dans"
+                    HPOS="546"
+                    VPOS="2052"
+                    WIDTH="1371"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d0d0ebf"
+                    
+                    BASELINE="552 2145 1917 2151" 
+                    HPOS="546"
+                    VPOS="2096"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 2145 552 2096 1914 2107 1917 2151 1911 2163 546 2160"/></Shape>
+	    <String CONTENT="les musées et les collections; souvent même il en éprouve des sensations d’é-"
+                    HPOS="546"
+                    VPOS="2096"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_acaf0c06"
+                    
+                    BASELINE="552 2192 1920 2198" 
+                    HPOS="549"
+                    VPOS="2148"
+                    WIDTH="1371"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2192 552 2148 1917 2151 1920 2198 1917 2210 549 2212"/></Shape>
+	    <String CONTENT="pouvante et de dégoût. Personne de ceux qui ont parcouru l’énorme recueil"
+                    HPOS="549"
+                    VPOS="2148"
+                    WIDTH="1371"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d841a6d"
+                    
+                    BASELINE="552 2239 1926 2248" 
+                    HPOS="546"
+                    VPOS="2195"
+                    WIDTH="1380"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2239 552 2195 1926 2195 1926 2248 1920 2259 546 2253"/></Shape>
+	    <String CONTENT="des fac-similés que lord Kingsborough a publié sous le titre d’Antiquities of"
+                    HPOS="546"
+                    VPOS="2195"
+                    WIDTH="1380"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80d3e336"
+                    
+                    BASELINE="549 2291 1330 2291" 
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="781"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="549 2291 549 2250 1330 2250 1330 2291 1330 2309 549 2309"/></Shape>
+	    <String CONTENT="Mexico, ne pourra, je crois, en disconvenir."
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="781"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05bf28c9"
+                    
+                    BASELINE="596 2338 1920 2332" 
+                    HPOS="590"
+                    VPOS="2294"
+                    WIDTH="1330"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="596 2338 590 2297 1911 2294 1920 2332 1920 2347 596 2353"/></Shape>
+	    <String CONTENT="Je reconnais qu’il n’en est pas tout à fait de même quant aux œuvres litté-"
+                    HPOS="590"
+                    VPOS="2294"
+                    WIDTH="1330"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e98a363"
+                    
+                    BASELINE="552 2382 1917 2388" 
+                    HPOS="546"
+                    VPOS="2338"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 2382 552 2338 1914 2344 1917 2388 1911 2400 546 2394"/></Shape>
+	    <String CONTENT="raires. Dans le peu qui nous en reste, au Pérou comme dans l’Amérique cen-"
+                    HPOS="546"
+                    VPOS="2338"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a78a25d"
+                    
+                    BASELINE="549 2429 1917 2438" 
+                    HPOS="543"
+                    VPOS="2385"
+                    WIDTH="1374"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="549 2429 549 2385 1914 2394 1917 2438 1911 2449 543 2440"/></Shape>
+	    <String CONTENT="trale, on trouve ça et là quelques pensées philosophiques, quelques images"
+                    HPOS="543"
+                    VPOS="2385"
+                    WIDTH="1374"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_170aa5c3"
+                    
+                    BASELINE="549 2476 1917 2484" 
+                    HPOS="546"
+                    VPOS="2432"
+                    WIDTH="1371"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="549 2476 549 2432 1914 2440 1917 2484 1914 2493 546 2496"/></Shape>
+	    <String CONTENT="poétiques rendues dans un style qui, sous le voile de la traduction, permet"
+                    HPOS="546"
+                    VPOS="2432"
+                    WIDTH="1371"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb2f2bf9"
+                    
+                    BASELINE="549 2528 1917 2528" 
+                    HPOS="549"
+                    VPOS="2487"
+                    WIDTH="1368"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="549 2528 549 2487 1917 2487 1917 2528 1917 2543 549 2543"/></Shape>
+	    <String CONTENT="de deviner qu’il n’est pas dépourvu de qualités littéraires (1). Il a au moins"
+                    HPOS="549"
+                    VPOS="2487"
+                    WIDTH="1368"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_072307f5"
+                    
+                    BASELINE="549 2569 1917 2578" 
+                    HPOS="543"
+                    VPOS="2525"
+                    WIDTH="1374"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="549 2569 549 2525 1914 2534 1917 2578 1911 2590 543 2581"/></Shape>
+	    <String CONTENT="celle d’une recherche ou d’une emphase naïve. Mais ce qu’on chercherait en"
+                    HPOS="543"
+                    VPOS="2525"
+                    WIDTH="1374"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f50f7638"
+                    
+                    BASELINE="549 2619 1914 2625" 
+                    HPOS="543"
+                    VPOS="2572"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="549 2619 549 2572 1911 2578 1914 2625 1908 2633 543 2628"/></Shape>
+	    <String CONTENT="vain tant dans les produits littéraires de l’ancienne Amérique que dans ses"
+                    HPOS="543"
+                    VPOS="2572"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22bfc215"
+                    
+                    BASELINE="549 2669 1917 2669" 
+                    HPOS="549"
+                    VPOS="2628"
+                    WIDTH="1368"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="549 2669 549 2628 1917 2628 1917 2669 1917 2683 549 2683"/></Shape>
+	    <String CONTENT="oeuvres artistiques proprement dites, c’est cette finesse et cette délicatesse de"
+                    HPOS="549"
+                    VPOS="2628"
+                    WIDTH="1368"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_117d72ef"
+                    
+                    BASELINE="549 2718 1917 2718" 
+                    HPOS="549"
+                    VPOS="2674"
+                    WIDTH="1368"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="549 2718 549 2674 1917 2674 1917 2718 1917 2733 549 2742"/></Shape>
+	    <String CONTENT="goût qui est le propre caractère de l’esthétique, et dont nous sommes redevables"
+                    HPOS="549"
+                    VPOS="2674"
+                    WIDTH="1368"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="877"
+                   VPOS="1824"
+                   WIDTH="722"
+                   HEIGHT="102"
+                   ID="eSc_textblock_f6bb267c"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1251 1824 1411 1824 1449 1882 1587 1882 1599 1926 877 1926 912 1882 1037 1894 1029 1835 1251 1824"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d13379a7"
+                    
+                    BASELINE="1029 1865 1438 1865" 
+                    HPOS="1026"
+                    VPOS="1818"
+                    WIDTH="412"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1029 1865 1029 1818 1438 1821 1438 1865 1435 1882 1026 1879"/></Shape>
+	    <String CONTENT="PAR M. CH. SCHOEBEL,"
+                    HPOS="1026"
+                    VPOS="1818"
+                    WIDTH="412"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_269c15dd"
+                    
+                    BASELINE="877 1911 1599 1917" 
+                    HPOS="871"
+                    VPOS="1870"
+                    WIDTH="728"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="877 1911 877 1870 1596 1876 1599 1917 1593 1932 871 1926"/></Shape>
+	    <String CONTENT="VICE-PRÉSIDENT DE LA SOCIÉTÉ AMÉRICAINE DE FRANCE."
+                    HPOS="871"
+                    VPOS="1870"
+                    WIDTH="728"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="631"
+                   VPOS="2783"
+                   WIDTH="1120"
+                   HEIGHT="125"
+                   ID="eSc_textblock_5b565e93"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="877 2783 1716 2783 1751 2794 1751 2885 1683 2908 1622 2838 631 2815 877 2783"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eeae0634"
+                    
+                    BASELINE="640 2821 1745 2826" 
+                    HPOS="634"
+                    VPOS="2774"
+                    WIDTH="1111"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="640 2821 640 2774 1742 2780 1745 2826 1739 2844 634 2838"/></Shape>
+	    <String CONTENT="Surtout le drame péruvien Ollanta, nouvellement réédité par Pacheco Zegarra."
+                    HPOS="634"
+                    VPOS="2774"
+                    WIDTH="1111"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8443d7a"
+                    
+                    BASELINE="1683 2894 1742 2894" 
+                    HPOS="1683"
+                    VPOS="2856"
+                    WIDTH="59"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1683 2894 1683 2856 1742 2856 1742 2894 1742 2911 1683 2914"/></Shape>
+	    <String CONTENT="11."
+                    HPOS="1683"
+                    VPOS="2856"
+                    WIDTH="59"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3391"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_efd5e2b7"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3391 1493 3391 1517 3434 970 3434 970 3391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_c57af47a"
+                    
+                    BASELINE="967 3429 1514 3429" 
+                    HPOS="967"
+                    VPOS="3385"
+                    WIDTH="547"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="967 3429 967 3385 1514 3385 1514 3429 1514 3449 967 3449"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="967"
+                    VPOS="3385"
+                    WIDTH="547"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

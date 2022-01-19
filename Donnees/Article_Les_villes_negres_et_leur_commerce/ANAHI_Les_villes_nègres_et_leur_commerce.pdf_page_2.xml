@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Les_villes_nègres_et_leur_commerce.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1389"
+                   HEIGHT="1809"
+                   ID="eSc_textblock_d0c33c98"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1169 596 1353 596 1438 654 1938 666 1926 2359 549 2405 561 654 1084 654 1169 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5a716248"
+                    
+                    BASELINE="1145 634 1353 628" 
+                    HPOS="1137"
+                    VPOS="575"
+                    WIDTH="216"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1145 634 1137 596 1233 575 1233 575 1236 575 1236 575 1347 590 1353 628 1353 637 1145 648"/></Shape>
+	    <String CONTENT="235"
+                    HPOS="1137"
+                    VPOS="575"
+                    WIDTH="216"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce866a26"
+                    
+                    BASELINE="561 692 1926 698" 
+                    HPOS="555"
+                    VPOS="640"
+                    WIDTH="1371"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 692 561 640 1926 651 1926 698 1920 710 555 704"/></Shape>
+	    <String CONTENT="l&#39;écoulement des caux. Elle possède trois mosquées, deux places, une petite"
+                    HPOS="555"
+                    VPOS="640"
+                    WIDTH="1371"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf60135c"
+                    
+                    BASELINE="564 739 1926 748" 
+                    HPOS="558"
+                    VPOS="695"
+                    WIDTH="1368"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="564 739 564 695 1923 704 1926 748 1920 760 558 751"/></Shape>
+	    <String CONTENT="et une plus grande où se tient le marché, comme toutes les villes d’une cer¬"
+                    HPOS="558"
+                    VPOS="695"
+                    WIDTH="1368"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb97cddb"
+                    
+                    BASELINE="564 786 1926 795" 
+                    HPOS="558"
+                    VPOS="745"
+                    WIDTH="1368"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="564 786 564 745 1923 754 1926 795 1920 806 558 800"/></Shape>
+	    <String CONTENT="taine importance dans le pays des Nègres. Dans les villages, au contraire,"
+                    HPOS="558"
+                    VPOS="745"
+                    WIDTH="1368"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6002bad8"
+                    
+                    BASELINE="561 836 1926 841" 
+                    HPOS="555"
+                    VPOS="792"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 836 561 792 1923 798 1926 841 1920 853 555 847"/></Shape>
+	    <String CONTENT="pour les affaires publiques, on trouve une place libre, avec une maison dans"
+                    HPOS="555"
+                    VPOS="792"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_193444f5"
+                    
+                    BASELINE="564 882 1929 888" 
+                    HPOS="558"
+                    VPOS="833"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="564 882 564 833 1926 844 1929 888 1923 900 558 897"/></Shape>
+	    <String CONTENT="laquelle se tient une sorte de juge de paix. Cette maison ne consiste souvent"
+                    HPOS="558"
+                    VPOS="833"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e079d06e"
+                    
+                    BASELINE="561 926 1926 935" 
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 926 561 885 1923 894 1926 935 1920 947 555 938"/></Shape>
+	    <String CONTENT="que dans un toit appuyé sur dos pilotis posés sur un plancher peu élevé."
+                    HPOS="555"
+                    VPOS="885"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_276af191"
+                    
+                    BASELINE="564 976 1926 982" 
+                    HPOS="558"
+                    VPOS="926"
+                    WIDTH="1368"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="564 976 564 926 1923 941 1926 982 1920 993 558 988"/></Shape>
+	    <String CONTENT="Ici s’assemble la cour de justice; Ià s’engage une conversation générale;"
+                    HPOS="558"
+                    VPOS="926"
+                    WIDTH="1368"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a68068e6"
+                    
+                    BASELINE="564 1026 1926 1026" 
+                    HPOS="564"
+                    VPOS="985"
+                    WIDTH="1362"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="564 1026 564 985 1926 985 1926 1026 1926 1043 564 1043"/></Shape>
+	    <String CONTENT="ailleurs on assigne leurs demoures aux étrangers. L’ancienne ville de Bornou"
+                    HPOS="564"
+                    VPOS="985"
+                    WIDTH="1362"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2c60346"
+                    
+                    BASELINE="564 1069 1926 1075" 
+                    HPOS="558"
+                    VPOS="1026"
+                    WIDTH="1368"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="564 1069 564 1026 1923 1031 1926 1075 1920 1087 558 1081"/></Shape>
+	    <String CONTENT="avait sept portes et était entourée d’une muraille épaisse haute de 14 mètres;"
+                    HPOS="558"
+                    VPOS="1026"
+                    WIDTH="1368"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b30edc33"
+                    
+                    BASELINE="564 1116 1926 1122" 
+                    HPOS="558"
+                    VPOS="1072"
+                    WIDTH="1368"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="564 1116 564 1072 1923 1078 1926 1122 1920 1134 558 1128"/></Shape>
+	    <String CONTENT="mais cette ville n’avait pas de rues régulières (1), et il est très vraisemblable"
+                    HPOS="558"
+                    VPOS="1072"
+                    WIDTH="1368"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca905354"
+                    
+                    BASELINE="564 1163 1929 1169" 
+                    HPOS="561"
+                    VPOS="1119"
+                    WIDTH="1368"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="564 1163 564 1119 1926 1125 1929 1169 1926 1183 561 1183"/></Shape>
+	    <String CONTENT="que la purification des immondices était abandonnée aux vautours, ainsi que"
+                    HPOS="561"
+                    VPOS="1119"
+                    WIDTH="1368"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85aba1c6"
+                    
+                    BASELINE="564 1216 1455 1210" 
+                    HPOS="558"
+                    VPOS="1169"
+                    WIDTH="897"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="564 1216 558 1175 1447 1169 1455 1210 1452 1224 564 1230"/></Shape>
+	    <String CONTENT="cela se trouve très souvent dans les villes africaines."
+                    HPOS="558"
+                    VPOS="1169"
+                    WIDTH="897"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6f17e5c4"
+                    
+                    BASELINE="608 1257 1929 1262" 
+                    HPOS="602"
+                    VPOS="1210"
+                    WIDTH="1327"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="608 1257 608 1210 1926 1219 1929 1262 1923 1274 602 1271"/></Shape>
+	    <String CONTENT="Dans le Yarriba, presque toutes les villes ont des murailles basses et des"
+                    HPOS="602"
+                    VPOS="1210"
+                    WIDTH="1327"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e05de90"
+                    
+                    BASELINE="561 1303 1926 1312" 
+                    HPOS="555"
+                    VPOS="1259"
+                    WIDTH="1371"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 1303 561 1259 1923 1268 1926 1312 1920 1324 555 1315"/></Shape>
+	    <String CONTENT="fossés très peu profonds; mais on rencontre aussi, dans certaines villes, des mu¬"
+                    HPOS="555"
+                    VPOS="1259"
+                    WIDTH="1371"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_893e2305"
+                    
+                    BASELINE="561 1356 1926 1356" 
+                    HPOS="558"
+                    VPOS="1312"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1356 561 1312 1926 1312 1926 1356 1923 1371 558 1368"/></Shape>
+	    <String CONTENT="railles doubles et triples qui mesurent jusqu’à 4 milles allemands d’étendue,"
+                    HPOS="558"
+                    VPOS="1312"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bccc37d"
+                    
+                    BASELINE="561 1403 1926 1403" 
+                    HPOS="561"
+                    VPOS="1362"
+                    WIDTH="1365"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1403 561 1362 1926 1362 1926 1403 1926 1420 561 1420"/></Shape>
+	    <String CONTENT="comme dans le Yaouri. Dans l’Afrique occidentale, certaines populations en¬"
+                    HPOS="561"
+                    VPOS="1362"
+                    WIDTH="1365"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0774442"
+                    
+                    BASELINE="561 1449 1929 1449" 
+                    HPOS="561"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="561 1449 561 1409 1929 1409 1929 1449 1929 1467 561 1467"/></Shape>
+	    <String CONTENT="tourent leurs villes de palissades ou les ferment avec des murailles de terre"
+                    HPOS="561"
+                    VPOS="1409"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6961f465"
+                    
+                    BASELINE="561 1496 1929 1496" 
+                    HPOS="561"
+                    VPOS="1455"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1496 561 1455 1929 1455 1929 1496 1929 1514 561 1514"/></Shape>
+	    <String CONTENT="ou de briques qui, pendant la saison des pluies, sont couvertes d’un petit toit"
+                    HPOS="561"
+                    VPOS="1455"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_751233ee"
+                    
+                    BASELINE="561 1543 1926 1543" 
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1365"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1543 561 1502 1926 1502 1926 1543 1926 1558 561 1563"/></Shape>
+	    <String CONTENT="pour les garantir des intempéries de la saison; pendant la nuit, les habitants"
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1365"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d40b3c53"
+                    
+                    BASELINE="561 1587 1926 1599" 
+                    HPOS="555"
+                    VPOS="1540"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 1587 561 1540 1923 1552 1926 1599 1920 1607 555 1599"/></Shape>
+	    <String CONTENT="ferment les portes. Comme les Foulahs, ils bâtissent des petites fortifications,"
+                    HPOS="555"
+                    VPOS="1540"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3761c8cc"
+                    
+                    BASELINE="561 1639 1490 1634" 
+                    HPOS="555"
+                    VPOS="1593"
+                    WIDTH="935"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1639 555 1599 1482 1593 1490 1634 1487 1648 561 1654"/></Shape>
+	    <String CONTENT="des murailles flanquées de tours et de canardières (2)."
+                    HPOS="555"
+                    VPOS="1593"
+                    WIDTH="935"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b5cd729"
+                    
+                    BASELINE="605 1686 1926 1680" 
+                    HPOS="599"
+                    VPOS="1639"
+                    WIDTH="1327"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="605 1686 599 1645 1917 1639 1926 1680 1926 1692 605 1698"/></Shape>
+	    <String CONTENT="On ne rencontre de fortifications avec des angles pointus et des murailles"
+                    HPOS="599"
+                    VPOS="1639"
+                    WIDTH="1327"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1b0c627"
+                    
+                    BASELINE="561 1730 1923 1730" 
+                    HPOS="561"
+                    VPOS="1689"
+                    WIDTH="1362"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1730 561 1689 1923 1689 1923 1730 1923 1748 561 1748"/></Shape>
+	    <String CONTENT="d’une épaisseur de plus d’un mètre (3) que dans le Bondou et dans le Bam¬"
+                    HPOS="561"
+                    VPOS="1689"
+                    WIDTH="1362"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4285daa"
+                    
+                    BASELINE="561 1777 1920 1777" 
+                    HPOS="561"
+                    VPOS="1727"
+                    WIDTH="1359"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 1777 561 1727 1920 1736 1920 1777 1920 1792 561 1794"/></Shape>
+	    <String CONTENT="bouk. Parmi les places qui étaient le plus fortifiées, mentionnées par Mungo¬"
+                    HPOS="561"
+                    VPOS="1727"
+                    WIDTH="1359"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b944581c"
+                    
+                    BASELINE="561 1824 1923 1830" 
+                    HPOS="555"
+                    VPOS="1771"
+                    WIDTH="1368"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 1824 561 1771 1920 1786 1923 1830 1917 1841 555 1835"/></Shape>
+	    <String CONTENT="Park (4) nous citerons la capitale du Fouladou, et plus loin Bangassi. Ce sont"
+                    HPOS="555"
+                    VPOS="1771"
+                    WIDTH="1368"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_666b59dc"
+                    
+                    BASELINE="561 1873 1923 1873" 
+                    HPOS="561"
+                    VPOS="1824"
+                    WIDTH="1362"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="561 1873 561 1824 1923 1832 1923 1873 1923 1891 561 1891"/></Shape>
+	    <String CONTENT="les premières villes qui aient été entourées d’un fossé d’une profondeur de"
+                    HPOS="561"
+                    VPOS="1824"
+                    WIDTH="1362"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddaf5893"
+                    
+                    BASELINE="561 1920 1923 1920" 
+                    HPOS="561"
+                    VPOS="1873"
+                    WIDTH="1362"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="561 1920 561 1873 1923 1876 1923 1920 1923 1938 561 1938"/></Shape>
+	    <String CONTENT="8 mètres, circonscrit lui-même par trois murailles parallèles, dont deux hautes"
+                    HPOS="561"
+                    VPOS="1873"
+                    WIDTH="1362"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b51e4de2"
+                    
+                    BASELINE="561 1970 1476 1970" 
+                    HPOS="561"
+                    VPOS="1923"
+                    WIDTH="915"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1970 561 1923 1476 1926 1476 1970 1476 1984 561 1984"/></Shape>
+	    <String CONTENT="de 6 mètres, et l&#39;autre d’une élévation de 16 mètres."
+                    HPOS="561"
+                    VPOS="1923"
+                    WIDTH="915"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67c77338"
+                    
+                    BASELINE="602 2014 1923 2008" 
+                    HPOS="599"
+                    VPOS="1967"
+                    WIDTH="1324"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="602 2014 599 1967 1917 1970 1923 2008 1920 2025 602 2028"/></Shape>
+	    <String CONTENT="Les Nègres ne s&#39;occupent guère de creuser des puits ni de jeter des ponts"
+                    HPOS="599"
+                    VPOS="1967"
+                    WIDTH="1324"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e23006a3"
+                    
+                    BASELINE="561 2058 1920 2063" 
+                    HPOS="558"
+                    VPOS="2014"
+                    WIDTH="1362"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 2058 561 2014 1917 2020 1920 2063 1917 2078 558 2078"/></Shape>
+	    <String CONTENT="sur les rivières. Cependant M. Mollien (5) trouva, dans le pays des Yolofs, des"
+                    HPOS="558"
+                    VPOS="2014"
+                    WIDTH="1362"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2932b611"
+                    
+                    BASELINE="561 2110 1920 2107" 
+                    HPOS="555"
+                    VPOS="2066"
+                    WIDTH="1365"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 2110 555 2069 1911 2066 1920 2107 1917 2128 561 2128"/></Shape>
+	    <String CONTENT="puits d’une profondeur de trente brasses et d’une circonférence de vingt"
+                    HPOS="555"
+                    VPOS="2066"
+                    WIDTH="1365"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f07478f5"
+                    
+                    BASELINE="558 2157 1923 2157" 
+                    HPOS="558"
+                    VPOS="2107"
+                    WIDTH="1365"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 2157 558 2107 1923 2113 1923 2157 1923 2174 558 2174"/></Shape>
+	    <String CONTENT="brasses. Ce voyageur ne peut donner aucun renseignement sur les instruments"
+                    HPOS="558"
+                    VPOS="2107"
+                    WIDTH="1365"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5d1a996"
+                    
+                    BASELINE="558 2204 1923 2207" 
+                    HPOS="552"
+                    VPOS="2157"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="558 2204 558 2157 1920 2160 1923 2207 1917 2218 552 2215"/></Shape>
+	    <String CONTENT="employés à ces travaux. On croyait savoir que le propriétaire prélève un impôt."
+                    HPOS="552"
+                    VPOS="2157"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d24fadcb"
+                    
+                    BASELINE="558 2250 1327 2250" 
+                    HPOS="558"
+                    VPOS="2210"
+                    WIDTH="769"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="558 2250 558 2210 1327 2210 1327 2250 1327 2268 558 2268"/></Shape>
+	    <String CONTENT="sur les gens qui viennent puiser à ce puits."
+                    HPOS="558"
+                    VPOS="2210"
+                    WIDTH="769"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1ebf78c"
+                    
+                    BASELINE="599 2297 1920 2297" 
+                    HPOS="599"
+                    VPOS="2250"
+                    WIDTH="1321"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="599 2297 599 2250 1920 2256 1920 2297 1920 2315 599 2315"/></Shape>
+	    <String CONTENT="Des puits semblables, mais creusés avec beaucoup plus de soin et pourvus"
+                    HPOS="599"
+                    VPOS="2250"
+                    WIDTH="1321"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_709d9dfb"
+                    
+                    BASELINE="552 2341 1917 2347" 
+                    HPOS="546"
+                    VPOS="2294"
+                    WIDTH="1371"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="552 2341 552 2294 1914 2300 1917 2347 1911 2359 546 2353"/></Shape>
+	    <String CONTENT="intérieurement, à la partie supérieure, d’une garniture en bois, se rencontrent"
+                    HPOS="546"
+                    VPOS="2294"
+                    WIDTH="1371"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d4ef9ea"
+                    
+                    BASELINE="555 2394 1371 2388" 
+                    HPOS="549"
+                    VPOS="2347"
+                    WIDTH="822"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="555 2394 549 2353 1362 2347 1371 2388 1368 2408 555 2411"/></Shape>
+	    <String CONTENT="dans les territoires de Bondou et de Bambara."
+                    HPOS="549"
+                    VPOS="2347"
+                    WIDTH="822"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="549"
+                   VPOS="2467"
+                   WIDTH="1389"
+                   HEIGHT="359"
+                   ID="eSc_textblock_b9d19230"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="643 2467 1914 2467 1938 2592 1891 2686 1926 2780 549 2826 584 2756 549 2525 643 2467"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3ffa3391"
+                    
+                    BASELINE="1920 2508 1847 2501 1545 2501 1350 2498 1241 2490 1192 2492 1115 2479 1026 2511 599 2505" 
+                    HPOS="590"
+                    VPOS="2464"
+                    WIDTH="1327"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1917 2505 1914 2563 1105 2575 1102 2575 590 2554 596 2502 596 2464 1917 2478"/></Shape>
+	    <String CONTENT="(1) Cf. Proceedings of the Association for promoting the discovering the interior of Africa;"
+                    HPOS="590"
+                    VPOS="2464"
+                    WIDTH="1327"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b5f8deb"
+                    
+                    BASELINE="571 2537 588 2541 618 2541 725 2541 884 2537 940 2537 1013 2546 1142 2541 1262 2541 1545 2541 1687 2541 1743 2541 1906 2550" 
+                    HPOS="567"
+                    VPOS="2487"
+                    WIDTH="1336"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="570 2534 572 2499 1119 2502 1125 2502 1198 2487 1198 2487 1198 2487 1201 2487 1201 2487 1347 2505 1362 2508 1900 2511 1903 2549 1900 2566 567 2566"/></Shape>
+	    <String CONTENT="Magazin von reise beschreibungen, t. V, p. 329; Ledyard et Lucas, Voyage en Afrique, trad. par"
+                    HPOS="567"
+                    VPOS="2487"
+                    WIDTH="1336"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06ed847d"
+                    
+                    BASELINE="552 2587 1037 2587" 
+                    HPOS="549"
+                    VPOS="2543"
+                    WIDTH="488"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2587 552 2543 1037 2549 1037 2587 1034 2607 549 2604"/></Shape>
+	    <String CONTENT="Lallemant (Paris. 18o4), p. 180."
+                    HPOS="549"
+                    VPOS="2543"
+                    WIDTH="488"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66fc17d1"
+                    
+                    BASELINE="608 2622 1920 2628" 
+                    HPOS="602"
+                    VPOS="2578"
+                    WIDTH="1318"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="608 2622 608 2578 1917 2587 1920 2628 1914 2639 602 2633"/></Shape>
+	    <String CONTENT="(2) Cp. Winterbottom, p. 121; Gray and Dochard, Travels in West Africa, 1818-1821."
+                    HPOS="602"
+                    VPOS="2578"
+                    WIDTH="1318"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43cfe83e"
+                    
+                    BASELINE="546 2663 795 2663" 
+                    HPOS="543"
+                    VPOS="2622"
+                    WIDTH="252"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="546 2663 543 2625 792 2622 795 2663 792 2680 543 2677"/></Shape>
+	    <String CONTENT="(London, 1825)."
+                    HPOS="543"
+                    VPOS="2622"
+                    WIDTH="252"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce486ef4"
+                    
+                    BASELINE="634 2698 976 2692" 
+                    HPOS="628"
+                    VPOS="2657"
+                    WIDTH="348"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="634 2698 628 2660 967 2657 976 2692 973 2712 634 2715"/></Shape>
+	    <String CONTENT="(3) Hecquard, t. II. p. 145."
+                    HPOS="628"
+                    VPOS="2657"
+                    WIDTH="348"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf29f64e"
+                    
+                    BASELINE="634 2736 976 2733 1029 2717 1093 2730" 
+                    HPOS="625"
+                    VPOS="2689"
+                    WIDTH="465"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="631 2733 625 2698 1087 2689 1090 2727 1087 2791 631 2791"/></Shape>
+	    <String CONTENT="(4) Deuxième voyage, p. 225 à 242."
+                    HPOS="625"
+                    VPOS="2689"
+                    WIDTH="465"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7aedc4ce"
+                    
+                    BASELINE="605 2756 704 2756 798 2764 957 2764 1241 2777 1305 2777 1455 2777 1614 2777 1678 2777 1846 2769 1893 2773 1897 2773 1902 2777" 
+                    HPOS="596"
+                    VPOS="2733"
+                    WIDTH="1312"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="602 2753 602 2733 1908 2736 1900 2774 1894 2797 596 2785"/></Shape>
+	    <String CONTENT="(5) Reise in das Mittel von Africa, an die quellen des Senegal und Gambia, 1818 (Weimar,"
+                    HPOS="596"
+                    VPOS="2733"
+                    WIDTH="1312"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_21051b15"
+                    
+                    BASELINE="549 2809 757 2815" 
+                    HPOS="543"
+                    VPOS="2768"
+                    WIDTH="214"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="549 2809 549 2768 754 2774 757 2815 751 2832 543 2826"/></Shape>
+	    <String CONTENT="1820), p. 27."
+                    HPOS="543"
+                    VPOS="2768"
+                    WIDTH="214"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3391"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_91f54310"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3391 1493 3391 1517 3434 970 3434 970 3391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d6f7a954"
+                    
+                    BASELINE="967 3423 1514 3429" 
+                    HPOS="961"
+                    VPOS="3379"
+                    WIDTH="553"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="967 3423 967 3379 1511 3385 1514 3429 1508 3443 961 3440"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et a ses partenaires"
+                    HPOS="961"
+                    VPOS="3379"
+                    WIDTH="553"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

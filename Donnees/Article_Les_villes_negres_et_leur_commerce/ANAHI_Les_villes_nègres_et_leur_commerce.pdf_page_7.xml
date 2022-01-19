@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Les_villes_nègres_et_leur_commerce.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="549"
+                   VPOS="596"
+                   WIDTH="1389"
+                   HEIGHT="2230"
+                   ID="eSc_textblock_e9b9256f"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1157 596 1341 596 1403 654 1938 666 1926 2581 1531 2604 1587 2674 1505 2724 1493 2803 1388 2826 584 2826 596 2607 549 2592 561 666 1119 654 1157 596"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b70cd6c4"
+                    
+                    BASELINE="1145 634 1350 625" 
+                    HPOS="1137"
+                    VPOS="575"
+                    WIDTH="213"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1145 634 1137 596 1262 575 1262 575 1265 575 1265 575 1344 587 1350 625 1350 637 1145 643"/></Shape>
+	    <String CONTENT="240"
+                    HPOS="1137"
+                    VPOS="575"
+                    WIDTH="213"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7a91117"
+                    
+                    BASELINE="564 692 1932 698" 
+                    HPOS="561"
+                    VPOS="643"
+                    WIDTH="1371"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="564 692 564 643 1932 651 1932 698 1929 710 561 713"/></Shape>
+	    <String CONTENT="jaune, rouge, cramoisi et vert (1). Dans le Congo, on prépare aussi de très"
+                    HPOS="561"
+                    VPOS="643"
+                    WIDTH="1371"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a1003117"
+                    
+                    BASELINE="567 739 1926 745" 
+                    HPOS="561"
+                    VPOS="695"
+                    WIDTH="1365"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="567 739 567 695 1923 701 1926 745 1920 757 561 754"/></Shape>
+	    <String CONTENT="belles étoffes. Les teintureries de la Haussa et de Kano (2), qui étaient si renom¬"
+                    HPOS="561"
+                    VPOS="695"
+                    WIDTH="1365"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b34c4541"
+                    
+                    BASELINE="570 792 1923 786" 
+                    HPOS="564"
+                    VPOS="748"
+                    WIDTH="1359"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="570 792 564 751 1914 748 1923 786 1920 800 570 806"/></Shape>
+	    <String CONTENT="mées il y a un siècle, sont complétement perdues. C’est à peine si on en a con¬"
+                    HPOS="564"
+                    VPOS="748"
+                    WIDTH="1359"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ff7ab8c7"
+                    
+                    BASELINE="567 836 1926 836" 
+                    HPOS="567"
+                    VPOS="795"
+                    WIDTH="1359"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="567 836 567 795 1926 795 1926 836 1926 856 567 856"/></Shape>
+	    <String CONTENT="servé le souvenir dans la capitale moderne. Cependant MM. Ledyard et Lucas (3)"
+                    HPOS="567"
+                    VPOS="795"
+                    WIDTH="1359"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_886da797"
+                    
+                    BASELINE="567 879 1926 885" 
+                    HPOS="561"
+                    VPOS="836"
+                    WIDTH="1365"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="567 879 567 836 1923 841 1926 885 1920 900 561 894"/></Shape>
+	    <String CONTENT="mentionnent une étoffe de coton très fine et teinte supérieurement au moyen d’in¬"
+                    HPOS="561"
+                    VPOS="836"
+                    WIDTH="1365"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28eb0ade"
+                    
+                    BASELINE="567 926 1926 932" 
+                    HPOS="561"
+                    VPOS="882"
+                    WIDTH="1365"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="567 926 567 882 1923 888 1926 932 1920 947 561 941"/></Shape>
+	    <String CONTENT="digo et de calicot tissé dans le Bornou. Logour renferme des tisseries et des tein¬"
+                    HPOS="561"
+                    VPOS="882"
+                    WIDTH="1365"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_52369df8"
+                    
+                    BASELINE="567 973 1926 982" 
+                    HPOS="561"
+                    VPOS="929"
+                    WIDTH="1365"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="567 973 567 929 1923 938 1926 982 1920 993 561 991"/></Shape>
+	    <String CONTENT="rureries remarquables; toute fois, les teintureries de Kano l’emportent sur celles"
+                    HPOS="561"
+                    VPOS="929"
+                    WIDTH="1365"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_93b69b25"
+                    
+                    BASELINE="564 1020 1929 1029" 
+                    HPOS="558"
+                    VPOS="976"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="564 1020 564 976 1929 985 1929 1029 1923 1043 558 1034"/></Shape>
+	    <String CONTENT="de ce dernier pays. C’est dans le Dahomey que les Nègres emploient une sorte"
+                    HPOS="558"
+                    VPOS="976"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6f66cc8"
+                    
+                    BASELINE="561 1075 1213 1069" 
+                    HPOS="552"
+                    VPOS="1026"
+                    WIDTH="661"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1075 552 1031 1204 1026 1213 1069 1210 1084 561 1090"/></Shape>
+	    <String CONTENT="de teinture partieulierement durable."
+                    HPOS="552"
+                    VPOS="1026"
+                    WIDTH="661"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b5eeedbb"
+                    
+                    BASELINE="608 1116 1929 1122" 
+                    HPOS="602"
+                    VPOS="1069"
+                    WIDTH="1327"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="608 1116 608 1069 1926 1075 1929 1122 1923 1134 602 1128"/></Shape>
+	    <String CONTENT="Les Nègres du Bambouk se livrent à l’extraction de l&#39;or. Les mines d’or sont"
+                    HPOS="602"
+                    VPOS="1069"
+                    WIDTH="1327"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61f6935f"
+                    
+                    BASELINE="561 1166 1926 1166" 
+                    HPOS="561"
+                    VPOS="1119"
+                    WIDTH="1365"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1166 561 1119 1926 1125 1926 1166 1926 1183 561 1183"/></Shape>
+	    <String CONTENT="la propriété de tout le monde; elles consistent dans des puits étroits et mal"
+                    HPOS="561"
+                    VPOS="1119"
+                    WIDTH="1365"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_24adb199"
+                    
+                    BASELINE="561 1210 1926 1216" 
+                    HPOS="555"
+                    VPOS="1166"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1210 561 1166 1923 1172 1926 1216 1920 1227 555 1221"/></Shape>
+	    <String CONTENT="aérés, qui n’ont pas plus de 30 à 40 mètres de profondeur (4). La plus grande"
+                    HPOS="555"
+                    VPOS="1166"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a88f08d6"
+                    
+                    BASELINE="561 1262 1926 1262" 
+                    HPOS="561"
+                    VPOS="1221"
+                    WIDTH="1365"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="561 1262 561 1221 1926 1221 1926 1262 1926 1274 561 1283"/></Shape>
+	    <String CONTENT="partie des puits n’ont même qu’une profondeur de 20 à 25 mètres et une"
+                    HPOS="561"
+                    VPOS="1221"
+                    WIDTH="1365"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0657cc70"
+                    
+                    BASELINE="561 1306 1923 1312" 
+                    HPOS="555"
+                    VPOS="1262"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1306 561 1262 1920 1268 1923 1312 1917 1321 555 1315"/></Shape>
+	    <String CONTENT="étendue de 10 à 12 mètres. On y descend par des escaliers ou des échelles en"
+                    HPOS="555"
+                    VPOS="1262"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b328f7b5"
+                    
+                    BASELINE="561 1350 1926 1356" 
+                    HPOS="555"
+                    VPOS="1309"
+                    WIDTH="1371"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1350 561 1309 1923 1315 1926 1356 1920 1368 555 1365"/></Shape>
+	    <String CONTENT="mauvais état, qui sont, non pas verticales, mais penchées et appuyées sur des"
+                    HPOS="555"
+                    VPOS="1309"
+                    WIDTH="1371"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1470e42d"
+                    
+                    BASELINE="561 1397 1926 1409" 
+                    HPOS="555"
+                    VPOS="1347"
+                    WIDTH="1371"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="561 1397 561 1347 1923 1365 1926 1409 1920 1417 555 1414"/></Shape>
+	    <String CONTENT="bois placés en travers et attachés aux parois du puits. L’administration de ces"
+                    HPOS="555"
+                    VPOS="1347"
+                    WIDTH="1371"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2943338c"
+                    
+                    BASELINE="561 1447 1558 1452" 
+                    HPOS="555"
+                    VPOS="1403"
+                    WIDTH="1003"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1447 561 1403 1555 1409 1558 1452 1552 1464 555 1458"/></Shape>
+	    <String CONTENT="mines est tout ce qu’on peut imaginer de plus imparfait."
+                    HPOS="555"
+                    VPOS="1403"
+                    WIDTH="1003"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2bfa60c4"
+                    
+                    BASELINE="605 1496 1926 1496" 
+                    HPOS="605"
+                    VPOS="1449"
+                    WIDTH="1321"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="605 1496 605 1449 1926 1455 1926 1496 1926 1514 605 1514"/></Shape>
+	    <String CONTENT="Le commerce est la passion dominante des Nègres: ce sont généralement"
+                    HPOS="605"
+                    VPOS="1449"
+                    WIDTH="1321"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_425a8f87"
+                    
+                    BASELINE="561 1543 1923 1543" 
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1362"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="561 1543 561 1502 1923 1502 1923 1543 1923 1561 561 1561"/></Shape>
+	    <String CONTENT="des marchands entêtés, industrieux et sérieux. Les marchandises anglaises im¬"
+                    HPOS="561"
+                    VPOS="1502"
+                    WIDTH="1362"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_678268c5"
+                    
+                    BASELINE="561 1587 1923 1593" 
+                    HPOS="558"
+                    VPOS="1543"
+                    WIDTH="1365"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1587 561 1543 1920 1549 1923 1593 1920 1607 558 1607"/></Shape>
+	    <String CONTENT="portées dans le territoire de Mombara sont revendues, par les indigènes, dans le"
+                    HPOS="558"
+                    VPOS="1543"
+                    WIDTH="1365"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0d51ebd"
+                    
+                    BASELINE="561 1634 1926 1639" 
+                    HPOS="555"
+                    VPOS="1590"
+                    WIDTH="1371"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1634 561 1590 1923 1596 1926 1639 1920 1651 555 1648"/></Shape>
+	    <String CONTENT="district de Mogador (5). On a fait de semblables observations sur la côte orien¬"
+                    HPOS="555"
+                    VPOS="1590"
+                    WIDTH="1371"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_25c1fe98"
+                    
+                    BASELINE="561 1680 1493 1686" 
+                    HPOS="555"
+                    VPOS="1637"
+                    WIDTH="938"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="561 1680 561 1637 1490 1642 1493 1686 1487 1698 555 1692"/></Shape>
+	    <String CONTENT="tale et occidentale de l&#39;Afrique, au sud de l&#39;équateur."
+                    HPOS="555"
+                    VPOS="1637"
+                    WIDTH="938"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddde606d"
+                    
+                    BASELINE="602 1733 1920 1727" 
+                    HPOS="599"
+                    VPOS="1686"
+                    WIDTH="1321"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="602 1733 599 1686 1914 1686 1920 1727 1917 1742 602 1748"/></Shape>
+	    <String CONTENT="Nous avons successivement vu les sources de l’industrie, ce que les Nègres"
+                    HPOS="599"
+                    VPOS="1686"
+                    WIDTH="1321"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf7fbb1e"
+                    
+                    BASELINE="558 1774 1923 1780" 
+                    HPOS="552"
+                    VPOS="1730"
+                    WIDTH="1371"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="558 1774 558 1730 1920 1736 1923 1780 1917 1792 552 1786"/></Shape>
+	    <String CONTENT="savent tirer des ressources que leur fournit leur pays; nous avons vu les"
+                    HPOS="552"
+                    VPOS="1730"
+                    WIDTH="1371"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9aaee2ee"
+                    
+                    BASELINE="561 1821 1920 1827" 
+                    HPOS="558"
+                    VPOS="1777"
+                    WIDTH="1362"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="561 1821 561 1777 1917 1783 1920 1827 1917 1838 558 1841"/></Shape>
+	    <String CONTENT="principales branches du commerce; nous allons maintenant jeter un coup."
+                    HPOS="558"
+                    VPOS="1777"
+                    WIDTH="1362"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc4b9b72"
+                    
+                    BASELINE="555 1873 1923 1873" 
+                    HPOS="555"
+                    VPOS="1830"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="555 1873 555 1830 1923 1830 1923 1873 1923 1888 555 1888"/></Shape>
+	    <String CONTENT="d’œil rapide sur l’ensemble de toutes ces contrées, qui nous sont encore incon¬"
+                    HPOS="555"
+                    VPOS="1830"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31fb1271"
+                    
+                    BASELINE="555 1920 1923 1920" 
+                    HPOS="555"
+                    VPOS="1876"
+                    WIDTH="1368"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="555 1920 555 1876 1923 1876 1923 1920 1923 1935 555 1935"/></Shape>
+	    <String CONTENT="nues sous tant de rapports, nous bornant à citer les villes principales: Tom¬"
+                    HPOS="555"
+                    VPOS="1876"
+                    WIDTH="1368"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f7a47521"
+                    
+                    BASELINE="552 1967 1914 1970" 
+                    HPOS="546"
+                    VPOS="1920"
+                    WIDTH="1368"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="552 1967 552 1920 1911 1923 1914 1970 1908 1982 546 1976"/></Shape>
+	    <String CONTENT="bouctou, que ses rues principales coupent dans toute ca largeur; Saouranding,"
+                    HPOS="546"
+                    VPOS="1920"
+                    WIDTH="1368"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bbbbe7a4"
+                    
+                    BASELINE="552 2014 1920 2014" 
+                    HPOS="552"
+                    VPOS="1973"
+                    WIDTH="1368"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="552 2014 552 1973 1920 1973 1920 2014 1920 2031 552 2031"/></Shape>
+	    <String CONTENT="dont le plus grand marché a été décrit, pour la première fois, par Mungo¬"
+                    HPOS="552"
+                    VPOS="1973"
+                    WIDTH="1368"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b630d26a"
+                    
+                    BASELINE="555 2060 1920 2060" 
+                    HPOS="555"
+                    VPOS="2011"
+                    WIDTH="1365"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="555 2060 555 2011 1920 2020 1920 2060 1920 2078 555 2078"/></Shape>
+	    <String CONTENT="Park, dans le but de mettre au grand jour l’inclination prépondérante des"
+                    HPOS="555"
+                    VPOS="2011"
+                    WIDTH="1365"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da873ae9"
+                    
+                    BASELINE="558 2110 1920 2110" 
+                    HPOS="558"
+                    VPOS="2058"
+                    WIDTH="1362"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="558 2110 558 2058 1920 2066 1920 2110 1920 2122 558 2125"/></Shape>
+	    <String CONTENT="Nègres au commerce. Ils y développent une activité étonnante. Ils ne se lassent"
+                    HPOS="558"
+                    VPOS="2058"
+                    WIDTH="1362"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7961bf6f"
+                    
+                    BASELINE="552 2157 1584 2157" 
+                    HPOS="552"
+                    VPOS="2110"
+                    WIDTH="1032"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2157 552 2110 1584 2113 1584 2157 1584 2169 552 2174"/></Shape>
+	    <String CONTENT="jamais; ils montrent, au contraire, une persévérance rare."
+                    HPOS="552"
+                    VPOS="2110"
+                    WIDTH="1032"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3289a24"
+                    
+                    BASELINE="596 2201 1917 2201" 
+                    HPOS="596"
+                    VPOS="2154"
+                    WIDTH="1321"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="596 2201 596 2154 1917 2160 1917 2201 1917 2218 596 2218"/></Shape>
+	    <String CONTENT="Toutes les places d’une importance analogue à celle des villes que nous"
+                    HPOS="596"
+                    VPOS="2154"
+                    WIDTH="1321"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_105413f0"
+                    
+                    BASELINE="555 2250 1914 2245" 
+                    HPOS="549"
+                    VPOS="2204"
+                    WIDTH="1365"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="555 2250 549 2210 1906 2204 1914 2245 1911 2262 555 2265"/></Shape>
+	    <String CONTENT="venons de mentionner ont leurs marchés réguliers; sur la côte d’Or, chaque"
+                    HPOS="549"
+                    VPOS="2204"
+                    WIDTH="1365"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43c9c7df"
+                    
+                    BASELINE="555 2297 1911 2300" 
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="1362"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="555 2297 555 2250 1908 2253 1911 2300 1906 2312 549 2306"/></Shape>
+	    <String CONTENT="village a son marché. Dans le Bondou, le Fonta et dans le pays des Mandingues,"
+                    HPOS="549"
+                    VPOS="2250"
+                    WIDTH="1362"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e133e55e"
+                    
+                    BASELINE="552 2338 1911 2344" 
+                    HPOS="546"
+                    VPOS="2297"
+                    WIDTH="1365"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2338 552 2297 1908 2303 1911 2344 1906 2356 546 2353"/></Shape>
+	    <String CONTENT="leur le fleuve de Gambia, ces marchés n’existent pas; mais on en trouve dans"
+                    HPOS="546"
+                    VPOS="2297"
+                    WIDTH="1365"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f9d51480"
+                    
+                    BASELINE="552 2385 1917 2391" 
+                    HPOS="546"
+                    VPOS="2335"
+                    WIDTH="1371"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="552 2385 552 2335 1914 2347 1917 2391 1911 2402 546 2400"/></Shape>
+	    <String CONTENT="le Kaarta. On cet tout d&#39;abord étonné de voir que les grands fleuves ne sont"
+                    HPOS="546"
+                    VPOS="2335"
+                    WIDTH="1371"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04aedc30"
+                    
+                    BASELINE="552 2435 1911 2440" 
+                    HPOS="549"
+                    VPOS="2391"
+                    WIDTH="1362"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="552 2435 552 2391 1908 2397 1911 2440 1908 2455 549 2455"/></Shape>
+	    <String CONTENT="pas utilisés pour le commerce; mais les guerres continuelles, de peuplade à"
+                    HPOS="549"
+                    VPOS="2391"
+                    WIDTH="1362"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_926d6a1a"
+                    
+                    BASELINE="552 2487 1911 2478" 
+                    HPOS="546"
+                    VPOS="2432"
+                    WIDTH="1365"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="552 2487 546 2446 1903 2432 1911 2478 1908 2496 552 2511"/></Shape>
+	    <String CONTENT="peuplade, et la traite des esclaves, encore très commune, nous donnent la clef"
+                    HPOS="546"
+                    VPOS="2432"
+                    WIDTH="1365"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87d2bf92"
+                    
+                    BASELINE="552 2531 1914 2531" 
+                    HPOS="552"
+                    VPOS="2490"
+                    WIDTH="1362"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="552 2531 552 2490 1914 2490 1914 2531 1914 2549 552 2549"/></Shape>
+	    <String CONTENT="de cette situation. Le troc se fait d’une manière singulière sur les bords du"
+                    HPOS="552"
+                    VPOS="2490"
+                    WIDTH="1362"
+                    HEIGHT="59"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2e45ca9"
+                    
+                    BASELINE="549 2578 1914 2584" 
+                    HPOS="543"
+                    VPOS="2525"
+                    WIDTH="1371"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="549 2578 549 2525 1911 2537 1914 2584 1908 2595 543 2592"/></Shape>
+	    <String CONTENT="Niger. Le vendeur place sa marchandise à terre, à une place déterminée, puis"
+                    HPOS="543"
+                    VPOS="2525"
+                    WIDTH="1371"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1401f0fa"
+                    
+                    BASELINE="584 2660 1578 2669" 
+                    HPOS="578"
+                    VPOS="2619"
+                    WIDTH="1000"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="584 2660 584 2619 1575 2628 1578 2669 1572 2683 578 2674"/></Shape>
+	    <String CONTENT="(1) D’Avezac, dans les Mémoires de la Société d’Ethnologie, t. II, p. 68."
+                    HPOS="578"
+                    VPOS="2619"
+                    WIDTH="1000"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77858656"
+                    
+                    BASELINE="590 2701 923 2704" 
+                    HPOS="584"
+                    VPOS="2657"
+                    WIDTH="339"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="590 2701 590 2657 920 2666 923 2704 917 2718 584 2712"/></Shape>
+	    <String CONTENT="(2) Barth, t. II. p. 144."
+                    HPOS="584"
+                    VPOS="2657"
+                    WIDTH="339"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b9c883a5"
+                    
+                    BASELINE="590 2739 1420 2739" 
+                    HPOS="587"
+                    VPOS="2695"
+                    WIDTH="833"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="590 2739 590 2695 1420 2701 1420 2739 1417 2756 587 2753"/></Shape>
+	    <String CONTENT="(3) Voyages en Afrique, trad. par Lallemant (Paris, 1804)."
+                    HPOS="587"
+                    VPOS="2695"
+                    WIDTH="833"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5cf1700"
+                    
+                    BASELINE="628 2777 1502 2783" 
+                    HPOS="622"
+                    VPOS="2739"
+                    WIDTH="880"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="628 2777 628 2739 1499 2745 1502 2783 1496 2794 622 2788"/></Shape>
+	    <String CONTENT="(4) Coste, Voyage au pays de Bambouk (Bruxelles, 1789), p. 25."
+                    HPOS="622"
+                    VPOS="2739"
+                    WIDTH="880"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3190507"
+                    
+                    BASELINE="590 2815 1341 2821" 
+                    HPOS="584"
+                    VPOS="2768"
+                    WIDTH="757"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="590 2815 590 2768 1338 2780 1341 2821 1335 2835 584 2832"/></Shape>
+	    <String CONTENT="(5) Stokes, Discoverie in Australia, 1846, t. I. p. 34."
+                    HPOS="584"
+                    VPOS="2768"
+                    WIDTH="757"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="970"
+                   VPOS="3391"
+                   WIDTH="547"
+                   HEIGHT="43"
+                   ID="eSc_textblock_bb9b64f3"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="970 3391 1482 3391 1517 3423 970 3434 970 3391"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a293a1e8"
+                    
+                    BASELINE="967 3429 1508 3423" 
+                    HPOS="958"
+                    VPOS="3379"
+                    WIDTH="550"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="967 3429 958 3385 1499 3379 1508 3423 1505 3443 967 3446"/></Shape>
+	    <String CONTENT="Droits reservés au Cnam et à ses partenaires"
+                    HPOS="958"
+                    VPOS="3379"
+                    WIDTH="550"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
