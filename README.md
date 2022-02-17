@@ -1,5 +1,7 @@
 # TRANSCRIPTIONS DU CONGRÈS INTERNATIONAL DES SCIENCES ETHNOGRAPHIQUES (PARIS, 1878)
 
+[![DOI](https://zenodo.org/badge/430323295.svg)](https://zenodo.org/badge/latestdoi/430323295)
+
 # Encodage des comptes rendus
 
 Le Congrès international des sciences ethnographiques de 1878 a eu lieu à l'occasion de l'Exposition universelle de 1878, à Paris. Édité en 1881 par l'Imprimerie nationale, le compte rendu de ce congrès a été mis à disposition par le [Conservatoire numérique des Arts et Métiers](http://cnum.cnam.fr/CGI/redir.cgi?8XAE243).

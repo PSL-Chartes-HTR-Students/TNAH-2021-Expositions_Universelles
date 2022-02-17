@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Projet Correspondance Berlioz
+title: Projet Exposition Universelle de 1878
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
@@ -23,3 +23,4 @@ abstract: >-
 version: '1.0'
 date-released: '2022-01-20'
 url: "https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Expositions_Universelles"
+doi: 10.5281/zenodo.6126447
