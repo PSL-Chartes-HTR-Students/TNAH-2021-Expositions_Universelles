@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Projet Correspondance Berlioz
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: "Kelly"
+    family-names: "Christensen"
+  - given-names: "Baudoin"
+    family-names: "Davoury"
+  - given-names: "Anahi"
+    family-names: "Haedo"
+  - given-names: "Paul"
+    family-names: "Kervegan"
+  - given-names: "Esteban"
+    family-names: "Sanchez-Oeconomo"
+abstract: >-
+  Ce dépôt a été créé dans le cadre d'un projet de transcription des articles du compte-rendu du Congrès international des sciences ethnographiques de 1878 a eu lieu à l'occasion de l'Exposition universelle de 1878, à Paris, par des élèves du master TNAH de l'École nationale des chartes.
+version: '1.0'
+date-released: '2022-01-20'
+url: "https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Expositions_Universelles"

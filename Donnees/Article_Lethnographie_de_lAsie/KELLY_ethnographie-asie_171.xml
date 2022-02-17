@@ -5,7 +5,7 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>pages-kelly.pdf_page_9.png</fileName>
+      <fileName>KELLY_ethnographie-asie_171.png</fileName>
       
     </sourceImageInformation>
   </Description>
@@ -88,7 +88,7 @@
                     WIDTH="1319"
                     HEIGHT="64">
             <Shape><Polygon POINTS="605 786 605 742 1915 751 1918 791 1912 806 599 800"/></Shape>
-	    <String CONTENT="Je n’ai point la prétention d’expliquer en ce moment, comme cela serait fa-"
+	    <String CONTENT="Je n’ai point la prétention d’expliquer en ce moment, comme cela serait fa¬"
                     HPOS="599"
                     VPOS="742"
                     WIDTH="1319"
@@ -411,7 +411,7 @@
                     WIDTH="1363"
                     HEIGHT="61">
             <Shape><Polygon POINTS="558 1686 558 1645 1921 1645 1921 1686 1921 1697 558 1706"/></Shape>
-	    <String CONTENT="pour se manifester extérieurement par des mots et par des phrases. Les ob-"
+	    <String CONTENT="pour se manifester extérieurement par des mots et par des phrases. Les ob¬"
                     HPOS="558"
                     VPOS="1645"
                     WIDTH="1363"
@@ -462,7 +462,7 @@
                     WIDTH="1322"
                     HEIGHT="62">
             <Shape><Polygon POINTS="605 1826 599 1788 1912 1782 1921 1820 1918 1838 605 1844"/></Shape>
-	    <String CONTENT="Alors s’est élevée une grave dispute : fallait-il s’attacher, pour la classifica-"
+	    <String CONTENT="Alors s’est élevée une grave dispute : fallait-il s’attacher, pour la classifica¬"
                     HPOS="599"
                     VPOS="1782"
                     WIDTH="1322"
@@ -513,7 +513,7 @@
                     WIDTH="1363"
                     HEIGHT="59">
             <Shape><Polygon POINTS="558 1969 558 1925 1921 1925 1921 1969 1921 1984 558 1984"/></Shape>
-	    <String CONTENT="coup terrible à la vieille science de l’étymologie, cette science qui, suivant Vol-"
+	    <String CONTENT="coup terrible à la vieille science de l’étymologie, cette science qui, suivant Vol¬"
                     HPOS="558"
                     VPOS="1925"
                     WIDTH="1363"
@@ -615,7 +615,7 @@
                     WIDTH="1366"
                     HEIGHT="73">
             <Shape><Polygon POINTS="561 2247 561 2197 1921 2209 1924 2253 1921 2270 558 2270"/></Shape>
-	    <String CONTENT="immuables. On négligea donc la comparaison des mots pour ne plus guère com-"
+	    <String CONTENT="immuables. On négligea donc la comparaison des mots pour ne plus guère com¬"
                     HPOS="558"
                     VPOS="2197"
                     WIDTH="1366"

@@ -71,7 +71,7 @@
                     WIDTH="1368"
                     HEIGHT="56">
             <Shape><Polygon POINTS="555 739 555 701 1923 701 1923 739 1923 757 555 757"/></Shape>
-	    <String CONTENT="employés par cette langue, et si vous ne trouvez pas que ce soit un hors-"
+	    <String CONTENT="employés par cette langue, et si vous ne trouvez pas que ce soit un hors¬"
                     HPOS="555"
                     VPOS="701"
                     WIDTH="1368"
@@ -139,7 +139,7 @@
                     WIDTH="1359"
                     HEIGHT="59">
             <Shape><Polygon POINTS="558 929 558 888 1917 888 1917 929 1917 947 558 947"/></Shape>
-	    <String CONTENT="mêmes lois et remplace un terme défini par un terme équivalent. Dans le lan-"
+	    <String CONTENT="mêmes lois et remplace un terme défini par un terme équivalent. Dans le lan¬"
                     HPOS="558"
                     VPOS="888"
                     WIDTH="1359"
@@ -190,7 +190,7 @@
                     WIDTH="1365"
                     HEIGHT="61">
             <Shape><Polygon POINTS="558 1064 558 1023 1914 1029 1917 1069 1911 1084 552 1078"/></Shape>
-	    <String CONTENT="adoptant l’idée, adoptent aussi le terme. En général, c’est le latin qui a com-"
+	    <String CONTENT="adoptant l’idée, adoptent aussi le terme. En général, c’est le latin qui a com¬"
                     HPOS="552"
                     VPOS="1023"
                     WIDTH="1365"
@@ -360,7 +360,7 @@
                     WIDTH="1374"
                     HEIGHT="62">
             <Shape><Polygon POINTS="558 1534 558 1493 1923 1499 1926 1540 1920 1555 552 1549"/></Shape>
-	    <String CONTENT="et retrouvent alors la réalité toute nue, la réalité vivante. Le tout est de pos-"
+	    <String CONTENT="et retrouvent alors la réalité toute nue, la réalité vivante. Le tout est de pos¬"
                     HPOS="552"
                     VPOS="1493"
                     WIDTH="1374"
@@ -445,7 +445,7 @@
                     WIDTH="1371"
                     HEIGHT="59">
             <Shape><Polygon POINTS="552 1803 552 1762 1923 1762 1923 1803 1923 1821 552 1821"/></Shape>
-	    <String CONTENT="adresser. L’allemand est une langue polysynthétique, donnant à ceux qui l’em-"
+	    <String CONTENT="adresser. L’allemand est une langue polysynthétique, donnant à ceux qui l’em¬"
                     HPOS="552"
                     VPOS="1762"
                     WIDTH="1371"
@@ -530,7 +530,7 @@
                     WIDTH="1377"
                     HEIGHT="68">
             <Shape><Polygon POINTS="552 2034 552 1984 1920 1996 1923 2040 1917 2052 546 2046"/></Shape>
-	    <String CONTENT="l’obscurité, mais qui paraît telle à ceux qu’une longue habitude n’a pas fami-"
+	    <String CONTENT="l’obscurité, mais qui paraît telle à ceux qu’une longue habitude n’a pas fami¬"
                     HPOS="546"
                     VPOS="1984"
                     WIDTH="1377"
@@ -700,7 +700,7 @@
                     WIDTH="1330"
                     HEIGHT="61">
             <Shape><Polygon POINTS="602 2633 602 2590 1923 2595 1926 2636 1920 2651 596 2648"/></Shape>
-	    <String CONTENT="Au premier abord, on pourrait avoir compris qu’il s’agissait d’une défi-"
+	    <String CONTENT="Au premier abord, on pourrait avoir compris qu’il s’agissait d’une défi¬"
                     HPOS="596"
                     VPOS="2590"
                     WIDTH="1330"

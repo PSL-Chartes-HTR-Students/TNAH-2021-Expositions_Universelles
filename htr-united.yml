@@ -1,0 +1,57 @@
+schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
+title: Projet Exposition universelle de 1878
+url: 'https://github.com/PSL-Chartes-HTR-Students/TNAH-2021-Expositions_Universelles'
+project-name: >
+    ENC - Bonnes pratiques du developpement collaboratif'
+
+authors:
+    - name: 'Christensen'
+      surname: 'Kelly'
+      roles:
+      - 'transcriber'
+    - name: 'Davoury'
+      surname: 'Baudoin'
+      roles:
+      - 'transcriber'
+    - name: 'Anahi'
+      surname: 'Haedo'
+      roles:
+      - 'transcriber'
+    - name: 'Kervegan'
+      surname: 'Paul'
+      roles:
+      - 'transcriber'
+    - name: 'Sanchez-Oeconomo'
+      surname: 'Esteban'
+      roles:
+      - 'transcriber'
+description: >
+  Le Congrès international des sciences ethnographiques de 1878 a eu lieu à l’occasion de l'Exposition universelle de 1878, à Paris. Édité en 1881 par l'Imprimerie nationale, le compte rendu de ce congrès a été mis à disposition par le Conservatoire numérique des Arts et Métiers.
+language:
+  - fra
+script: 
+  - Latn
+  - Grek
+  - Deva
+  - Arab
+script-type: 'only-typed'
+time: 
+  notBefore: "1881"
+  notAfter: "1881"
+hands: 
+  count: '1'
+  precision: 'exact'
+license:
+  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
+format: 'Alto-XML'
+citation-file-link: 'https://raw.githubusercontent.com/PSL-Chartes-HTR-Students/TNAH-2021-Expositions_Universelles/main/CITATION.cff'
+transcription-guidelines: Diplomatique, mais pas allographétique.
+volume:
+- count: 2610
+  metric: "lines"
+- count: 56
+  metric: "files"
+- count: 158
+  metric: "regions"
+- count: 154394
+  metric: "characters"

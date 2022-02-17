@@ -5,7 +5,7 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>Les_villes_nègres_et_leur_commerce.pdf_page_4.png</fileName>
+      <fileName>ANAHI_Les_villes_nègres_et_leur_commerce.pdf_page_4.png</fileName>
       
     </sourceImageInformation>
   </Description>
@@ -649,7 +649,7 @@
                     WIDTH="1304"
                     HEIGHT="137">
             <Shape><Polygon POINTS="602 2356 599 2242 1847 2248 1903 2350 1900 2376 602 2379"/></Shape>
-	    <String CONTENT="(3) Mourad, Gemälde von der Ruste von Guinea, 1805-1809 (Weimar, 1824), p. 206; Dun-"
+	    <String CONTENT="(3) Mourad, Gemälde von der Ruste von Guinea, 1805-1809 (Weimar, 1824), p. 206; Dun¬"
                     HPOS="599"
                     VPOS="2242"
                     WIDTH="1304"
@@ -819,7 +819,7 @@
                     WIDTH="1318"
                     HEIGHT="64">
             <Shape><Polygon POINTS="602 2727 602 2692 1914 2695 1917 2733 1914 2756 599 2756"/></Shape>
-	    <String CONTENT="(8) Denham, Clapperton and Oudney, Narrative of travels in Nord and Central Africa, 1822-"
+	    <String CONTENT="(8) Denham, Clapperton and Oudney, Narrative of travels in Nord and Central Africa, 1822¬"
                     HPOS="599"
                     VPOS="2692"
                     WIDTH="1318"

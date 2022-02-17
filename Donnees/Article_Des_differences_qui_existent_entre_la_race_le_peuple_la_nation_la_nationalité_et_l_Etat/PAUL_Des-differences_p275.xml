@@ -88,7 +88,7 @@
                     WIDTH="1371"
                     HEIGHT="64">
             <Shape><Polygon POINTS="552 783 552 742 1914 751 1917 792 1911 806 546 803"/></Shape>
-	    <String CONTENT="si bien qu’on peut couper cela en morceaux; ce qui restera pourra, en se mul-"
+	    <String CONTENT="si bien qu’on peut couper cela en morceaux; ce qui restera pourra, en se mul¬"
                     HPOS="546"
                     VPOS="742"
                     WIDTH="1371"
@@ -224,7 +224,7 @@
                     WIDTH="1333"
                     HEIGHT="73">
             <Shape><Polygon POINTS="596 1192 587 1154 628 1137 628 1137 631 1137 631 1137 634 1137 1914 1148 1920 1186 1917 1204 596 1210"/></Shape>
-	    <String CONTENT="M. SCHŒBEL. Ce n’est pas l’agriculture, mais la chasse. Je demande la pa-"
+	    <String CONTENT="M. SCHŒBEL. Ce n’est pas l’agriculture, mais la chasse. Je demande la pa¬"
                     HPOS="587"
                     VPOS="1137"
                     WIDTH="1333"
@@ -360,7 +360,7 @@
                     WIDTH="1327"
                     HEIGHT="61">
             <Shape><Polygon POINTS="596 1566 596 1523 1923 1525 1923 1566 1923 1584 596 1584"/></Shape>
-	    <String CONTENT="M. LE PRÉSIDENT. Nous ne cherchons pas à indiquer les périodes succes-"
+	    <String CONTENT="M. LE PRÉSIDENT. Nous ne cherchons pas à indiquer les périodes succes¬"
                     HPOS="596"
                     VPOS="1523"
                     WIDTH="1327"
@@ -384,24 +384,7 @@
                     HEIGHT="59"></String>
           </TextLine>
 
-          
-          
-          <TextLine ID="eSc_line_84c2b0ac"
                     
-                    BASELINE="562 1615 1922 1612" 
-                    HPOS="558"
-                    VPOS="1575"
-                    WIDTH="1362"
-                    HEIGHT="56">
-            <Shape><Polygon POINTS="561 1613 558 1575 1914 1575 1920 1610 1917 1625 561 1631"/></Shape>
-	    <String CONTENT="sives de formation des races, des tribus, des nationalités. Nous cherchons à"
-                    HPOS="558"
-                    VPOS="1575"
-                    WIDTH="1362"
-                    HEIGHT="56"></String>
-          </TextLine>
-
-          
           
           <TextLine ID="eSc_line_3db18499"
                     
@@ -649,7 +632,7 @@
                     WIDTH="1374"
                     HEIGHT="61">
             <Shape><Polygon POINTS="552 2344 552 2303 1926 2303 1926 2344 1926 2359 552 2364"/></Shape>
-	    <String CONTENT="je vous parlais tout à l’heure, sont formés d’une même race. Dans les so-"
+	    <String CONTENT="je vous parlais tout à l’heure, sont formés d’une même race. Dans les so¬"
                     HPOS="552"
                     VPOS="2303"
                     WIDTH="1374"
@@ -768,7 +751,7 @@
                     WIDTH="1365"
                     HEIGHT="58">
             <Shape><Polygon POINTS="561 2671 561 2631 1926 2631 1926 2671 1926 2689 561 2689"/></Shape>
-	    <String CONTENT="une fonction; il représente une fonction correspondant en biologie à l’inner-"
+	    <String CONTENT="une fonction; il représente une fonction correspondant en biologie à l’inner¬"
                     HPOS="561"
                     VPOS="2631"
                     WIDTH="1365"
